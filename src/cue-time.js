@@ -107,22 +107,29 @@ export function buildTimeline(song) {
   return items;
 }
 
-// 시간 계산이 가능한 콜을 시간 순으로. [{ index, time }]
+export const PREVIEW_SEC = 1.5;
+const MIN_NOW_SEC = 1.5;
+const SAME_TIME_SEC = 0.05;
+
+// 시간 계산이 가능한 콜을 시간 순으로. [{ index, time, until }]
+// until: "지금" 표시를 끝낼 가사 시간. 콜 이후 처음 시작하는 시간 있는 줄의 t이고,
+// 최소 MIN_NOW_SEC는 보여준다. 뒤에 줄이 없으면 Infinity.
 export function timedCues(song) {
+  const lines = song.lines ?? [];
   const out = [];
   (song.cues ?? []).forEach((cue, index) => {
-    const time = cueTime(cue, song.lines ?? []);
-    if (time !== null) out.push({ index, time });
+    const time = cueTime(cue, lines);
+    if (time === null) return;
+    const nextLine = lines.find((l) => isNum(l.t) && l.t > time);
+    const until = nextLine ? Math.max(nextLine.t, time + MIN_NOW_SEC) : Infinity;
+    out.push({ index, time, until });
   });
   return out.sort((a, b) => a.time - b.time || a.index - b.index);
 }
 
-export const PREVIEW_SEC = 1.5;
-const SAME_TIME_SEC = 0.05;
-
 // 콜 표시 영역 상태.
 // next: 1.5초 안에 다가오는 콜 묶음, now: 마지막으로 발동한 콜 묶음.
-// "지금" 상태는 다음 콜 예고가 시작될 때까지 유지한다.
+// "지금" 상태는 다음 가사 줄이 시작되거나(until) 다음 콜 예고가 시작되면 끝난다.
 export function cueState(timed, now) {
   let firstFuture = timed.findIndex((c) => c.time > now);
   if (firstFuture === -1) firstFuture = timed.length;
@@ -142,5 +149,6 @@ export function cueState(timed, now) {
     ? group(firstFuture, 1)
     : [];
   const fired = group(firstFuture - 1, -1);
-  return { next, now: next.length ? [] : fired };
+  const active = fired.length && now < Math.max(...fired.map((c) => c.until)) ? fired : [];
+  return { next, now: next.length ? [] : active };
 }

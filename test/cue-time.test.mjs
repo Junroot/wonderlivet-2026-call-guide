@@ -74,7 +74,7 @@ test('시간 미정 콜이 첫 콜이면 맨 앞', () => {
   assert.deepEqual(order, ['c0', 'l0', 'l1', 'l2', 'l3']);
 });
 
-test('cueState: 1.5초 전 "다음", 도달하면 "지금", 다음 예고까지 유지', () => {
+test('cueState: 1.5초 전 "다음", 도달하면 "지금", 다음 예고가 시작되면 "지금" 해제', () => {
   const song = {
     lines,
     cues: [{ at: { line: 0 } }, { at: { line: 1 } }, { at: { t: null } }],
@@ -89,7 +89,25 @@ test('cueState: 1.5초 전 "다음", 도달하면 "지금", 다음 예고까지 
   const s = cueState(timed, 11.1);
   assert.deepEqual(s.next.map((c) => c.index), [1]);
   assert.deepEqual(s.now, []);
-  assert.deepEqual(cueState(timed, 30).now.map((c) => c.index), [1]);
+  assert.deepEqual(cueState(timed, 12.5).now.map((c) => c.index), [1]);
+});
+
+test('cueState: "지금"은 다음 시간 있는 가사 줄이 시작되면 해제', () => {
+  // 줄 1(12.5초) 콜은 시간 없는 줄 2를 건너뛰고 줄 3(20초)에서 끝난다
+  const timed = timedCues({ lines, cues: [{ at: { line: 1 } }] });
+  assert.deepEqual(cueState(timed, 19.9).now.map((c) => c.index), [0]);
+  assert.deepEqual(cueState(timed, 20).now, []);
+});
+
+test('cueState: 줄 시작 직전 콜도 "지금"을 최소 1.5초 보여준다', () => {
+  const timed = timedCues({ lines, cues: [{ at: { t: 19.5 } }] });
+  assert.deepEqual(cueState(timed, 20.9).now.map((c) => c.index), [0]);
+  assert.deepEqual(cueState(timed, 21).now, []);
+});
+
+test('cueState: 마지막 줄 이후 콜은 "지금"을 계속 유지', () => {
+  const timed = timedCues({ lines, cues: [{ at: { line: 3 } }] });
+  assert.deepEqual(cueState(timed, 100).now.map((c) => c.index), [0]);
 });
 
 test('cueState: 같은 시간 콜은 묶어서 보여준다', () => {
