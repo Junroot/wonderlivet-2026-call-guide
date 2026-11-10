@@ -1,0 +1,275 @@
+{
+  "festival": {
+    "name": "WONDERLIVET 2026",
+    "venue": "고양 킨텍스 제2전시장 7·8홀"
+  },
+  "days": [
+    { "date": "2026-11-20", "label": "11/20 (금)" },
+    { "date": "2026-11-21", "label": "11/21 (토)" },
+    { "date": "2026-11-22", "label": "11/22 (일)" }
+  ],
+  "lineupNote": "일자·스테이지는 setlist.fm upcoming과 나무위키 기준이고 공식 타임테이블과 대조 전이다. 모르는 값은 「미정」으로 표시한다.",
+  "artists": [
+    {
+      "id": "oral-cigarettes",
+      "name": "THE ORAL CIGARETTES",
+      "nameKo": "오랄 시가렛",
+      "date": "2026-11-20",
+      "stage": null,
+      "start": null,
+      "end": null,
+      "rituals": [
+        {
+          "name": "4本打ち (욘혼우치)",
+          "description": "공연 시작 의식. 보컬 야마나카 타쿠야가 「1本打って」라고 하면 박수 1번, 「ただいまより」 뒤 「2本打って」에 박수 2번, 「THE ORAL CIGARETTESの」 뒤 「3本打って」에 박수 3번, 「4本打って」에 박수 4번을 친 뒤 첫 곡이 시작된다. 템포가 빨라서 미리 영상으로 연습해 두는 것이 좋다.",
+          "sources": [
+            { "label": "kyoonlife 정석곡 가이드", "url": "https://kyoonlife.com/theoralcigarettes-live-fes-teibankyoku-guide/" },
+            { "label": "kaerururu 4本打ち 설명", "url": "https://kaerururu.com/theoralcigarettes-live-kimari-398" },
+            { "label": "4本打ち集 ① (팬 편집 영상)", "url": "https://youtu.be/cRYVrFKpX4A" },
+            { "label": "4本打ち集 ② (팬 편집 영상)", "url": "https://youtu.be/MmdIJk7eCBo" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suisei",
+      "name": "星街すいせい",
+      "nameKo": "호시마치 스이세이",
+      "date": "2026-11-20",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": [
+        {
+          "name": "今日もかわいい (쿄-모 카와이-)",
+          "description": "「すいちゃんは〜?」 하고 물으면 「今日もかわいい!」로 답하는 콜&리스폰스. 곡 중이 아니라 공연 전·MC 때 나온다. 공식 규칙상 스이세이 본인이 유도할 때만 해야 하고, 공연 시작 전에는 하지 않는다.",
+          "sources": [
+            { "label": "스이세이 공식 X (콜 규칙)", "url": "https://x.com/suisei_hosimati/status/1867547529363292470" },
+            { "label": "Real Sound 공연 리포트", "url": "https://realsound.jp/2023/02/post-1250211.html" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reona",
+      "name": "ReoNa",
+      "nameKo": "레오나",
+      "date": "2026-11-20",
+      "stage": "LIVET",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "natori",
+      "name": "natori",
+      "nameKo": "나토리",
+      "date": "2026-11-20",
+      "stage": "LIVET",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "clan-queen",
+      "name": "CLAN QUEEN",
+      "nameKo": "클랜 퀸",
+      "date": "2026-11-20",
+      "stage": null,
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "conton-candy",
+      "name": "Conton Candy",
+      "nameKo": "콘톤 캔디",
+      "date": "2026-11-20",
+      "stage": null,
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "jo0ji",
+      "name": "jo0ji",
+      "nameKo": "조지",
+      "date": "2026-11-20",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "nishina",
+      "name": "nishina",
+      "nameKo": "니시나",
+      "date": "2026-11-20",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "alexandros",
+      "name": "[Alexandros]",
+      "nameKo": "알렉산드로스",
+      "date": "2026-11-21",
+      "stage": null,
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "roselia",
+      "name": "Roselia",
+      "nameKo": "로젤리아",
+      "date": "2026-11-21",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "sambomaster",
+      "name": "SAMBOMASTER",
+      "nameKo": "삼보마스터",
+      "date": "2026-11-21",
+      "stage": null,
+      "start": null,
+      "end": null,
+      "rituals": [
+        {
+          "name": "全員優勝! (젠인 유-쇼-)",
+          "description": "최근 공연(2024 부도칸, FUJI ROCK '25, 2026 원맨)의 고정 구호. 보컬 야마구치가 외치면 다 같이 「全員優勝!」를 따라 외친다. 그 밖에도 MC 중에 즉석 구호를 만들어 따라 외치게 하는 경우가 많으니, 들리는 대로 따라 외치면 된다.",
+          "sources": [
+            { "label": "FUJI ROCK '25 리포트", "url": "https://fujirockexpress.net/25/p_1064.html" },
+            { "label": "Real Sound 2026 원맨 리포트", "url": "https://realsound.jp/2026/05/post-2389691.html/amp" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frederic",
+      "name": "FREDERIC",
+      "nameKo": "프레데릭",
+      "date": "2026-11-21",
+      "stage": null,
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "mygo",
+      "name": "MyGO!!!!!",
+      "nameKo": "마이고",
+      "date": "2026-11-21",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "chico-honeyworks",
+      "name": "CHiCO with HoneyWorks",
+      "nameKo": "치코 위드 허니웍스",
+      "date": "2026-11-21",
+      "stage": "LIVET",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "kyary",
+      "name": "きゃりーぱみゅぱみゅ",
+      "nameKo": "캬리 파뮤파뮤",
+      "lrclibName": "Kyary Pamyu Pamyu",
+      "date": "2026-11-21",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "chevon",
+      "name": "Chevon",
+      "nameKo": "셰본",
+      "date": "2026-11-22",
+      "stage": null,
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "qwer",
+      "name": "QWER",
+      "nameKo": "QWER",
+      "date": "2026-11-22",
+      "stage": null,
+      "start": "14:50",
+      "end": null,
+      "rituals": [
+        {
+          "name": "멤버 이름 연호",
+          "description": "K-pop식 응원법. 곡 전주 등에서 멤버 이름을 순서대로 외친다: 「홍지혜! 이아희! 장나영! 이시연!」. 곡별 위치는 각 곡 화면의 콜을 따른다.",
+          "sources": [
+            { "label": "QWER 공식 응원법 모음 (YouTube)", "url": "https://www.youtube.com/watch?v=ye2UyJ9c_LM" },
+            { "label": "브런치 팬 후기", "url": "https://brunch.co.kr/@joogangl/729" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sweet-steady",
+      "name": "SWEET STEADY",
+      "nameKo": "스위트 스테디",
+      "date": "2026-11-22",
+      "stage": "LIVET",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "yuzu",
+      "name": "ゆず",
+      "nameKo": "유즈",
+      "lrclibName": "YUZU",
+      "date": "2026-11-22",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "ai-otsuka",
+      "name": "大塚 愛",
+      "nameKo": "오오츠카 아이",
+      "lrclibName": "Ai Otsuka",
+      "date": "2026-11-22",
+      "stage": "LIVET",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "candy-tune",
+      "name": "CANDY TUNE",
+      "nameKo": "캔디 튠",
+      "date": "2026-11-22",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": []
+    },
+    {
+      "id": "eill",
+      "name": "eill",
+      "nameKo": "에일",
+      "date": "2026-11-22",
+      "stage": "WONDER",
+      "start": null,
+      "end": null,
+      "rituals": []
+    }
+  ]
+}

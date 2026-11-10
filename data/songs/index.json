@@ -1,0 +1,19 @@
+{
+  "songs": [
+    {
+      "id": "oral-kyouran-hey-kids",
+      "artistId": "oral-cigarettes",
+      "title": "狂乱 Hey Kids!!",
+      "order": 1,
+      "path": "data/songs/oral-cigarettes/oral-kyouran-hey-kids.json",
+      "cueTypes": [
+        "call",
+        "clap"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    }
+  ]
+}

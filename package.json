@@ -1,0 +1,9 @@
+{
+  "name": "wonderlivet-2026-call-guide",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "test": "node --test"
+  }
+}
