@@ -209,8 +209,156 @@
       "ko": null
     }
   ],
-  "cues": [],
+  "cues": [
+    {
+      "type": "call",
+      "text": "홍지혜! 이아희! 장나영! 이시연!",
+      "note": "공식 응원법에 있던 인트로 멤버 이름 연호. 디시 댓글로는 요즘 현장에서 거의 안 하고 어이어이바위게에도 없음(선택). 문구·위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": -1
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "않을걸",
+      "note": "줄 끝 「않을걸」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 7,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "날아",
+      "note": "후렴 끝 「날아」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 11,
+        "offset": 2.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "We are! We are!",
+      "note": "이 곡의 핵심 응원. 다음 줄 「이것도 나야 나야 나」 직전, 약 1초 간격으로 두 번",
+      "at": {
+        "line": 11,
+        "offset": 4.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "We are! We are!",
+      "note": "「이런 내가 궁금하니」 직전",
+      "at": {
+        "line": 12,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "call",
+      "text": "We are! We are!",
+      "note": "「뭘 해도 나야 나야 나」 직전",
+      "at": {
+        "line": 13,
+        "offset": 2.25
+      }
+    },
+    {
+      "type": "call",
+      "text": "We are! We are!",
+      "note": "「들어줘 나의 discord」 직전",
+      "at": {
+        "line": 14,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Game changer",
+      "note": "줄 끝만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 19,
+        "offset": 2.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "않을걸",
+      "note": "2절. 줄 끝만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 23,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "말해",
+      "note": "브리지 끝 「말해」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 30,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "날아",
+      "note": "마지막 후렴 끝(위치 추정)",
+      "at": {
+        "line": 34,
+        "offset": 2.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "We are! We are!",
+      "note": "「이것도 나야 나야 나」 직전",
+      "at": {
+        "line": 34,
+        "offset": 4.3
+      }
+    },
+    {
+      "type": "call",
+      "text": "We are! We are!",
+      "note": "「이런 내가 궁금하니」 직전",
+      "at": {
+        "line": 35,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "call",
+      "text": "We are! We are!",
+      "note": "「뭘 해도 나야 나야 나」 직전",
+      "at": {
+        "line": 36,
+        "offset": 2.5
+      }
+    },
+    {
+      "type": "call",
+      "text": "We are! We are!",
+      "note": "「들어줘 나의 discord」 직전",
+      "at": {
+        "line": 37,
+        "offset": 2.5
+      }
+    }
+  ],
   "sources": [
+    {
+      "label": "디시 QWER 마이너 갤러리: 「응원법 연습하는 사이트 하나 낄여왔어」 (2026-03-15, 갤러리 이용자가 만든 비공식 응원법 사이트 어이어이바위게 소개)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1775080"
+    },
+    {
+      "label": "어이어이바위게 「Discord」 응원법 페이지 (위 디시 글에서 소개한 갤러리 이용자 제작 사이트, 콘서트 모드)",
+      "url": "https://www.oioibawige.com/songs/discord"
+    },
+    {
+      "label": "디시 QWER 마이너 갤러리: 「뉴비 응원법 도움 요청!」 (2026-09-11, 댓글: 인트로 네임콜은 요즘 거의 안 하고 「위아 위아」가 핵심)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=2092582"
+    },
     {
       "label": "KPOP School 【QWER】掛け声まとめ / 응원법 모음 (영상)",
       "url": "https://www.youtube.com/watch?v=egR0PFeT2gw"

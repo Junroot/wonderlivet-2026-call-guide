@@ -234,7 +234,7 @@
       "type": "call",
       "text": "ハイ！",
       "ko": "하이!",
-      "note": "가사 끝 (ハイ！) 부분. 이후 같은 표시가 있는 줄도 모두 같음",
+      "note": "가사 끝 (ハイ！) 부분을 다 같이 외친다. 같은 표시가 있는 줄은 모두 같음",
       "at": {
         "line": 1,
         "offset": 4.0
@@ -242,65 +242,47 @@
     },
     {
       "type": "call",
-      "text": "うりゃおい ×4 → 👏×5 しゃーいくぞ! → タイガー！ファイヤー！サイバー！ファイバー！ダイバー！バイバー！ジャージャー！",
-      "ko": "우랴오이 ×4 → 박수 5번 샤-이쿠조! → 타이가-! 파이야-! 사이바-! 파이바-! 다이바-! 바이바-! 쟈-쟈-!",
-      "note": "첫 후렴 뒤 간주의 MIX",
+      "text": "어이! 어이! 어이! 어이!",
+      "note": "첫 후렴 뒤 간주. 「어이」 4번씩 세 묶음",
       "at": {
-        "t": null,
-        "afterLine": 1
+        "t": 27.93
       }
     },
     {
       "type": "call",
-      "text": "CHiCO!",
-      "ko": "치코!",
-      "note": "원문은 「○○!」(최애 이름). CHiCO 무대라 「CHiCO!」로 적음. 줄 끝에서 외친다",
+      "text": "어이! 어이! 어이! 어이!",
+      "at": {
+        "t": 30.54
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이! 어이! 어이! 어이!",
+      "at": {
+        "t": 33.84
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "줄 내내 박자에 맞춰 박수",
       "at": {
         "line": 2,
-        "offset": 4.0
+        "offset": 0
       }
     },
     {
-      "type": "call",
-      "text": "超絶カワイイ CHiCO!",
-      "ko": "쵸-제츠 카와이- 치코!",
+      "type": "clap",
+      "text": "박수",
       "at": {
         "line": 3,
-        "offset": 4.0
-      }
-    },
-    {
-      "type": "call",
-      "text": "CHiCO!",
-      "ko": "치코!",
-      "at": {
-        "line": 4,
-        "offset": 4.0
-      }
-    },
-    {
-      "type": "call",
-      "text": "超絶カワイイ CHiCO!",
-      "ko": "쵸-제츠 카와이- 치코!",
-      "at": {
-        "line": 5,
-        "offset": 4.0
-      }
-    },
-    {
-      "type": "call",
-      "text": "CHiCO! CHiCO! …",
-      "ko": "치코! 치코! …",
-      "note": "이 줄과 다음 줄 동안 이름을 연달아 외친다",
-      "at": {
-        "line": 6,
         "offset": 0
       }
     },
     {
       "type": "call",
       "text": "You're my angel!!",
-      "note": "가사의 괄호 부분을 함께 외친다",
+      "note": "가사의 괄호 부분을 다 같이 외친다",
       "at": {
         "line": 9,
         "offset": 0
@@ -326,54 +308,46 @@
     },
     {
       "type": "call",
-      "text": "うりゃおい ×4 → 👏×5 しゃーいくぞ! → 虎！火！人造！繊維！海女！振動！化繊！",
-      "ko": "우랴오이 ×4 → 박수 5번 샤-이쿠조! → 토라! 히! 진조-! 센이! 아마! 신도-! 카센!",
-      "note": "2번째 후렴 뒤 간주의 일본어 MIX",
+      "text": "어이! 어이! 어이! 어이!",
+      "note": "2번째 후렴 뒤 간주. 「어이」 4번씩 세 묶음",
       "at": {
-        "t": null,
-        "afterLine": 15
+        "t": 102.37
       }
     },
     {
       "type": "call",
-      "text": "CHiCO!",
-      "ko": "치코!",
+      "text": "어이! 어이! 어이! 어이!",
+      "at": {
+        "t": 104.77
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이! 어이! 어이! 어이!",
+      "at": {
+        "t": 107.38
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "줄 내내 박자에 맞춰 박수",
       "at": {
         "line": 16,
-        "offset": 4.0
+        "offset": 0
       }
     },
     {
-      "type": "call",
-      "text": "超絶カワイイ CHiCO!",
-      "ko": "쵸-제츠 카와이- 치코!",
+      "type": "clap",
+      "text": "박수",
       "at": {
         "line": 17,
-        "offset": 4.0
-      }
-    },
-    {
-      "type": "call",
-      "text": "CHiCO!",
-      "ko": "치코!",
-      "at": {
-        "line": 18,
-        "offset": 4.0
-      }
-    },
-    {
-      "type": "call",
-      "text": "超絶カワイイ CHiCO!",
-      "ko": "쵸-제츠 카와이- 치코!",
-      "at": {
-        "line": 19,
-        "offset": 4.0
+        "offset": 0
       }
     },
     {
       "type": "call",
       "text": "You're my angel!!",
-      "note": "가사의 괄호 부분을 함께 외친다",
       "at": {
         "line": 23,
         "offset": 0
@@ -400,7 +374,6 @@
     {
       "type": "call",
       "text": "You're my angel!!",
-      "note": "가사의 괄호 부분을 함께 외친다",
       "at": {
         "line": 36,
         "offset": 0
@@ -423,9 +396,47 @@
         "line": 42,
         "offset": 4.0
       }
+    },
+    {
+      "type": "call",
+      "text": "어이! 어이! 어이! 어이!",
+      "note": "마지막 후렴 뒤 아웃트로. 「어이」 4번씩 세 묶음",
+      "at": {
+        "t": 251.44
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이! 어이! 어이! 어이!",
+      "at": {
+        "t": 253.93
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이! 어이! 어이! 어이!",
+      "at": {
+        "t": 256.94
+      }
     }
   ],
   "sources": [
+    {
+      "label": "My One Ticket 「나, 아이돌 선언」 호응가이드 (디시 일본 가수 갤러리 이용자가 만든 콜가이드 사이트, 같은 공식 영상 기준)",
+      "url": "https://myoneticket.ing/artists/cwhw/songs/watashiidolsengen/guides/933"
+    },
+    {
+      "label": "디시 일본 가수 갤러리 「콜가이드 만드는 사이트 업데이트(원더리벳 콜가이드 추가)」 (2026-10-29, My One Ticket 제작자 글)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=859624"
+    },
+    {
+      "label": "디시 일본 가수 갤러리 「허니웍스 라이브 가본사람 질문」 댓글 (2026-09-11, 믹스콜은 안 함)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=790790"
+    },
+    {
+      "label": "디시 일본 가수 갤러리 「진심 올해 본 단콘중 제일 재밌었던게 치코하니임」 댓글 (2026-08-27, You're my angel 같은 콜)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=767009"
+    },
     {
       "label": "ameblo 「私、アイドル宣言」 콜 정리 (팬, 「한 가지 예」)",
       "url": "https://ameblo.jp/khcm-0619/entry-12791135150.html"

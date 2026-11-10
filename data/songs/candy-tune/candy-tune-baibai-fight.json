@@ -487,219 +487,430 @@
   "cues": [
     {
       "type": "call",
-      "text": "倍の倍のFIGHT 倍倍FIGHT BY CANDY TUNE",
-      "ko": "바이노 바이노 fight 바이바이 fight by CANDY TUNE",
-      "note": "괄호 줄을 멤버와 함께 외친다 (인트로)",
+      "text": "倍ーの 倍の FIGHT！ 倍倍 FIGHT！ BY CANDY TUNE！",
+      "ko": "바-이노 바이노 파이토! 바이바이 파이토! 바이 캔디튠!",
       "at": {
-        "line": 2,
-        "offset": 0
+        "line": 1,
+        "offset": 1.24
+      },
+      "note": "도입 추임새 · 倍ーの 倍の FIGHT …"
+    },
+    {
+      "type": "call",
+      "text": "倍ーの 倍の FIGHT！ 倍倍 FIGHT！ BY CANDY TUNE！",
+      "ko": "바-이노 바이노 파이토! 바이바이 파이토! 바이 캔디튠!",
+      "at": {
+        "line": 5,
+        "offset": 1.27
       }
     },
     {
       "type": "call",
-      "text": "倍の倍のFIGHT 倍倍FIGHT BY CANDY TUNE",
-      "ko": "바이노 바이노 fight 바이바이 fight by CANDY TUNE",
+      "text": "ウリャ！ オイ！ ウリャ！ オイ！ ウリャ！ オイ！ ウリャ！ オイ！ 👏 👏 👏 👏 👏 きゃんちゅーいくよっ！",
+      "ko": "우랴! 오이! 우랴! 오이! 우랴! 오이! 우랴! 오이! 박수 박수 박수 박수 박수 캰츄- 이쿠욧!",
       "at": {
-        "line": 6,
-        "offset": 0
-      }
+        "line": 7,
+        "offset": 1.31
+      },
+      "note": "인트로 MIX"
     },
     {
       "type": "call",
-      "text": "うりゃおい！×4 → 👏 👏👏👏 👏 → きゃんちゅーいくよっ！ → りのまる！なちこ！びびちゃん！なったん！こっちゃん！しーちゃん！きりちゃん！",
-      "ko": "우랴오이!×4 → 박수 → 캰츄- 이쿠욧! → 리노마루! 나치코! 비비짱! 낫탄! 콧짱! 시-짱! 키리짱!",
-      "note": "인트로 뒤 간주. 멤버 이름은 생일 순서",
+      "text": "りのまる！ なちこ！ びびちゃん！ なったん！ こっちゃん！ しーちゃん！ き り ちゃん！",
+      "ko": "리노마루! 나치코! 비비쨩! 낫탄! 콧쨩! 시-쨩! 키 리 쨩!",
       "at": {
-        "t": null,
-        "afterLine": 7
-      }
+        "t": 17.91
+      },
+      "note": "인트로 멤버 이름 콜 · 멤버: 福山梨乃, 小川奈々子, 村川緋杏, 南なつ, 立花琴未, 宮野静, 桐原美月"
     },
     {
       "type": "call",
-      "text": "あーなったん！！！",
-      "ko": "아- 낫탄!!!",
+      "text": "あー！ なったん！",
+      "ko": "아-! 낫탄!",
       "at": {
         "line": 8,
-        "offset": 1.8
-      }
+        "offset": 1.26
+      },
+      "note": "1절 なったん 파트 · 멤버: 南なつ"
     },
     {
       "type": "call",
-      "text": "あーなちこ！！！",
-      "ko": "아- 나치코!!!",
+      "text": "あー！ なちこ！",
+      "ko": "아-! 나치코!",
       "at": {
         "line": 10,
-        "offset": 1.8
-      }
+        "offset": 1.19
+      },
+      "note": "1절 なちこ 파트 · 멤버: 小川奈々子"
     },
     {
       "type": "call",
-      "text": "きーりちゃん！×4",
-      "ko": "키-리짱!×4",
+      "text": "きーりちゃん！",
+      "ko": "키-리쨩!",
+      "at": {
+        "line": 11,
+        "offset": 2.64
+      },
+      "note": "1절 きりちゃん 파트 · 멤버: 桐原美月"
+    },
+    {
+      "type": "call",
+      "text": "きーりちゃん！",
+      "ko": "키-리쨩!",
+      "at": {
+        "line": 12,
+        "offset": 1.27
+      },
+      "note": "멤버: 桐原美月"
+    },
+    {
+      "type": "call",
+      "text": "きーりちゃん！",
+      "ko": "키-리쨩!",
+      "at": {
+        "line": 12,
+        "offset": 2.64
+      },
+      "note": "멤버: 桐原美月"
+    },
+    {
+      "type": "call",
+      "text": "きーりちゃん！",
+      "ko": "키-리쨩!",
       "at": {
         "line": 13,
-        "offset": 1.8
-      }
+        "offset": 1.19
+      },
+      "note": "멤버: 桐原美月"
     },
     {
       "type": "call",
-      "text": "イェッイェッイェッタイガー！",
-      "ko": "옛 옛 옛 타이가-!",
-      "note": "후렴 직전",
+      "text": "イェッ！ イェッ！ イェッ！ タイガー！",
+      "ko": "옛! 옛! 옛! 타이가-!",
       "at": {
         "line": 15,
-        "offset": 3.0
-      }
+        "offset": 2.52
+      },
+      "note": "1절 후렴 앞"
     },
     {
       "type": "call",
-      "text": "うりゃおい！×4 → 👏 👏👏👏 👏 → きゃんちゅーいくよっ！ → りのまる！なちこ！びびちゃん！なったん！こっちゃん！しーちゃん！きりちゃん！",
-      "ko": "우랴오이!×4 → 박수 → 캰츄- 이쿠욧! → 리노마루! 나치코! 비비짱! 낫탄! 콧짱! 시-짱! 키리짱!",
-      "note": "1절 후렴 뒤 간주",
+      "text": "FIGHT！",
+      "ko": "파이토!",
       "at": {
-        "t": null,
-        "afterLine": 23
+        "line": 16,
+        "offset": 2.38
+      },
+      "note": "1절 후렴 (×2)"
+    },
+    {
+      "type": "call",
+      "text": "FIGHT！",
+      "ko": "파이토!",
+      "at": {
+        "line": 18,
+        "offset": 2.32
       }
     },
     {
       "type": "call",
-      "text": "あーしーちゃん！！！",
-      "ko": "아- 시-짱!!!",
+      "text": "ウリャ！ オイ！ ウリャ！ オイ！ ウリャ！ オイ！ ウリャ！ オイ！ 👏 👏 👏 👏 👏 きゃんちゅーいくよっ！",
+      "ko": "우랴! 오이! 우랴! 오이! 우랴! 오이! 우랴! 오이! 박수 박수 박수 박수 박수 캰츄- 이쿠욧!",
+      "at": {
+        "line": 23,
+        "offset": 2.69
+      },
+      "note": "간주 MIX"
+    },
+    {
+      "type": "call",
+      "text": "りのまる！ なちこ！ びびちゃん！ なったん！ こっちゃん！ しーちゃん！ き り ちゃん！",
+      "ko": "리노마루! 나치코! 비비쨩! 낫탄! 콧쨩! 시-쨩! 키 리 쨩!",
+      "at": {
+        "t": 72.45
+      },
+      "note": "간주 멤버 이름 콜 · 멤버: 福山梨乃, 小川奈々子, 村川緋杏, 南なつ, 立花琴未, 宮野静, 桐原美月"
+    },
+    {
+      "type": "call",
+      "text": "あー！ しーちゃん！",
+      "ko": "아-! 시-쨩!",
       "at": {
         "line": 24,
-        "offset": 1.8
-      }
+        "offset": 1.21
+      },
+      "note": "2절 しーちゃん 파트 · 멤버: 宮野静"
     },
     {
       "type": "call",
-      "text": "あーことみ！！！",
-      "ko": "아- 코토미!!!",
+      "text": "あー！ ことみ！",
+      "ko": "아-! 코토미!",
       "at": {
         "line": 26,
-        "offset": 1.8
-      }
+        "offset": 1.15
+      },
+      "note": "2절 こっちゃん 파트 · 멤버: 立花琴未"
     },
     {
       "type": "call",
-      "text": "りーのちゃん！×4",
-      "ko": "리-노짱!×4",
+      "text": "りーのちゃん！",
+      "ko": "리-노쨩!",
+      "at": {
+        "line": 27,
+        "offset": 2.61
+      },
+      "note": "2절 りのまる 파트 · 멤버: 福山梨乃"
+    },
+    {
+      "type": "call",
+      "text": "りーのちゃん！",
+      "ko": "리-노쨩!",
+      "at": {
+        "line": 28,
+        "offset": 1.21
+      },
+      "note": "멤버: 福山梨乃"
+    },
+    {
+      "type": "call",
+      "text": "りーのちゃん！",
+      "ko": "리-노쨩!",
+      "at": {
+        "line": 28,
+        "offset": 2.57
+      },
+      "note": "멤버: 福山梨乃"
+    },
+    {
+      "type": "call",
+      "text": "りーのちゃん！",
+      "ko": "리-노쨩!",
       "at": {
         "line": 29,
-        "offset": 1.8
-      }
+        "offset": 1.23
+      },
+      "note": "멤버: 福山梨乃"
     },
     {
       "type": "call",
-      "text": "イェッイェッイェッタイガー！",
-      "ko": "옛 옛 옛 타이가-!",
-      "note": "후렴 직전",
+      "text": "イェッ！ イェッ！ イェッ！ タイガー！",
+      "ko": "옛! 옛! 옛! 타이가-!",
       "at": {
         "line": 31,
-        "offset": 3.0
-      }
+        "offset": 2.55
+      },
+      "note": "2절 후렴 앞"
     },
     {
       "type": "call",
-      "text": "倍の倍のFIGHT 倍倍FIGHT BY CANDY TUNE",
-      "ko": "바이노 바이노 fight 바이바이 fight by CANDY TUNE",
-      "note": "2절 후렴 뒤 괄호 줄을 함께 외친다",
+      "text": "FIGHT！",
+      "ko": "파이토!",
       "at": {
-        "line": 42,
-        "offset": 0
-      }
+        "line": 32,
+        "offset": 2.33
+      },
+      "note": "2절 후렴 (×2)"
     },
     {
       "type": "call",
-      "text": "倍の倍のFIGHT 倍倍FIGHT BY CANDY TUNE",
-      "ko": "바이노 바이노 fight 바이바이 fight by CANDY TUNE",
+      "text": "FIGHT！",
+      "ko": "파이토!",
       "at": {
-        "line": 46,
-        "offset": 0
+        "line": 34,
+        "offset": 2.37
       }
     },
     {
       "type": "call",
-      "text": "倍倍FIGHT",
-      "ko": "바이바이 fight",
+      "text": "倍ーの 倍の FIGHT！ 倍倍 FIGHT！ BY CANDY TUNE！",
+      "ko": "바-이노 바이노 파이토! 바이바이 파이토! 바이 캔디튠!",
+      "at": {
+        "line": 41,
+        "offset": 1.22
+      },
+      "note": "2절 후렴 뒤 추임새 · 倍ーの 倍の FIGHT …"
+    },
+    {
+      "type": "call",
+      "text": "倍ーの 倍の FIGHT！ 倍倍 FIGHT！ BY CANDY TUNE！",
+      "ko": "바-이노 바이노 파이토! 바이바이 파이토! 바이 캔디튠!",
+      "at": {
+        "line": 45,
+        "offset": 1.29
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍倍FIGHT！",
+      "ko": "바이바이 파이토!",
       "at": {
         "line": 49,
-        "offset": 0.6
+        "offset": 0.58
       },
-      "note": "랩 구간. 줄 끝 괄호 「倍倍 fight」를 따라 외친다"
+      "note": "브릿지 추임새 · 倍倍FIGHT ×7"
     },
     {
       "type": "call",
-      "text": "倍倍FIGHT",
-      "ko": "바이바이 fight",
+      "text": "倍倍FIGHT！",
+      "ko": "바이바이 파이토!",
       "at": {
         "line": 51,
-        "offset": 0.6
+        "offset": 0.54
       }
     },
     {
       "type": "call",
-      "text": "倍倍FIGHT",
-      "ko": "바이바이 fight",
+      "text": "倍倍FIGHT！",
+      "ko": "바이바이 파이토!",
       "at": {
         "line": 52,
-        "offset": 2.0
+        "offset": 1.98
       }
     },
     {
       "type": "call",
-      "text": "倍倍FIGHT",
-      "ko": "바이바이 fight",
+      "text": "倍倍FIGHT！",
+      "ko": "바이바이 파이토!",
       "at": {
         "line": 54,
-        "offset": 0.6
+        "offset": 0.59
       }
     },
     {
       "type": "call",
-      "text": "倍倍FIGHT",
-      "ko": "바이바이 fight",
+      "text": "倍倍FIGHT！",
+      "ko": "바이바이 파이토!",
       "at": {
         "line": 55,
-        "offset": 2.0
+        "offset": 1.97
       }
     },
     {
       "type": "call",
-      "text": "倍倍FIGHT",
-      "ko": "바이바이 fight",
+      "text": "倍倍FIGHT！",
+      "ko": "바이바이 파이토!",
       "at": {
         "line": 57,
-        "offset": 0.6
+        "offset": 0.56
       }
     },
     {
       "type": "call",
-      "text": "倍倍FIGHT",
-      "ko": "바이바이 fight",
+      "text": "倍倍FIGHT！",
+      "ko": "바이바이 파이토!",
       "at": {
         "line": 59,
-        "offset": 0.6
+        "offset": 0.73
       }
     },
     {
       "type": "call",
-      "text": "はいっ！×4 → CANDY TUNE! ×3",
-      "ko": "하잇!×4 → 캔디 튠!×3",
-      "note": "랩 구간 뒤 간주",
+      "text": "はいっ！ ×7",
+      "ko": "하잇! ×7",
       "at": {
-        "t": null,
-        "afterLine": 61
+        "line": 61,
+        "offset": 1.56
+      },
+      "note": "라스트 후렴 앞"
+    },
+    {
+      "type": "call",
+      "text": "CANDY TUNE！",
+      "ko": "캔디튠!",
+      "at": {
+        "t": 159.72
+      }
+    },
+    {
+      "type": "call",
+      "text": "CANDY TUNE！",
+      "ko": "캔디튠!",
+      "at": {
+        "t": 161.09
+      }
+    },
+    {
+      "type": "call",
+      "text": "CANー DYー TUNE！",
+      "ko": "캔- 디- 튠!",
+      "at": {
+        "t": 162.45
+      }
+    },
+    {
+      "type": "call",
+      "text": "FIGHT！",
+      "ko": "파이토!",
+      "at": {
+        "line": 71,
+        "offset": 2.29
+      },
+      "note": "라스트 후렴 (×2)"
+    },
+    {
+      "type": "call",
+      "text": "FIGHT！",
+      "ko": "파이토!",
+      "at": {
+        "line": 73,
+        "offset": 2.21
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍 FIGHT！ 倍倍 FIGHT！ 倍倍倍 FIGHT！",
+      "ko": "바이 파이토! 바이바이 파이토! 바이바이바이 파이토!",
+      "at": {
+        "line": 77,
+        "offset": 2.95
+      }
+    },
+    {
+      "type": "call",
+      "text": "原宿から世界へ！",
+      "ko": "하라주쿠카라 세카이에!",
+      "at": {
+        "line": 79,
+        "offset": 1.27
+      },
+      "note": "아웃트로"
+    },
+    {
+      "type": "call",
+      "text": "倍 FIGHT！",
+      "ko": "바이 파이토!",
+      "at": {
+        "line": 89,
+        "offset": 0.89
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍 FIGHT！",
+      "ko": "바이 파이토!",
+      "at": {
+        "line": 91,
+        "offset": 0.84
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍 FIGHT！ ×3",
+      "ko": "바이 파이토! ×3",
+      "at": {
+        "line": 92,
+        "offset": 2.29
       }
     }
   ],
   "sources": [
     {
-      "label": "KAWAII LAB. 콜 정리 블로그 「倍倍FIGHT!」 (일본어)",
-      "url": "https://kawaiilab-call.hatenablog.com/entry/2025/04/25/021743"
+      "label": "콜렌 koruren.com 믹스콜 (倍倍FIGHT!). 공식 라이브 영상(2nd ANNIVERSARY TOUR 2025 幕張) 기준 시간을 4.4초 당겨 스튜디오 음원에 맞춤",
+      "url": "https://koruren.com/song/ct-baibai"
     },
     {
-      "label": "CANDY TUNE 공식 Cheering Guide 콜 영상",
-      "url": "https://youtu.be/2EyjXI_DkI8"
+      "label": "디시 큐티 스트릿 갤러리: 믹스콜 연습 사이트(콜렌) 소개 글 (2026-09-26)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=cutiestreet&no=165079"
     }
   ],
   "review": {

@@ -256,17 +256,87 @@
   ],
   "cues": [
     {
+      "type": "penlight",
+      "text": "노랑 (YELLOW)",
+      "color": "#ffd400",
+      "note": "공식 응원봉 색 가이드(Spectra of Nova 투어)에서 ソワレ는 YELLOW. 곡 중 펜라이트를 빙글빙글 돌린다는 후기도 있으나 구간은 미상",
+      "at": {
+        "t": 0
+      }
+    },
+    {
       "type": "call",
       "text": "Star tail!",
       "ko": "스타 테일!",
-      "note": "2:54쯤 【Star tail】 부분을 외친다. 같은 괄호가 있는 다른 줄(32·38·39번째 줄)도 콜일 수 있으나 출처는 이 부분만 언급",
+      "note": "【Star tail】 부분은 관객이 다 같이 부른다. 같은 괄호가 있는 줄은 모두 같음",
+      "at": {
+        "line": 31,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "Star tale!",
+      "ko": "스타 테일!",
+      "at": {
+        "line": 32,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "Star tail!",
+      "ko": "스타 테일!",
       "at": {
         "line": 37,
         "offset": 0
       }
+    },
+    {
+      "type": "call",
+      "text": "Star tail!",
+      "ko": "스타 테일!",
+      "at": {
+        "line": 38,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "Star tale!",
+      "ko": "스타 테일!",
+      "at": {
+        "line": 39,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "후렴 떼창 (스이세이가 유도할 때)",
+      "note": "후기에 따르면 스이세이가 같이 불러 달라고 유도할 때(2024 투어, 무도관) 후렴을 함께 불렀다. 어느 후렴인지는 출처에 없어 마지막 후렴 앞에 둠. 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 39
+      }
     }
   ],
   "sources": [
+    {
+      "label": "디시 호시마치 스이세이 갤러리 「초장문) 인생을 건 도박이었던 라이브와 성지순례 후기」 (2026-02-24, 스타~테일은 관객이 다 부름)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=hosimati&no=46214"
+    },
+    {
+      "label": "디시 일본 가수 갤러리 「리벳대비 스이세이 공식 펜라이트 가이드」 (2026-11-04, 공식 응원봉 색 이미지)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=864375"
+    },
+    {
+      "label": "디시 버튜버(키즈나 아이) 갤러리 「콘서트 후기)오늘 너무 행복했다」 (2024-11-14, 스이세이가 유도해 하이라이트 떼창)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=kizunaai&no=11027179"
+    },
+    {
+      "label": "디시 시라카미 후부키 미니 갤러리 「6th fes 후기」 (2025-03-15, 소와레에서 펜라이트 빙글빙글)",
+      "url": "https://gall.dcinside.com/mini/board/view/?id=fubuki&no=572198"
+    },
     {
       "label": "Yahoo!知恵袋 스이세이 콜 질문 답변",
       "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13325447788"

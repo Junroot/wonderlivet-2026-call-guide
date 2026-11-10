@@ -317,82 +317,338 @@
   "cues": [
     {
       "type": "call",
-      "text": "総意！",
-      "ko": "소-이!",
-      "note": "인트로에서 「総意！」를 반복해서 외친다",
+      "text": "So Free",
+      "ko": "소 프리",
       "at": {
         "line": 0,
-        "offset": 0
+        "offset": 1.95
+      },
+      "note": "인트로 · So Free"
+    },
+    {
+      "type": "call",
+      "text": "So Feel",
+      "ko": "소 필",
+      "at": {
+        "line": 1,
+        "offset": 2
       }
     },
     {
       "type": "call",
       "text": "So Free",
-      "ko": "So Free",
-      "note": "1절 A멜로. 멤버 구절 뒤에 답한다. 출처는 「So Free」라고 하지만 가사 괄호에는 「総意！」로 적혀 있어 공식 Cheering Guide 영상으로 확인 필요",
+      "ko": "소 프리",
       "at": {
-        "line": 4,
-        "offset": 1.2
-      }
-    },
-    {
-      "type": "call",
-      "text": "S・O・U・I",
-      "ko": "에스 오- 유- 아이",
-      "note": "후렴 직전. 알파벳을 한 글자씩 외친다",
-      "at": {
-        "line": 8,
-        "offset": 0
-      }
-    },
-    {
-      "type": "call",
-      "text": "Whoo!",
-      "ko": "Whoo!",
-      "note": "후렴 구절이 끊기는 곳마다. 2절부터는 「総意！」 연호도 들어간다",
-      "at": {
-        "line": 14,
-        "offset": 1.0
+        "line": 2,
+        "offset": 1.89
       }
     },
     {
       "type": "call",
       "text": "総意！",
       "ko": "소-이!",
-      "note": "멤버 이름 + 「かわいい？」마다 「総意！」로 답한다 (29번째 줄까지)",
+      "at": {
+        "line": 3,
+        "offset": 1.85
+      },
+      "note": "1절 · 総意 SOUI"
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 4,
+        "offset": 0.86
+      }
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 4,
+        "offset": 2.21
+      }
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 5,
+        "offset": 2.4
+      }
+    },
+    {
+      "type": "call",
+      "text": "総意？",
+      "ko": "소-이?",
+      "at": {
+        "line": 6,
+        "offset": 0.95
+      }
+    },
+    {
+      "type": "call",
+      "text": "総意？",
+      "ko": "소-이?",
+      "at": {
+        "line": 6,
+        "offset": 2.29
+      }
+    },
+    {
+      "type": "call",
+      "text": "S！ O！ U！ I！ ×4",
+      "ko": "에스! 오-! 유-! 아이! ×4",
+      "at": {
+        "line": 7,
+        "offset": 2.87
+      }
+    },
+    {
+      "type": "call",
+      "text": "Whoo！",
+      "ko": "후-!",
+      "at": {
+        "line": 9,
+        "offset": 1.05
+      },
+      "note": "1절 후렴 앞 · Whoo ×3"
+    },
+    {
+      "type": "call",
+      "text": "Whoo！",
+      "ko": "후-!",
+      "at": {
+        "line": 9,
+        "offset": 2.4
+      }
+    },
+    {
+      "type": "call",
+      "text": "Whoo！",
+      "ko": "후-!",
+      "at": {
+        "line": 10,
+        "offset": 1.06
+      }
+    },
+    {
+      "type": "call",
+      "text": "So Free",
+      "ko": "소 프리",
+      "at": {
+        "line": 22,
+        "offset": 1.94
+      },
+      "note": "1절 후렴 뒤 · So Free"
+    },
+    {
+      "type": "call",
+      "text": "So Feel",
+      "ko": "소 필",
+      "at": {
+        "line": 23,
+        "offset": 2.02
+      }
+    },
+    {
+      "type": "call",
+      "text": "So Free",
+      "ko": "소 프리",
+      "at": {
+        "line": 24,
+        "offset": 2.06
+      }
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 25,
+        "offset": 1.66
+      },
+      "note": "2절 · 멤버 総意"
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
       "at": {
         "line": 26,
-        "offset": 1.2
+        "offset": 0.73
+      },
+      "note": "멤버: 福山梨乃"
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 26,
+        "offset": 2.08
+      },
+      "note": "멤버: 小川奈々子"
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 27,
+        "offset": 1.03
+      },
+      "note": "멤버: 村川緋杏"
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 27,
+        "offset": 2.38
+      },
+      "note": "멤버: 南なつ"
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 28,
+        "offset": 0.98
+      },
+      "note": "멤버: 立花琴未"
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 28,
+        "offset": 2.33
+      },
+      "note": "멤버: 宮野静"
+    },
+    {
+      "type": "call",
+      "text": "総意！",
+      "ko": "소-이!",
+      "at": {
+        "line": 29,
+        "offset": 0.96
+      },
+      "note": "멤버: 桐原美月"
+    },
+    {
+      "type": "call",
+      "text": "S！ O！ U！ I！ ×2",
+      "ko": "에스! 오-! 유-! 아이! ×2",
+      "at": {
+        "line": 29,
+        "offset": 2.82
       }
     },
     {
       "type": "call",
-      "text": "S・O・U・I",
-      "ko": "에스 오- 유- 아이",
+      "text": "Whoo！",
+      "ko": "후-!",
       "at": {
-        "line": 30,
-        "offset": 0
+        "line": 31,
+        "offset": 0.7
+      },
+      "note": "2절 후렴 앞 · Whoo ×3"
+    },
+    {
+      "type": "call",
+      "text": "Whoo！",
+      "ko": "후-!",
+      "at": {
+        "line": 31,
+        "offset": 2.04
       }
     },
     {
       "type": "call",
-      "text": "総意！×4",
-      "ko": "소-이!×4",
-      "note": "「総意！」 연호 구간 (39번째 줄까지)",
+      "text": "Whoo！",
+      "ko": "후-!",
       "at": {
-        "line": 36,
-        "offset": 0
+        "line": 32,
+        "offset": 0.93
+      }
+    },
+    {
+      "type": "call",
+      "text": "総意！ ×6",
+      "ko": "소-이! ×6",
+      "at": {
+        "line": 35,
+        "offset": 3.12
+      },
+      "note": "2절 끝 · 総意 ×16"
+    },
+    {
+      "type": "call",
+      "text": "総意！ ×6",
+      "ko": "소-이! ×6",
+      "at": {
+        "line": 37,
+        "offset": 0.64
+      }
+    },
+    {
+      "type": "call",
+      "text": "総意！ ×4",
+      "ko": "소-이! ×4",
+      "at": {
+        "line": 39,
+        "offset": 0.21
+      }
+    },
+    {
+      "type": "call",
+      "text": "So Free",
+      "ko": "소 프리",
+      "at": {
+        "line": 56,
+        "offset": 1.81
+      },
+      "note": "아웃트로 · So Free"
+    },
+    {
+      "type": "call",
+      "text": "So Feel",
+      "ko": "소 필",
+      "at": {
+        "line": 57,
+        "offset": 2
+      }
+    },
+    {
+      "type": "call",
+      "text": "So Free",
+      "ko": "소 프리",
+      "at": {
+        "line": 58,
+        "offset": 2.12
       }
     }
   ],
   "sources": [
     {
-      "label": "CANDY TUNE 공식 Cheering Guide 「総意♡So Free」",
-      "url": "https://www.youtube.com/watch?v=jsL-V4TxQKQ"
+      "label": "콜렌 koruren.com 믹스콜 (総意♡So Free). 공식 라이브 영상(TOMAKOMAI MIRAI FEST 2026) 기준 시간을 7초 당겨 스튜디오 음원에 맞춤",
+      "url": "https://koruren.com/song/ct-soui"
     },
     {
-      "label": "oshikatsu.co.jp 総意♡So Free 콜 (2차 출처)",
-      "url": "https://oshikatsu.co.jp/candy-tune/call/soi-so-free/"
+      "label": "디시 큐티 스트릿 갤러리: 믹스콜 연습 사이트(콜렌) 소개 글 (2026-09-26)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=cutiestreet&no=165079"
+    },
+    {
+      "label": "CANDY TUNE 공식 Cheering Guide 「総意♡So Free」 (대조용)",
+      "url": "https://www.youtube.com/watch?v=jsL-V4TxQKQ"
     }
   ],
   "review": {

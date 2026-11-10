@@ -106,23 +106,76 @@
   ],
   "cues": [
     {
-      "type": "clap",
-      "text": "뒷박 박수",
-      "note": "인트로부터 레게풍 뒷박에 맞춰 손뼉을 치며 몸을 흔든다. 곡 전에 야마구치가 「レゲエのリズムで踊ってくれる人？」라고 묻기도 하고, 드럼 키우치의 「ハイ！ハイ！ハイ！」에 맞춰 박수가 퍼진다",
+      "type": "call",
+      "text": "(せーの) ラヴィット！",
+      "ko": "(세-노) 라빗토!",
+      "note": "곡 시작 전. 「せーの」 신호에 맞춰 「ラヴィット！」를 외치며 엄지와 검지로 'L'을 만들어 번쩍 든다 (TBS 『ラヴィット！』 오프닝 테마)",
       "at": {
         "t": null,
         "afterLine": -1
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박자에 맞춰 박수",
+      "note": "「今までのこと全てが」부터 「自分でいま決めたのさ」까지 박자에 맞춰 박수",
+      "at": {
+        "line": 2,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "ヒューマニティ！僕の生命",
+      "ko": "휴-마니티! 보쿠노 이노치",
+      "note": "줄 앞부분 「ヒューマニティ！僕の生命」만 떼창",
+      "at": {
+        "line": 16,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "ヒューマニティ！キミの生命",
+      "ko": "휴-마니티! 키미노 이노치",
+      "note": "줄 앞부분 「ヒューマニティ！キミの生命」만 떼창",
+      "at": {
+        "line": 17,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "후주 박수",
+      "note": "마지막 가사 뒤 후주에서 박자에 맞춰 박수",
+      "at": {
+        "t": null,
+        "afterLine": 17
+      }
+    },
+    {
+      "type": "call",
+      "text": "(せーの) ラヴィット！",
+      "ko": "(세-노) 라빗토!",
+      "note": "곡이 끝난 뒤 다시 「ラヴィット！」를 외치며 손으로 'L'을 만들어 번쩍 든다 (위치 확인 필요)",
+      "at": {
+        "t": null,
+        "afterLine": 17
       }
     }
   ],
   "sources": [
     {
-      "label": "adorehack 삼보마스터 정석곡 20선 (일본어)",
-      "url": "https://adorehack.com/article/sambomaster-live-songs/"
+      "label": "디시 삼보마스터 갤러리: 노려라 전원우승! 삼보마스터 콜가이드 & 예상 셋리 (2026-09-16, 이미지 콜표: 빨강=떼창, 곡 전후 'L' 핸드사인)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=sambomaster&no=41"
     },
     {
-      "label": "BARKS 京都大作戦 2026 리포트",
-      "url": "https://barks.jp/news/1075926/"
+      "label": "디시 일본 가수 갤러리: 같은 콜가이드 교차 게시 (2026-09-16)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=796982"
+    },
+    {
+      "label": "콜가이드에 첨부된 VIVA LA ROCK 2025 'L' 핸드사인 쇼츠 (YouTube)",
+      "url": "https://youtube.com/shorts/dM-q_CoMB_I"
     }
   ],
   "review": {

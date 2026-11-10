@@ -326,17 +326,96 @@
   ],
   "cues": [
     {
+      "type": "penlight",
+      "text": "분홍 (PINK)",
+      "color": "#ff5fae",
+      "note": "공식 응원봉 색 가이드(무도관 SuperNova, Spectra of Nova 투어)에서 ビビデバ는 PINK",
+      "at": {
+        "t": 0
+      }
+    },
+    {
       "type": "singalong",
       "text": "Bibbidi bobbidi boowa",
-      "ko": "비비디 바비디 부-와",
-      "note": "간주. 다 같이 「bibbidi bobbidi boowa」를 부르며 춤춘다 (44번째 줄 반복까지)",
+      "ko": "비비디 바비디 부와",
+      "note": "「皆皆 御唱和あれ！」 다음 후렴. 다 같이 부르고 안무에 맞춰 응원봉을 빙글빙글 돌린다 (다음 줄까지). 디시에서는 스이세이와 주고받는 콜 앤 리스폰스로 소개",
+      "at": {
+        "line": 17,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Bibbidi bobbidi boowa",
+      "ko": "비비디 바비디 부와",
+      "note": "다 같이 부르고 안무에 맞춰 응원봉을 빙글빙글 돌린다 (다음 줄까지)",
+      "at": {
+        "line": 21,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Bibbidi bobbidi boowa",
+      "ko": "비비디 바비디 부와",
+      "note": "간주 구간. 스이세이가 관객을 지휘하면 다 같이 부르며 춤춘다. 안무에 맞춰 응원봉을 빙글빙글 돌린다 (다음 줄까지)",
       "at": {
         "line": 41,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Bibbidi bobbidi boowa",
+      "ko": "비비디 바비디 부와",
+      "note": "간주 구간 두 번째 반복 (다음 줄까지)",
+      "at": {
+        "line": 43,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Bibbidi bobbidi boowa",
+      "ko": "비비디 바비디 부와",
+      "note": "마지막 후렴. 다 같이 부르고 안무에 맞춰 응원봉을 빙글빙글 돌린다 (다음 줄까지)",
+      "at": {
+        "line": 52,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Bibbidi bobbidi boowa",
+      "ko": "비비디 바비디 부와",
+      "note": "다음 줄까지",
+      "at": {
+        "line": 56,
         "offset": 0
       }
     }
   ],
   "sources": [
+    {
+      "label": "디시 일본 가수 갤러리 「리벳대비 스이세이 공식 펜라이트 가이드」 (2026-11-04, 공식 응원봉 색 이미지)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=864375"
+    },
+    {
+      "label": "디시 버튜버(키즈나 아이) 갤러리 「스이짱 라이브투어 사이타마 직관 후기」 (2024-11-15, 비비디 바비디 부와에서 안무 맞춰 응원봉, 관객 지휘)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=kizunaai&no=11028114"
+    },
+    {
+      "label": "디시 시라카미 후부키 미니 갤러리 「6th fes 후기」 (2025-03-15, 비비데바는 응원봉을 빙글빙글 돌린다)",
+      "url": "https://gall.dcinside.com/mini/board/view/?id=fubuki&no=572198"
+    },
+    {
+      "label": "디시 호시마치 스이세이 갤러리 「리벳에서 떼창 나오면 무슨노래가 나올까」 (2026-10-02, 비비데바는 콜 앤 리스폰스)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=hosimati&no=49527"
+    },
+    {
+      "label": "디시 버튜버(키즈나 아이) 갤러리 「스이짱 비비데바때 촬영 때려치고 공연 집중했는데」 (2026-11-07, 비비디바비디부와 같이 춤추기)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=kizunaai&no=13371391"
+    },
     {
       "label": "アニメ!アニメ! 3rd 라이브 공식 리포트 (2024-11)",
       "url": "https://animeanime.jp/article/2024/11/20/87774.html"

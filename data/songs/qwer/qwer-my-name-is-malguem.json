@@ -243,25 +243,196 @@
     {
       "type": "call",
       "text": "홍지혜! 이아희! 장나영! 이시연!",
-      "note": "멤버 이름 연호. 출처에는 응원이 이름 연호로 「시작한다」고만 있어 1절 전 간주에 둠(위치 추정)",
+      "note": "첫 후렴 뒤 간주의 멤버 이름 연호(1번째). 약 0.8초 간격",
       "at": {
-        "t": null,
-        "afterLine": 1
+        "line": 1,
+        "offset": 4.65
       }
     },
     {
       "type": "call",
-      "text": "띠리리릿띠!",
-      "note": "팬들이 만든 콜. 출처에 구간이 없어 「내일은 맑음」 뒤에 둠(위치 추정)",
+      "text": "홍지혜! 이아희! 장나영! 이시연!",
+      "note": "멤버 이름 연호(2번째)",
       "at": {
-        "t": null,
-        "afterLine": 21
+        "line": 1,
+        "offset": 8.0
+      }
+    },
+    {
+      "type": "call",
+      "text": "Q! W! E! R!",
+      "note": "1절 직전",
+      "at": {
+        "line": 1,
+        "offset": 15.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "띠리리띠띠",
+      "note": "「표정을 보니 말이야」 뒤. 공식 응원법에는 없던 팬 응원인데 퍼져서 멤버들도 인정한 필수 응원이 됨(디시 2026-09-11 글)",
+      "at": {
+        "line": 3,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "call",
+      "text": "띠띠띠리",
+      "note": "「얼마나 놀랐는지 몰라」 뒤. 앞의 「띠리리띠띠」와 짝",
+      "at": {
+        "line": 5,
+        "offset": 2.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "안아줘 … 알아줘",
+      "note": "「날 안아줘 좀 알아줘」에서 「안아줘」와 「알아줘」만 같이 부른다",
+      "at": {
+        "line": 8,
+        "offset": 0.3
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "간직했다",
+      "note": "줄 끝 「간직했다」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 11,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "어쩌다",
+      "note": "후렴 첫 단어",
+      "at": {
+        "line": 14,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "꾹꾹",
+      "note": "줄 첫 단어",
+      "at": {
+        "line": 16,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "그러다",
+      "note": "줄 첫 단어",
+      "at": {
+        "line": 18,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "내일은 맑음",
+      "note": "멤버와 같이 부른다",
+      "at": {
+        "line": 21,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "걱정 마",
+      "note": "2절. 줄 끝 「걱정 마」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 23,
+        "offset": 2.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "안아줘 … 사랑해 줘",
+      "note": "「날 안아줘 아니 사랑해줘」에서 「안아줘」와 「사랑해 줘」만 같이 부른다",
+      "at": {
+        "line": 24,
+        "offset": 0.3
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "간직했다",
+      "note": "2절. 줄 끝만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 27,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "어쩌다",
+      "note": "2절 후렴 첫 단어",
+      "at": {
+        "line": 30,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "꾹꾹",
+      "note": "줄 첫 단어",
+      "at": {
+        "line": 32,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "그러다",
+      "note": "줄 첫 단어",
+      "at": {
+        "line": 34,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "툭툭",
+      "note": "브리지. 줄 첫 단어",
+      "at": {
+        "line": 39,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "그러다",
+      "note": "마지막 후렴 첫 단어",
+      "at": {
+        "line": 41,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "꾹꾹",
+      "note": "줄 첫 단어",
+      "at": {
+        "line": 43,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "내 이름 맑음",
+      "note": "마지막 줄을 같이 부른다",
+      "at": {
+        "line": 44,
+        "offset": 0
       }
     },
     {
       "type": "call",
       "text": "어이! 어이!",
-      "note": "시연의 마지막 기타 리프에 맞춰 외친다",
+      "note": "시연의 마지막 기타 리프에 맞춰 외친다. 이전 출처(브런치) 내용으로, 디시 쪽 자료(어이어이바위게)에는 없음. 위치 확인 필요",
       "at": {
         "t": null,
         "afterLine": 44
@@ -270,16 +441,24 @@
   ],
   "sources": [
     {
+      "label": "디시 QWER 마이너 갤러리: 「응원법 연습하는 사이트 하나 낄여왔어」 (2026-03-15, 갤러리 이용자가 만든 비공식 응원법 사이트 어이어이바위게 소개)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1775080"
+    },
+    {
+      "label": "어이어이바위게 「내 이름 맑음」 응원법 페이지 (위 디시 글에서 소개한 갤러리 이용자 제작 사이트, 콘서트 모드)",
+      "url": "https://www.oioibawige.com/songs/my-name-is-malguem"
+    },
+    {
+      "label": "디시 QWER 마이너 갤러리: 「맑음이 응원법에 di-ri-ri-di-ri 유튭의 폐해입니다」 (2026-09-11, 띠리리띠띠가 비공식에서 퍼진 응원이라는 설명)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=2092540"
+    },
+    {
+      "label": "디시 QWER 마이너 갤러리: 「단콘서 꼭 해야할 응원법 다들 알지?」 (2026-09-11, 띠리리띠띠 떼창 인터뷰 기사 공유, 댓글에 「띠리리띠띠 띠띠띠리」)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=2091661"
+    },
+    {
       "label": "브런치 「QWER 첫 팬콘서트 후기」 (응원법 설명)",
       "url": "https://brunch.co.kr/@diggingup/49"
-    },
-    {
-      "label": "브런치 「QWER 단독 콘서트 후기」",
-      "url": "https://brunch.co.kr/@joogangl/729"
-    },
-    {
-      "label": "KPOP School 【QWER】掛け声まとめ / 응원법 모음 (영상)",
-      "url": "https://www.youtube.com/watch?v=egR0PFeT2gw"
     }
   ],
   "review": {

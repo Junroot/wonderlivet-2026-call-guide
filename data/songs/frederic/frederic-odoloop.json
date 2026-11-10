@@ -275,12 +275,11 @@
       }
     },
     {
-      "type": "singalong",
-      "text": "踊ってない夜を知らない",
-      "ko": "오돗테나이 요루오 시라나이",
-      "note": "후렴을 함께 부르며 춤춘다. 이후 후렴도 같다",
+      "type": "clap",
+      "text": "박자마다 박수",
+      "note": "1절 「踊ってるだけで退場」부터 「ロッカーに全部詰め込んだ」까지 한 박마다 박수 (한 줄에 8번)",
       "at": {
-        "line": 8,
+        "line": 0,
         "offset": 0
       }
     },
@@ -297,19 +296,47 @@
       "type": "clap",
       "text": "たんたん 박수",
       "ko": "탄탄",
-      "note": "「カスタネットがほら たんたん」의 「たんたん」에 맞춰 박수",
+      "note": "「カスタネットがほら たんたん」의 「たんたん」에 맞춰 박수 두 번",
       "at": {
         "line": 19,
         "offset": 1.6
       }
     },
     {
+      "type": "clap",
+      "text": "たたたたん たたん たん たたん たん",
+      "ko": "타타타탄 타탄 탄 타탄 탄",
+      "note": "캐스터네츠 리듬을 박수로 따라 친다 (짝짝짝 짝 짝짝 짝 짝짝)",
+      "at": {
+        "line": 20,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "기타 솔로 박수",
+      "note": "기타 솔로 내내 박자에 맞춰 박수",
+      "at": {
+        "t": null,
+        "afterLine": 34
+      }
+    },
+    {
       "type": "singalong",
       "text": "踊ってない夜を知らない",
       "ko": "오돗테나이 요루오 시라나이",
-      "note": "2절 후렴. 곡이 진행될수록 박수와 떼창이 겹친다",
       "at": {
-        "line": 23,
+        "line": 35,
+        "offset": 0
+      },
+      "note": "기타 솔로 뒤 마지막 후렴 떼창. 「気に入らない夜なんて もう僕は知らない」까지 부르고 「踊ってたい夜に泣いてるなんて」부터는 부르지 않는다"
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってない夜が気に入らない",
+      "ko": "오돗테나이 요루가 키니 이라나이",
+      "at": {
+        "line": 36,
         "offset": 0
       }
     },
@@ -317,29 +344,108 @@
       "type": "singalong",
       "text": "踊ってない夜を知らない",
       "ko": "오돗테나이 요루오 시라나이",
-      "note": "마지막 후렴. 무도관 공연에서도 이 구절 대합창",
       "at": {
-        "line": 35,
+        "line": 37,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってない夜が気に入らないよ",
+      "ko": "오돗테나이 요루가 키니 이라나이요",
+      "at": {
+        "line": 38,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "気に入らない夜なんてもう僕は知らない",
+      "ko": "키니 이라나이 요루난테 모- 보쿠와 시라나이",
+      "at": {
+        "line": 39,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってない夜がない夜なんて",
+      "ko": "오돗테나이 요루가 나이 요루난테",
+      "at": {
+        "line": 40,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってたい夜を知りたい",
+      "ko": "오돗테타이 요루오 시리타이",
+      "at": {
+        "line": 41,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってたい夜を気に入りたい",
+      "ko": "오돗테타이 요루오 키니 이리타이",
+      "at": {
+        "line": 42,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってたい夜を知りたい",
+      "ko": "오돗테타이 요루오 시리타이",
+      "at": {
+        "line": 43,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってない夜が気に入らないよ",
+      "ko": "오돗테나이 요루가 키니 이라나이요",
+      "at": {
+        "line": 44,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "気に入らない夜なんてもう僕は知らない",
+      "ko": "키니 이라나이 요루난테 모- 보쿠와 시라나이",
+      "at": {
+        "line": 45,
         "offset": 0
       }
     }
   ],
   "sources": [
     {
-      "label": "マイナビ: 「オドループ」 춤 따라 하기 확산 기사",
-      "url": "https://news.mynavi.jp/article/20151118-frederic/"
+      "label": "디시 일본 가수 갤러리: 프레데릭 응원법 (재활용) (2026-09-01, 이미지 콜표: 1절 박수, たんたん 박수, 기타 솔로 박수, 마지막 후렴 떼창)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=775298"
     },
     {
-      "label": "디시 일본 가수 갤러리: 리벳 대비 외울 춤 리스트",
+      "label": "디시 일본 가수 갤러리: 프레데릭 응원법 안내 (2025-03-09, 같은 콜표 원본. 떼창은 마지막 후렴)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=149231"
+    },
+    {
+      "label": "디시 일본 가수 갤러리: 리벳 대비 외울 춤 리스트 (2026-08-29)",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=770737"
-    },
-    {
-      "label": "Billboard JAPAN: 무도관 공연 리포트 (앵콜 「オドループ」 후렴 대합창)",
-      "url": "https://www.billboard-japan.com/d_news/detail/146833/2"
     },
     {
       "label": "adorehack 프레데릭 정석곡 20선 (일본어)",
       "url": "https://adorehack.com/article/frederic-live-songs/"
+    },
+    {
+      "label": "マイナビ: 「オドループ」 춤 따라 하기 확산 기사",
+      "url": "https://news.mynavi.jp/article/20151118-frederic/"
+    },
+    {
+      "label": "Billboard JAPAN: 무도관 공연 리포트 (앵콜 「オドループ」 후렴 대합창)",
+      "url": "https://www.billboard-japan.com/d_news/detail/146833/2"
     }
   ],
   "review": {

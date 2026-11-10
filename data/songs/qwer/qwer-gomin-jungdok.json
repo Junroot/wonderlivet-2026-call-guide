@@ -207,8 +207,8 @@
   "cues": [
     {
       "type": "call",
-      "text": "원! 투! 큐떱이알!",
-      "note": "곡을 여는 구호. 멤버들이 오른손을 높이 들면 다 같이 외친다",
+      "text": "One! Two! Q! W! E! R!",
+      "note": "곡을 여는 구호를 멤버와 함께 외친다. 멤버들이 오른손을 높이 들면 시작(브런치 설명). 어이어이바위게 표시: 따라 하는 구간",
       "at": {
         "line": 0,
         "offset": 0
@@ -216,15 +216,108 @@
     },
     {
       "type": "call",
+      "text": "어이! 어이! 어이! 어이! ×2 → 어이! 어이!",
+      "note": "인트로 반주에 맞춰 약 0.7초 간격으로 어이! 4번·4번·2번(모두 10번)",
+      "at": {
+        "line": 0,
+        "offset": 3.9
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "한 번 더 고민 중",
+      "note": "멤버와 같이 부른다",
+      "at": {
+        "line": 5,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "아, 아, 아직은",
+      "note": "멤버와 같이 부른다",
+      "at": {
+        "line": 9,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "소용돌이쳐",
+      "note": "줄 앞부분 「소용돌이쳐」만 같이 부른다",
+      "at": {
+        "line": 11,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이! ×12",
+      "note": "1절 뒤 간주. 약 0.8초 간격으로 어이! 4번씩 세 묶음(모두 12번)",
+      "at": {
+        "line": 17,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "아, 아, 아직도",
+      "note": "2절. 멤버와 같이 부른다",
+      "at": {
+        "line": 21,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "소용돌이쳐",
+      "note": "2절. 줄 앞부분만 같이 부른다",
+      "at": {
+        "line": 23,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
       "text": "좋아해!",
-      "note": "브리지 직후 클라이맥스. 이어서 시연이 「너를 많이 많이 좋아한단 말이야」를 부른다",
+      "note": "브리지 「좋아한다 너를 좋아한다 좋아해」 직후 관객만 외친다. 이어서 「너를 많이 많이 좋아한단 말이야」",
       "at": {
         "line": 32,
-        "offset": 5.0
+        "offset": 5.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "좋아해",
+      "note": "마지막 「좋아해」를 멤버와 같이 부른다",
+      "at": {
+        "line": 37,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이! ×12",
+      "note": "아웃트로. 약 0.8초 간격으로 어이! 4번씩 세 묶음(모두 12번)",
+      "at": {
+        "line": 37,
+        "offset": 1.65
       }
     }
   ],
   "sources": [
+    {
+      "label": "디시 QWER 마이너 갤러리: 「응원법 연습하는 사이트 하나 낄여왔어」 (2026-03-15, 갤러리 이용자가 만든 비공식 응원법 사이트 어이어이바위게 소개)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1775080"
+    },
+    {
+      "label": "어이어이바위게 「고민중독」 응원법 페이지 (위 디시 글에서 소개한 갤러리 이용자 제작 사이트, 콘서트 모드)",
+      "url": "https://www.oioibawige.com/songs/t-b-h"
+    },
+    {
+      "label": "디시 QWER 마이너 갤러리: 공연 후기 (2025-11-04, 「1, 2, QWER!」·「좋아해」 응원 언급)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1488564"
+    },
     {
       "label": "브런치 「QWER 첫 팬콘서트 후기」 (응원법 설명)",
       "url": "https://brunch.co.kr/@diggingup/49"

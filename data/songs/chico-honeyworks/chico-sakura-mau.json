@@ -301,16 +301,257 @@
   ],
   "cues": [
     {
+      "type": "singalong",
+      "text": "Wow oh oh",
+      "note": "줄 끝에 이어지는 「Wow oh oh」를 다 같이 부른다. 후렴마다 같음",
+      "at": {
+        "line": 0,
+        "offset": 2.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow!",
+      "note": "괄호 (Wow) 두 번을 다 같이 부른다",
+      "at": {
+        "line": 2,
+        "offset": 0.7
+      }
+    },
+    {
       "type": "motion",
-      "text": "타월 돌리기",
-      "note": "타월을 머리 위로 돌리며(타월 회전) 리듬에 맞춰 스텝, 함께 크게 따라 부른다. 고정 동작이지만 출처에 구간이 없어 첫 후렴에 붙여 둠. 이후 후렴도 같음. 타월 지참",
+      "text": "타올 돌리기",
+      "note": "인트로 뒤 간주 동안 타올을 머리 위로 돌린다",
+      "at": {
+        "t": 21.16
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "「白銀の立て髪が」부터 「記憶たどって」까지 4줄 동안 박자에 맞춰 박수",
+      "at": {
+        "line": 4,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow",
+      "note": "줄 끝",
+      "at": {
+        "line": 7,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기",
+      "note": "후렴 내내 타올을 돌린다. 이어지는 간주까지 계속",
       "at": {
         "line": 13,
         "offset": 0
       }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow oh oh",
+      "at": {
+        "line": 13,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow!",
+      "at": {
+        "line": 15,
+        "offset": 0.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Go my way",
+      "note": "줄 끝",
+      "at": {
+        "line": 16,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow oh oh",
+      "at": {
+        "line": 17,
+        "offset": 2.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow!",
+      "at": {
+        "line": 19,
+        "offset": 0.7
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기",
+      "note": "간주 동안 계속 돌린다",
+      "at": {
+        "t": 90.6
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow",
+      "note": "괄호 (Wow)",
+      "at": {
+        "line": 24,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기",
+      "note": "2번째 후렴 내내 타올을 돌린다",
+      "at": {
+        "line": 30,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow oh oh",
+      "at": {
+        "line": 30,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow!",
+      "at": {
+        "line": 32,
+        "offset": 0.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Go my way",
+      "at": {
+        "line": 33,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow oh oh",
+      "at": {
+        "line": 34,
+        "offset": 2.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow!",
+      "at": {
+        "line": 36,
+        "offset": 0.7
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기",
+      "note": "브리지 뒤 간주 동안 타올을 돌린다",
+      "at": {
+        "t": 180.67
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기",
+      "note": "마지막 후렴. 「いつか会えた時には」「ただいま」 두 줄은 가이드에 표시 없음",
+      "at": {
+        "line": 47,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow oh oh",
+      "at": {
+        "line": 47,
+        "offset": 2.6
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow!",
+      "at": {
+        "line": 49,
+        "offset": 0.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Go my way",
+      "at": {
+        "line": 50,
+        "offset": 2.3
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기",
+      "note": "「今もどこかで見てる」부터 다시 타올을 돌린다. 곡 끝 아웃트로까지 계속",
+      "at": {
+        "line": 53,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow oh oh",
+      "at": {
+        "line": 53,
+        "offset": 2.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow!",
+      "at": {
+        "line": 55,
+        "offset": 0.7
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기",
+      "note": "아웃트로 동안 계속 돌린다",
+      "at": {
+        "t": 240.14
+      }
     }
   ],
   "sources": [
+    {
+      "label": "My One Ticket 「오늘도 벚꽃이 흩날리는 새벽에」 호응가이드 (디시 일본 가수 갤러리 이용자가 만든 콜가이드 사이트, 같은 MV 기준)",
+      "url": "https://myoneticket.ing/artists/cwhw/songs/kyomosakuramauakatsukini/guides/603"
+    },
+    {
+      "label": "디시 일본 가수 갤러리 「콜가이드 만드는 사이트 업데이트(원더리벳 콜가이드 추가)」 (2026-10-29, My One Ticket 제작자 글)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=859624"
+    },
+    {
+      "label": "디시 일본 가수 갤러리 「와 치코하니 아이돌선언 해줬네」 댓글 (2026-09-19, 사쿠라마우에서 워어어)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=801556"
+    },
+    {
+      "label": "디시 일본 가수 갤러리 「뭣 치코하니 리벳 온다고?!」 (2026-08-23, 타올 돌리기 곡)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=759152"
+    },
     {
       "label": "Billboard JAPAN Zepp Tokyo 2017 리포트 (타월)",
       "url": "https://www.billboard-japan.com/d_news/detail/50766/2"
