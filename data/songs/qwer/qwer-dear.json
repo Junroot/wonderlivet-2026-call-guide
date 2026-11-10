@@ -1,0 +1,353 @@
+{
+  "id": "qwer-dear",
+  "artistId": "qwer",
+  "title": "눈물참기 (Dear)",
+  "youtube": {
+    "videoId": "SUx0-btw2nQ",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 32997934,
+    "trackName": "눈물참기",
+    "artistName": "QWER"
+  },
+  "durationSec": 202,
+  "lines": [
+    {
+      "t": 14.22,
+      "text": "맑은 하늘에 비 내리는 날",
+      "ko": null
+    },
+    {
+      "t": 19.2,
+      "text": "내 마음과 정말 닮아서 이상하네요",
+      "ko": null
+    },
+    {
+      "t": 25.65,
+      "text": "한 방울 한 방울씩 떨어지는 비가",
+      "ko": null
+    },
+    {
+      "t": 30.42,
+      "text": "점점 맘에 차서 숨쉬기가 힘들 것 같아요",
+      "ko": null
+    },
+    {
+      "t": 37.04,
+      "text": "세상이 아직은 무섭고",
+      "ko": null
+    },
+    {
+      "t": 39.95,
+      "text": "여전히 넘어지는 게",
+      "ko": null
+    },
+    {
+      "t": 43.54,
+      "text": "아직은 너무 어려운가 봐",
+      "ko": null
+    },
+    {
+      "t": 48.14,
+      "text": "눈물 멈추는 법을 몰라요",
+      "ko": null
+    },
+    {
+      "t": 51.9,
+      "text": "차디차고 너무 아파요",
+      "ko": null
+    },
+    {
+      "t": 54.94,
+      "text": "괜찮다는 말은 다 거짓말",
+      "ko": null
+    },
+    {
+      "t": 59.56,
+      "text": "비가 내리는 여기 남겨져",
+      "ko": null
+    },
+    {
+      "t": 63.36,
+      "text": "혼자 울고 싶지 않아요",
+      "ko": null
+    },
+    {
+      "t": 66.38,
+      "text": "알려주세요",
+      "ko": null
+    },
+    {
+      "t": 68.52,
+      "text": "눈물을 참는 방법",
+      "ko": null
+    },
+    {
+      "t": 82.8,
+      "text": "하나둘 한숨 위로 차오른 슬픔이",
+      "ko": null
+    },
+    {
+      "t": 87.58,
+      "text": "이제는 밖으로 다 쏟아져 넘칠 것 같아요",
+      "ko": null
+    },
+    {
+      "t": 94.2,
+      "text": "말해줘 다 잘될 거라고",
+      "ko": null
+    },
+    {
+      "t": 97.08,
+      "text": "도와줘 겁 많은 나라서",
+      "ko": null
+    },
+    {
+      "t": 101.02,
+      "text": "날 믿을 수 없을 땐 어떡해야 하나요",
+      "ko": null
+    },
+    {
+      "t": 106.7,
+      "text": "누구라도 말해줘요",
+      "ko": null
+    },
+    {
+      "t": 110.66,
+      "text": "넘어지는 게 아직 너무 어려운가 봐",
+      "ko": null
+    },
+    {
+      "t": 116.7,
+      "text": "눈물 멈추는 법을 몰라요",
+      "ko": null
+    },
+    {
+      "t": 120.46,
+      "text": "차디차고 너무 아파요",
+      "ko": null
+    },
+    {
+      "t": 123.5,
+      "text": "괜찮다는 말은 다 거짓말",
+      "ko": null
+    },
+    {
+      "t": 128.15,
+      "text": "비가 내리는 여기 남겨져",
+      "ko": null
+    },
+    {
+      "t": 131.88,
+      "text": "혼자 울고 싶지 않아요",
+      "ko": null
+    },
+    {
+      "t": 134.9,
+      "text": "알려주세요",
+      "ko": null
+    },
+    {
+      "t": 137.11,
+      "text": "눈물을 참는 방법",
+      "ko": null
+    },
+    {
+      "t": 140.64,
+      "text": "내리던 비가 그치고 나면",
+      "ko": null
+    },
+    {
+      "t": 145.96,
+      "text": "내일이 꼭 올 테니까",
+      "ko": null
+    },
+    {
+      "t": 153.85,
+      "text": "눈물 멈추는 법을 몰라도",
+      "ko": null
+    },
+    {
+      "t": 157.62,
+      "text": "이런 내가 자꾸 미워도",
+      "ko": null
+    },
+    {
+      "t": 160.65,
+      "text": "잠시 멈춰 눈물을 삼키고",
+      "ko": null
+    },
+    {
+      "t": 165.26,
+      "text": "일기장 속에 적어 놓았던",
+      "ko": null
+    },
+    {
+      "t": 169.01,
+      "text": "잘 지내나요란 말 위에",
+      "ko": null
+    },
+    {
+      "t": 172.07,
+      "text": "적어봐요",
+      "ko": null
+    },
+    {
+      "t": 174.19,
+      "text": "이젠 잘 지낼게요",
+      "ko": null
+    },
+    {
+      "t": 180.63,
+      "text": "잘 지낼게요",
+      "ko": null
+    }
+  ],
+  "cues": [
+    {
+      "type": "call",
+      "text": "홍지혜! 이아희! 장나영! 이시연!",
+      "note": "인트로. 약 1.4초 간격으로 멤버 이름을 차례로 외친다",
+      "at": {
+        "t": 3.56
+      }
+    },
+    {
+      "type": "call",
+      "text": "눈물참기! QWER!",
+      "note": "네임콜 바로 뒤. 「QWER! 행복해져라!」와 순서가 반대이니 주의",
+      "at": {
+        "t": 8.56
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "세상이",
+      "note": "줄 앞 「세상이」만 멤버와 같이 부른다",
+      "at": {
+        "line": 4,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "여전히",
+      "note": "줄 앞 「여전히」만 같이 부른다",
+      "at": {
+        "line": 5,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "눈물",
+      "note": "후렴 첫 단어 「눈물」만 같이 부른다",
+      "at": {
+        "line": 7,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "비가",
+      "note": "줄 앞 「비가」만 같이 부른다",
+      "at": {
+        "line": 10,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이! ×12",
+      "note": "1절 뒤 간주. 약 0.7초 간격으로 어이! 4번씩 세 묶음(모두 12번)",
+      "at": {
+        "t": 71.76
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "말해줘",
+      "note": "2절. 줄 앞 「말해줘」만 같이 부른다",
+      "at": {
+        "line": 16,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "도와줘",
+      "note": "줄 앞 「도와줘」만 같이 부른다",
+      "at": {
+        "line": 17,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "눈물",
+      "note": "후렴 첫 단어 「눈물」만 같이 부른다",
+      "at": {
+        "line": 21,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "비가",
+      "note": "줄 앞 「비가」만 같이 부른다",
+      "at": {
+        "line": 24,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "이젠 잘 지낼게요",
+      "note": "마지막 「이젠 잘 지낼게요」를 같이 부른다",
+      "at": {
+        "line": 36,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "홍지혜! 이아희! 장나영! 이시연!",
+      "note": "아웃트로. 인트로와 같은 네임콜",
+      "at": {
+        "t": 189.45
+      }
+    },
+    {
+      "type": "call",
+      "text": "눈물참기! QWER!",
+      "note": "아웃트로 끝",
+      "at": {
+        "t": 194.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "디시 QWER 마이너 갤러리: 「응원법 연습하는 사이트 하나 낄여왔어」 (2026-03-15, 갤러리 이용자가 만든 비공식 응원법 사이트 어이어이바위게 소개)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1775080"
+    },
+    {
+      "label": "어이어이바위게 「눈물참기」 응원법 페이지 (위 디시 글에서 소개한 갤러리 이용자 제작 사이트, 콘서트 모드, 공식 응원법 기반)",
+      "url": "https://www.oioibawige.com/songs/dear"
+    },
+    {
+      "label": "디시 QWER 마이너 갤러리: 「소발) 행복해져라 응원법 헷갈림」 (2026-03-12, 「눈물참기! QWER!」 구호 순서 언급)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1769899"
+    },
+    {
+      "label": "디시 QWER 마이너 갤러리: 「소신발언) 눈참 응원법 처음에..」 (2026-01-10, 공식 응원법 영상 공유)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1631918"
+    }
+  ],
+  "review": {
+    "pronunciation": true,
+    "timing": false
+  },
+  "order": 4
+}

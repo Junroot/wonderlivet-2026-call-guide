@@ -1,0 +1,218 @@
+{
+  "id": "chevon-flash-back",
+  "artistId": "chevon",
+  "title": "FLASH BACK!!!!!!!!",
+  "youtube": {
+    "videoId": "9qevjbq4ELM",
+    "offsetSec": 0
+  },
+  "lrclib": null,
+  "durationSec": 219,
+  "lines": [],
+  "cues": [
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 9.8
+      },
+      "note": "도입 「3, 2, 1」 다음 「FLASH BACK!!」 떼창"
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 56.5
+      },
+      "note": "1절 후렴 · 줄마다 「FLASH BACK!!」 떼창"
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 61.6
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 67.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 72.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!! FLASH BACK!!",
+      "at": {
+        "t": 76.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!! FLASH BACK!!",
+      "at": {
+        "t": 77.9
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 112.3
+      },
+      "note": "2절 후렴"
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 117.6
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 123.6
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 128.9
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!! FLASH BACK!!",
+      "at": {
+        "t": 132.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!! FLASH BACK!!",
+      "at": {
+        "t": 133.8
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (짝짝·짝 ×3)",
+      "note": "브릿지 · 박자에 맞춰 「짝짝·짝」 세 번",
+      "at": {
+        "t": 145.6
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 146.3
+      },
+      "note": "「FLASH BACK / CRASHしだした脳に / CLAP CLAP… / Bye-bye…」 4줄 동안 박수"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 147.1
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 148.8
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 151.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 156.6
+      },
+      "note": "마지막 후렴 「3,2,1」 다음"
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 163.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 169
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 174.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!! FLASH BACK!!",
+      "at": {
+        "t": 177.9
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!!",
+      "at": {
+        "t": 179.3
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!! FLASH BACK!!",
+      "at": {
+        "t": 183.6
+      },
+      "note": "곡 끝"
+    },
+    {
+      "type": "singalong",
+      "text": "FLASH BACK!! FLASH BACK!!",
+      "at": {
+        "t": 185
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "디시 일본 가수 갤러리: 원더리벳 대비 응원 가이드 사이트(계속 추가중) (2026-10-31, livet-call.pages.dev 소개 글)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=860674"
+    },
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작): FLASH BACK!!!!!!!! (공식 MV 기준 줄 시간)",
+      "url": "https://livet-call.pages.dev/"
+    }
+  ],
+  "review": {
+    "pronunciation": true,
+    "timing": false
+  },
+  "order": 4
+}

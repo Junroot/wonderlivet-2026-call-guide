@@ -203,6 +203,16 @@
       "rituals": []
     },
     {
+      "id": "yama",
+      "name": "yama",
+      "nameKo": "야마",
+      "date": "2026-11-21",
+      "stage": "WONDER",
+      "start": "14:50",
+      "end": "15:30",
+      "rituals": []
+    },
+    {
       "id": "chico-honeyworks",
       "name": "CHiCO with HoneyWorks",
       "nameKo": "치코 위드 허니웍스",

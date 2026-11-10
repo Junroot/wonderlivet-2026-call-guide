@@ -1,0 +1,439 @@
+{
+  "id": "natori-overdose",
+  "artistId": "natori",
+  "title": "Overdose",
+  "youtube": {
+    "videoId": "H08YWE4CIFQ",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 5903797,
+    "trackName": "Overdose",
+    "artistName": "なとり"
+  },
+  "durationSec": 194,
+  "lines": [
+    {
+      "t": 17.31,
+      "text": "本当は分かっていた",
+      "ko": "혼토-와 와캇테이타"
+    },
+    {
+      "t": 18.89,
+      "text": "いけないことだったって 分かっていたのに",
+      "ko": "이케나이 코토닷탓테 와캇테이타노니"
+    },
+    {
+      "t": 21.17,
+      "text": "この手をすり抜ける全部が愛に見えたの",
+      "ko": "코노 테오 스리누케루 젠부가 아이니 미에타노"
+    },
+    {
+      "t": 25.44,
+      "text": "確かめていた言葉が形になって、揺れるだけ",
+      "ko": "타시카메테이타 코토바가 카타치니 낫테, 유레루다케"
+    },
+    {
+      "t": 33,
+      "text": "弾いて 描いて きっと それだけ",
+      "ko": "하지이테 카이테 킷토 소레다케"
+    },
+    {
+      "t": 35.59,
+      "text": "つまらないな 正解の読み合わせ",
+      "ko": "츠마라나이나 세-카이노 요미아와세"
+    },
+    {
+      "t": 37.63,
+      "text": "あとちょっとで分かりかけていたのに",
+      "ko": "아토 촛토데 와카리카케테이타노니"
+    },
+    {
+      "t": 41.4,
+      "text": "飲んで 吐いて 全部忘れちゃえ",
+      "ko": "논데 하이테 젠부 와스레챠에"
+    },
+    {
+      "t": 43.07,
+      "text": "水をまとった本心と鏡合わせ",
+      "ko": "미즈오 마톳타 혼신토 카가미아와세"
+    },
+    {
+      "t": 45.89,
+      "text": "見つめ 会えたら",
+      "ko": "미츠메 아에타라"
+    },
+    {
+      "t": 49.47,
+      "text": "Overdose 君とふたり やるせない日々",
+      "ko": "Overdose 키미토 후타리 야루세나이 히비"
+    },
+    {
+      "t": 53.89,
+      "text": "解像度の悪い夢を見たい",
+      "ko": "카이조-도노 와루이 유메오 미타이"
+    },
+    {
+      "t": 57.25,
+      "text": "Overdose 君とふたり 甘いハッタリ",
+      "ko": "Overdose 키미토 후타리 아마이 핫타리"
+    },
+    {
+      "t": 61.31,
+      "text": "Don't stop the music, darling",
+      "ko": null
+    },
+    {
+      "t": 74.72,
+      "text": "本当に分かっている？",
+      "ko": "혼토-니 와캇테이루?"
+    },
+    {
+      "t": 75.89,
+      "text": "いけないことだったって 分かっている？",
+      "ko": "이케나이 코토닷탓테 와캇테이루?"
+    },
+    {
+      "t": 77.12,
+      "text": "多分 時間だけが過ぎていく問答で満ちていく",
+      "ko": "타분 지칸다케가 스기테이쿠 몬도-데 미치테이쿠"
+    },
+    {
+      "t": 82.52,
+      "text": "言い訳する間もなく 裸になってしまうだけ",
+      "ko": "이-와케스루 마모나쿠 하다카니 낫테 시마우다케"
+    },
+    {
+      "t": 89.2,
+      "text": "きっと 溜まっていくんだ ずっと",
+      "ko": "킷토 타맛테이쿤다 즛토"
+    },
+    {
+      "t": 91.73,
+      "text": "終わってしまえばいいと ふっと",
+      "ko": "오왓테 시마에바 이-토 훗토"
+    },
+    {
+      "t": 93.35,
+      "text": "傷んで腐っていく あの甘い果実のように 僕ら 壊れていく",
+      "ko": "이탄데 쿠삿테이쿠 아노 아마이 카지츠노 요-니 보쿠라 코와레테이쿠"
+    },
+    {
+      "t": 97.8,
+      "text": "だから踊って 眠って 全部忘れちゃえ",
+      "ko": "다카라 오돗테 네뭇테 젠부 와스레챠에"
+    },
+    {
+      "t": 99.83,
+      "text": "嘘を被ったあなたと隣り合わせ",
+      "ko": "우소오 카붓타 아나타토 토나리아와세"
+    },
+    {
+      "t": 102.63,
+      "text": "見つめ 会えたら",
+      "ko": "미츠메 아에타라"
+    },
+    {
+      "t": 105.65,
+      "text": "Overdose 君とふたり",
+      "ko": "Overdose 키미토 후타리"
+    },
+    {
+      "t": 108.23,
+      "text": "分かりたいのに",
+      "ko": "와카리타이노니"
+    },
+    {
+      "t": 110.16,
+      "text": "変に間の悪い嘘が嫌い",
+      "ko": "헨니 마노 와루이 우소가 키라이"
+    },
+    {
+      "t": 113.71,
+      "text": "Overdose 君とふたり",
+      "ko": "Overdose 키미토 후타리"
+    },
+    {
+      "t": 116.6,
+      "text": "分かりたいのに",
+      "ko": "와카리타이노니"
+    },
+    {
+      "t": 118.65,
+      "text": "Two step from hell with me, darling ah, ah, ah, ah yeah",
+      "ko": null
+    },
+    {
+      "t": 140.69,
+      "text": "Overdose 君とふたり",
+      "ko": "Overdose 키미토 후타리"
+    },
+    {
+      "t": 143.2,
+      "text": "やるせない日々",
+      "ko": "야루세나이 히비"
+    },
+    {
+      "t": 145.16,
+      "text": "解像度の悪い夢を見たい",
+      "ko": "카이조-도노 와루이 유메오 미타이"
+    },
+    {
+      "t": 148.44,
+      "text": "Overdose 君とふたり",
+      "ko": "Overdose 키미토 후타리"
+    },
+    {
+      "t": 150.84,
+      "text": "甘いハッタリ",
+      "ko": "아마이 핫타리"
+    },
+    {
+      "t": 152.54,
+      "text": "Don't stop the music, darling hmm",
+      "ko": null
+    },
+    {
+      "t": 157.04,
+      "text": "Overdose 君とふたり",
+      "ko": "Overdose 키미토 후타리"
+    },
+    {
+      "t": 158.99,
+      "text": "分からない",
+      "ko": "와카라나이"
+    },
+    {
+      "t": 161.04,
+      "text": "けど 変に間の悪い嘘でもいいから",
+      "ko": "케도 헨니 마노 와루이 우소데모 이-카라"
+    },
+    {
+      "t": 165.01,
+      "text": "どう 君とふたり 甘いハッタリ",
+      "ko": "도- 키미토 후타리 아마이 핫타리"
+    },
+    {
+      "t": 169.57,
+      "text": "Don't stop the music, darling",
+      "ko": null
+    },
+    {
+      "t": 185.03,
+      "text": "Don't stop the music, darling",
+      "ko": null
+    }
+  ],
+  "cues": [
+    {
+      "type": "singalong",
+      "text": "타시카메테이타 코토바가",
+      "note": "떼창: 이 줄의 「確かめていた言葉が」 부분",
+      "at": {
+        "line": 3,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 10,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 11,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 12,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 13,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "이-와케스루 마모나쿠",
+      "note": "떼창: 이 줄의 「言い訳する間もなく」 부분",
+      "at": {
+        "line": 17,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 24,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 25,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 26,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 27,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 28,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 29,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 30,
+        "offset": 0
+      },
+      "note": "마지막 사비. 가이드 사이트도 콜가이드 이미지에 없어 앞 사비와 같게 추정한 부분"
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 31,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 32,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 33,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 34,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 35,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 36,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 37,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 38,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 39,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 40,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 41,
+        "offset": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작)",
+      "url": "https://livet-call.pages.dev/"
+    },
+    {
+      "label": "디시 일본 가수 마이너 갤러리: 원더리벳 2026 응원 가이드 사이트 소개 글 (2026-10-31)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=860674"
+    }
+  ],
+  "review": {
+    "pronunciation": false,
+    "timing": false
+  },
+  "order": 4
+}

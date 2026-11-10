@@ -1,0 +1,181 @@
+{
+  "id": "chevon-judenchu",
+  "artistId": "chevon",
+  "title": "銃電中",
+  "youtube": {
+    "videoId": "orGJfJ2cEG4",
+    "offsetSec": 0
+  },
+  "lrclib": null,
+  "durationSec": 220,
+  "lines": [],
+  "cues": [
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "전주부터 1절 첫 부분 「Q&Aに移ります」까지 박자에 맞춰 박수",
+      "at": {
+        "t": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 13.4
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 16.2
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 18.2
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 19.8
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 23
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 25.1
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "まずまずでした",
+      "ko": "마즈마즈데시타",
+      "at": {
+        "t": 31.9
+      },
+      "note": "「Q:本日の出来栄えはどうでしたか」 다음 「A:」 대답 떼창"
+    },
+    {
+      "type": "jump",
+      "text": "자유롭게 점프",
+      "note": "1절 후렴(하이라이트) 시작",
+      "at": {
+        "t": 37.9
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "ジューデン、ジューデンチュー",
+      "ko": "쥬-덴, 쥬-덴츄-",
+      "at": {
+        "t": 49.9
+      },
+      "note": "(괄호) 가사 떼창"
+    },
+    {
+      "type": "singalong",
+      "text": "充電充電充電充電中",
+      "ko": "쥬-덴 쥬-덴 쥬-덴 쥬-덴츄-",
+      "at": {
+        "t": 64.7
+      },
+      "note": "1절 후렴 끝 떼창"
+    },
+    {
+      "type": "singalong",
+      "text": "まずまずでした",
+      "ko": "마즈마즈데시타",
+      "at": {
+        "t": 89.1
+      },
+      "note": "2절 「A:…」 대답 떼창"
+    },
+    {
+      "type": "jump",
+      "text": "자유롭게 점프",
+      "note": "2절 후렴(하이라이트) 시작",
+      "at": {
+        "t": 96
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "ジューデン、ジューデンチュー",
+      "ko": "쥬-덴, 쥬-덴츄-",
+      "at": {
+        "t": 107.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "充電充電充電充電中",
+      "ko": "쥬-덴 쥬-덴 쥬-덴 쥬-덴츄-",
+      "at": {
+        "t": 123
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "まずまずですが",
+      "ko": "마즈마즈데스가",
+      "at": {
+        "t": 140.7
+      },
+      "note": "마지막 「A:」 대답 첫머리 떼창"
+    },
+    {
+      "type": "jump",
+      "text": "자유롭게 점프",
+      "note": "마지막 후렴(하이라이트) 시작",
+      "at": {
+        "t": 146.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "ジューデン、ジューデンチュー",
+      "ko": "쥬-덴, 쥬-덴츄-",
+      "at": {
+        "t": 159.8
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "充電充電充電充電中",
+      "ko": "쥬-덴 쥬-덴 쥬-덴 쥬-덴츄-",
+      "at": {
+        "t": 180.3
+      },
+      "note": "곡 끝 떼창"
+    }
+  ],
+  "sources": [
+    {
+      "label": "디시 일본 가수 갤러리: 원더리벳 대비 응원 가이드 사이트(계속 추가중) (2026-10-31, livet-call.pages.dev 소개 글)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=860674"
+    },
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작): 銃電中 (공식 MV 기준 줄 시간)",
+      "url": "https://livet-call.pages.dev/"
+    }
+  ],
+  "review": {
+    "pronunciation": true,
+    "timing": false
+  },
+  "order": 3
+}

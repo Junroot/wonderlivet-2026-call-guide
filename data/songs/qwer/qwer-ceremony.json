@@ -1,0 +1,565 @@
+{
+  "id": "qwer-ceremony",
+  "artistId": "qwer",
+  "title": "CEREMONY",
+  "youtube": {
+    "videoId": "uXgk1YLRIN0",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 39048882,
+    "trackName": "CEREMONY",
+    "artistName": "QWER (최애의 아이들)"
+  },
+  "durationSec": 197,
+  "lines": [
+    {
+      "t": 0.06,
+      "text": "One, two, Q-W-E-R",
+      "ko": null
+    },
+    {
+      "t": 14.86,
+      "text": "거울 속 smile 진심 억지 (억지)",
+      "ko": null
+    },
+    {
+      "t": 17.54,
+      "text": "취향 아닌 그 머리까지, who is she?",
+      "ko": null
+    },
+    {
+      "t": 23.11,
+      "text": "흠, 뭐가 뭔지 모르겠어",
+      "ko": null
+    },
+    {
+      "t": 25.27,
+      "text": "This is not me (not me)",
+      "ko": null
+    },
+    {
+      "t": 26.41,
+      "text": "무난, 무난한 내 모습들이",
+      "ko": null
+    },
+    {
+      "t": 29.42,
+      "text": "반전 따윈 없는 이 하루까지",
+      "ko": null
+    },
+    {
+      "t": 31.94,
+      "text": "So bored, so bored (백팔십도 다)",
+      "ko": null
+    },
+    {
+      "t": 34.74,
+      "text": "이젠 바꿔, 바꿔, let's go",
+      "ko": null
+    },
+    {
+      "t": 37.41,
+      "text": "모두를 peek-a-boo 놀래켜줄래",
+      "ko": null
+    },
+    {
+      "t": 40.36,
+      "text": "까짓것 보여줄게, 나의 highlights (두고 봐)",
+      "ko": null
+    },
+    {
+      "t": 44.08,
+      "text": "날 위한 승부를 한 번 걸어볼까?",
+      "ko": null
+    },
+    {
+      "t": 48.93,
+      "text": "I got the main character energy",
+      "ko": null
+    },
+    {
+      "t": 52.66,
+      "text": "이쯤부턴 제멋대로지",
+      "ko": null
+    },
+    {
+      "t": 55.55,
+      "text": "무모한 날 향해서 손 키스",
+      "ko": null
+    },
+    {
+      "t": 58.39,
+      "text": "이건 날 위한 ceremony",
+      "ko": null
+    },
+    {
+      "t": 61.62,
+      "text": "혹시 이건 꿈의 déjà vu?",
+      "ko": null
+    },
+    {
+      "t": 64.46,
+      "text": "봐, 난 날아오를 거라구",
+      "ko": null
+    },
+    {
+      "t": 67.57,
+      "text": "날 위해 부르는 최고의 선물",
+      "ko": null
+    },
+    {
+      "t": 71.75,
+      "text": "Ceremony for me",
+      "ko": null
+    },
+    {
+      "t": 77.47,
+      "text": "Ceremony for me",
+      "ko": null
+    },
+    {
+      "t": 84.3,
+      "text": "평범한 인사도 이젠 말야",
+      "ko": null
+    },
+    {
+      "t": 87.67,
+      "text": "꼭 응원의 말 같단 말야",
+      "ko": null
+    },
+    {
+      "t": 90.83,
+      "text": "그렇다면 못할 거 없지",
+      "ko": null
+    },
+    {
+      "t": 93.6,
+      "text": "일단 막 저질러 보는 거지",
+      "ko": null
+    },
+    {
+      "t": 96.67,
+      "text": "우물쭈물대던 감정들이",
+      "ko": null
+    },
+    {
+      "t": 99.65,
+      "text": "신이 나서 소리를 질러대지",
+      "ko": null
+    },
+    {
+      "t": 102.12,
+      "text": "So loud, so loud (이제부터 다)",
+      "ko": null
+    },
+    {
+      "t": 105,
+      "text": "모두 외쳐, 외쳐, let's go",
+      "ko": null
+    },
+    {
+      "t": 107.65,
+      "text": "모두를 peek-a-boo 놀래켜줄래",
+      "ko": null
+    },
+    {
+      "t": 110.61,
+      "text": "한 번 더 보여줄게, 나의 highlights (지켜봐)",
+      "ko": null
+    },
+    {
+      "t": 114.37,
+      "text": "날 위한 축제의 막을 열어볼까?",
+      "ko": null
+    },
+    {
+      "t": 119.21,
+      "text": "I got the main character energy",
+      "ko": null
+    },
+    {
+      "t": 122.96,
+      "text": "이쯤부턴 제멋대로지",
+      "ko": null
+    },
+    {
+      "t": 125.88,
+      "text": "무모한 날 향해서 손 키스",
+      "ko": null
+    },
+    {
+      "t": 128.69,
+      "text": "이건 날 위한 ceremony",
+      "ko": null
+    },
+    {
+      "t": 131.87,
+      "text": "혹시 이건 꿈의 déjà vu?",
+      "ko": null
+    },
+    {
+      "t": 134.7,
+      "text": "봐, 난 날아오를 거라구",
+      "ko": null
+    },
+    {
+      "t": 137.73,
+      "text": "날 위해 부르는 최고의 선물",
+      "ko": null
+    },
+    {
+      "t": 141.91,
+      "text": "Ceremony for me",
+      "ko": null
+    },
+    {
+      "t": 143.61,
+      "text": "갸우뚱거리던 날들에",
+      "ko": null
+    },
+    {
+      "t": 146.58,
+      "text": "당당하게 더 be myself, yeah",
+      "ko": null
+    },
+    {
+      "t": 149.8,
+      "text": "특별할 건 없대도",
+      "ko": null
+    },
+    {
+      "t": 152.45,
+      "text": "함께해 줄래? My ceremony",
+      "ko": null
+    },
+    {
+      "t": 157.25,
+      "text": "I got the main character energy",
+      "ko": null
+    },
+    {
+      "t": 161.05,
+      "text": "이젠 안녕, 나의 blue, blue days",
+      "ko": null
+    },
+    {
+      "t": 163.85,
+      "text": "고마웠던 날들에 손 키스",
+      "ko": null
+    },
+    {
+      "t": 166.58,
+      "text": "끝나지 않을 ceremony",
+      "ko": null
+    },
+    {
+      "t": 169.92,
+      "text": "역시 이건 꿈의 déjà vu",
+      "ko": null
+    },
+    {
+      "t": 172.82,
+      "text": "봐, 난 날 수 있었다구",
+      "ko": null
+    },
+    {
+      "t": 175.73,
+      "text": "날 위해 부르는 최고의 선물",
+      "ko": null
+    },
+    {
+      "t": 179.98,
+      "text": "Ceremony for me",
+      "ko": null
+    },
+    {
+      "t": 185.83,
+      "text": "Ceremony for me",
+      "ko": null
+    },
+    {
+      "t": 191.7,
+      "text": "Ceremony for me",
+      "ko": null
+    }
+  ],
+  "cues": [
+    {
+      "type": "call",
+      "text": "One! Two! Q! W! E! R!",
+      "note": "곡을 여는 구호를 멤버와 함께 외친다. 바로 뒤에 네임콜 「홍지혜!」가 붙어 나오니 박자 주의(디시 글)",
+      "at": {
+        "line": 0,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "홍지혜! 이아희! 장나영! 이시연!",
+      "note": "전주. 약 1.5초 간격으로 멤버 이름을 차례로 외친다. 첫 「홍」을 놓치지 않게",
+      "at": {
+        "t": 2.94
+      }
+    },
+    {
+      "type": "call",
+      "text": "따라라따 따따 따라라 / 따라라따",
+      "note": "전주 멜로디를 소리 내어 따라 한다(디시 글의 「허밍」 구간)",
+      "at": {
+        "t": 8.95
+      }
+    },
+    {
+      "type": "call",
+      "text": "세레머니!",
+      "note": "허밍 바로 뒤",
+      "at": {
+        "t": 12.94
+      }
+    },
+    {
+      "type": "call",
+      "text": "억지!",
+      "note": "「진심 억지」 뒤에 관객이 받아 외친다",
+      "at": {
+        "line": 1,
+        "offset": 2.28
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "This is not me",
+      "note": "줄 전체를 멤버와 같이 부른다",
+      "at": {
+        "line": 4,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "백팔십도 다",
+      "note": "「So bored so bored」 뒤 「백팔십도 다」만 같이 부른다",
+      "at": {
+        "line": 7,
+        "offset": 1.72
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "두고 봐",
+      "note": "줄 끝 「두고 봐」만 같이 부른다",
+      "at": {
+        "line": 10,
+        "offset": 3.08
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "note": "「날 위한 승부를 한번 걸어볼까」 바로 뒤, 후렴 들어가기 직전(공식 응원법 영상 제목도 「걸어볼까, 어이?」)",
+      "at": {
+        "line": 11,
+        "offset": 4.15
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Ceremony",
+      "note": "후렴. 줄 끝 「Ceremony」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 15,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "déjà vu",
+      "note": "줄 끝 「Dejavu」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 16,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "거라구",
+      "note": "줄 끝 「거라구」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 17,
+        "offset": 1.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "for me",
+      "note": "「Ceremony」 뒤 「for me」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 19,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "for me",
+      "note": "「for me」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 20,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "이제부터 다",
+      "note": "2절. 「So loud, so loud」 뒤 「이제부터 다」만 같이 부른다",
+      "at": {
+        "line": 27,
+        "offset": 1.66
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "지켜봐",
+      "note": "줄 끝 「지켜봐」만 같이 부른다",
+      "at": {
+        "line": 30,
+        "offset": 2.94
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "note": "「날 위한 축제의 막을 열어볼까」 바로 뒤, 후렴 직전",
+      "at": {
+        "line": 31,
+        "offset": 4.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Ceremony",
+      "note": "2절 후렴. 줄 끝만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 35,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "déjà vu",
+      "note": "줄 끝만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 36,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "거라구",
+      "note": "줄 끝만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 37,
+        "offset": 1.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Ceremony for me",
+      "note": "공식 응원법 영상에는 표시가 없지만 멤버들이 외치는 부분(디시 글). 선택",
+      "at": {
+        "line": 39,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "와아아!",
+      "note": "브리지 「함께해 줄래 My ceremony」 뒤 함성",
+      "at": {
+        "line": 43,
+        "offset": 3.05
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Ceremony",
+      "note": "마지막 후렴. 줄 끝만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 47,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "déjà vu",
+      "note": "줄 끝만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 48,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "있었다구",
+      "note": "줄 끝 「있었다구」만 같이 부른다(위치 추정)",
+      "at": {
+        "line": 49,
+        "offset": 1.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "for me",
+      "note": "「for me」만 같이 부른다. 공식 응원법 영상은 「Ceremony for me」 전체지만 멤버들은 「for me」만 외친다(디시 글)(위치 추정)",
+      "at": {
+        "line": 51,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "for me",
+      "note": "「for me」만(위치 추정)",
+      "at": {
+        "line": 52,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "for me",
+      "note": "마지막 「for me」(위치 추정)",
+      "at": {
+        "line": 53,
+        "offset": 1.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "디시 QWER 마이너 갤러리: 「응원법 텍스트로 일단 끓여봄」 (2026-04-28, 공식 응원법 영상을 텍스트로 옮긴 글과 현장 차이 메모)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1874102"
+    },
+    {
+      "label": "디시 QWER 마이너 갤러리: 「QWER 'CEREMONY'응원법 영상」 (2026-04-28, 공식 응원법 영상 공유)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1873937"
+    },
+    {
+      "label": "디시 QWER 마이너 갤러리: 「응원법 연습하는 사이트 하나 낄여왔어」 (2026-03-15, 갤러리 이용자가 만든 비공식 응원법 사이트 어이어이바위게 소개)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=qwer_fan&no=1775080"
+    },
+    {
+      "label": "어이어이바위게 「CEREMONY」 응원법 페이지 (위 디시 글에서 소개한 갤러리 이용자 제작 사이트, 콘서트 모드, 공식 응원법 기반)",
+      "url": "https://www.oioibawige.com/songs/ceremony"
+    },
+    {
+      "label": "QWER 'CEREMONY' 응원법 (Cheering Guide) 공식 영상",
+      "url": "https://www.youtube.com/watch?v=vqfSealefyQ"
+    }
+  ],
+  "review": {
+    "pronunciation": true,
+    "timing": false
+  },
+  "order": 6
+}

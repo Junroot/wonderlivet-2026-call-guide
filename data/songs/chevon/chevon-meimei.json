@@ -1,0 +1,245 @@
+{
+  "id": "chevon-meimei",
+  "artistId": "chevon",
+  "title": "冥冥",
+  "youtube": {
+    "videoId": "cJSttNbgqJI",
+    "offsetSec": 0
+  },
+  "lrclib": null,
+  "durationSec": 216,
+  "lines": [],
+  "cues": [
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 37.2
+      },
+      "note": "1절 「使えない脳と…」 4줄 동안 박자에 맞춰 박수"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 40.9
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 44.5
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 47.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "冥冥",
+      "ko": "메이메이",
+      "at": {
+        "t": 51
+      },
+      "note": "1절 후렴 · 줄 첫머리 「冥冥」 떼창"
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 55.4
+      },
+      "note": "「超えてくれよ」 다음 추임새 (줄 안 위치는 어림값)"
+    },
+    {
+      "type": "singalong",
+      "text": "命命",
+      "ko": "메이메이",
+      "at": {
+        "t": 58.1
+      }
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 62.6
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "明明",
+      "ko": "메이메이",
+      "at": {
+        "t": 65.5
+      }
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 69.9
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "メェメェ",
+      "ko": "메에메에",
+      "at": {
+        "t": 72.5
+      }
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 77.2
+      },
+      "note": "「肥えてゆくエゴ」 다음 추임새"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 103
+      },
+      "note": "2절 「拙い文学と…」 4줄 동안 박자에 맞춰 박수"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 107.3
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 110.5
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": 113.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "冥冥",
+      "ko": "메이메이",
+      "at": {
+        "t": 117.2
+      },
+      "note": "2절 후렴"
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 121.7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "命命",
+      "ko": "메이메이",
+      "at": {
+        "t": 124.3
+      }
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 128.7
+      },
+      "note": "「歌ってくれよ」 다음 추임새"
+    },
+    {
+      "type": "singalong",
+      "text": "오 오 오오오오오 오오오오오",
+      "note": "간주 떼창 ×8 (마지막 후렴 「冥冥」 전까지)",
+      "at": {
+        "t": 133
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "冥冥",
+      "ko": "메이메이",
+      "at": {
+        "t": 160
+      },
+      "note": "마지막 후렴"
+    },
+    {
+      "type": "singalong",
+      "text": "命命",
+      "ko": "메이메이",
+      "at": {
+        "t": 167.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 171.8
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "明明",
+      "ko": "메이메이",
+      "at": {
+        "t": 174.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 179.1
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "メェメェ",
+      "ko": "메에메에",
+      "at": {
+        "t": 181.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "(워-어)",
+      "at": {
+        "t": 186.5
+      },
+      "note": "「肥えてゆけ エゴ！！」 다음 추임새"
+    }
+  ],
+  "sources": [
+    {
+      "label": "디시 일본 가수 갤러리: 원더리벳 대비 응원 가이드 사이트(계속 추가중) (2026-10-31, livet-call.pages.dev 소개 글)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=860674"
+    },
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작): 冥冥 (공식 MV 기준 줄 시간)",
+      "url": "https://livet-call.pages.dev/"
+    }
+  ],
+  "review": {
+    "pronunciation": true,
+    "timing": false
+  },
+  "order": 2
+}

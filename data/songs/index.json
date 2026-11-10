@@ -138,6 +138,34 @@
       }
     },
     {
+      "id": "candy-tune-sonaereba-moumantai",
+      "artistId": "candy-tune",
+      "title": "備えあれば無問題",
+      "order": 4,
+      "path": "data/songs/candy-tune/candy-tune-sonaereba-moumantai.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "candy-tune-special-kanshasai",
+      "artistId": "candy-tune",
+      "title": "スペシャル感謝祭",
+      "order": 5,
+      "path": "data/songs/candy-tune/candy-tune-special-kanshasai.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
       "id": "chevon-dance-decadence",
       "artistId": "chevon",
       "title": "ダンス・デカダンス",
@@ -150,6 +178,53 @@
       ],
       "review": {
         "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "chevon-meimei",
+      "artistId": "chevon",
+      "title": "冥冥",
+      "order": 2,
+      "path": "data/songs/chevon/chevon-meimei.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "chevon-judenchu",
+      "artistId": "chevon",
+      "title": "銃電中",
+      "order": 3,
+      "path": "data/songs/chevon/chevon-judenchu.json",
+      "cueTypes": [
+        "clap",
+        "jump",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "chevon-flash-back",
+      "artistId": "chevon",
+      "title": "FLASH BACK!!!!!!!!",
+      "order": 4,
+      "path": "data/songs/chevon/chevon-flash-back.json",
+      "cueTypes": [
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": true,
         "timing": false
       }
     },
@@ -175,7 +250,8 @@
       "order": 1,
       "path": "data/songs/chico-honeyworks/chico-idol-sengen.json",
       "cueTypes": [
-        "call"
+        "call",
+        "clap"
       ],
       "review": {
         "pronunciation": false,
@@ -189,7 +265,57 @@
       "order": 2,
       "path": "data/songs/chico-honeyworks/chico-sakura-mau.json",
       "cueTypes": [
+        "clap",
+        "singalong",
         "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "chico-pride-kakumei",
+      "artistId": "chico-honeyworks",
+      "title": "プライド革命",
+      "order": 3,
+      "path": "data/songs/chico-honeyworks/chico-pride-kakumei.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "chico-kessen-spirit",
+      "artistId": "chico-honeyworks",
+      "title": "決戦スピリット",
+      "order": 4,
+      "path": "data/songs/chico-honeyworks/chico-kessen-spirit.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "chico-senjou-no-hana",
+      "artistId": "chico-honeyworks",
+      "title": "戦場の華",
+      "order": 5,
+      "path": "data/songs/chico-honeyworks/chico-senjou-no-hana.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
       ],
       "review": {
         "pronunciation": false,
@@ -204,6 +330,63 @@
       "path": "data/songs/clan-queen/clan-queen-yourakuen.json",
       "cueTypes": [
         "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "clan-queen-ichijiku",
+      "artistId": "clan-queen",
+      "title": "無花果",
+      "order": 2,
+      "path": "data/songs/clan-queen/clan-queen-ichijiku.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "clan-queen-guernica",
+      "artistId": "clan-queen",
+      "title": "ゲルニカ",
+      "order": 3,
+      "path": "data/songs/clan-queen/clan-queen-guernica.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "clan-queen-kyuseishu",
+      "artistId": "clan-queen",
+      "title": "求世主",
+      "order": 4,
+      "path": "data/songs/clan-queen/clan-queen-kyuseishu.json",
+      "cueTypes": [
+        "call",
+        "clap"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "clan-queen-jihaku",
+      "artistId": "clan-queen",
+      "title": "自白",
+      "order": 5,
+      "path": "data/songs/clan-queen/clan-queen-jihaku.json",
+      "cueTypes": [
+        "clap"
       ],
       "review": {
         "pronunciation": false,
@@ -290,6 +473,20 @@
       }
     },
     {
+      "id": "kyary-ninjarebangbang",
+      "artistId": "kyary",
+      "title": "にんじゃりばんばん",
+      "order": 2,
+      "path": "data/songs/kyary/kyary-ninjarebangbang.json",
+      "cueTypes": [
+        "clap"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
       "id": "mygo-kageiromai",
       "artistId": "mygo",
       "title": "影色舞",
@@ -364,6 +561,80 @@
       }
     },
     {
+      "id": "mygo-ichijitsusenshu",
+      "artistId": "mygo",
+      "title": "聿日箋秋",
+      "order": 5,
+      "path": "data/songs/mygo/mygo-ichijitsusenshu.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "jump",
+        "motion",
+        "penlight"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "mygo-kokoro",
+      "artistId": "mygo",
+      "title": "孤壊牢",
+      "order": 6,
+      "path": "data/songs/mygo/mygo-kokoro.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "jump",
+        "motion",
+        "penlight"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "mygo-sasurai",
+      "artistId": "mygo",
+      "title": "砂寸奏",
+      "order": 7,
+      "path": "data/songs/mygo/mygo-sasurai.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "jump",
+        "singalong",
+        "motion",
+        "penlight",
+        "other"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "mygo-utaimashou",
+      "artistId": "mygo",
+      "title": "歌いましょう鳴らしましょう",
+      "order": 8,
+      "path": "data/songs/mygo/mygo-utaimashou.json",
+      "cueTypes": [
+        "call",
+        "jump",
+        "singalong",
+        "motion",
+        "penlight"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
       "id": "natori-in-my-head",
       "artistId": "natori",
       "title": "IN_MY_HEAD",
@@ -372,6 +643,63 @@
       "cueTypes": [
         "singalong",
         "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "natori-serenade",
+      "artistId": "natori",
+      "title": "セレナーデ",
+      "order": 2,
+      "path": "data/songs/natori/natori-serenade.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "natori-propose",
+      "artistId": "natori",
+      "title": "プロポーズ",
+      "order": 3,
+      "path": "data/songs/natori/natori-propose.json",
+      "cueTypes": [
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "natori-overdose",
+      "artistId": "natori",
+      "title": "Overdose",
+      "order": 4,
+      "path": "data/songs/natori/natori-overdose.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "natori-zettai-reido",
+      "artistId": "natori",
+      "title": "絶対零度",
+      "order": 5,
+      "path": "data/songs/natori/natori-zettai-reido.json",
+      "cueTypes": [
+        "singalong"
       ],
       "review": {
         "pronunciation": false,
@@ -428,13 +756,45 @@
       }
     },
     {
+      "id": "oral-red-criminal",
+      "artistId": "oral-cigarettes",
+      "title": "Red Criminal",
+      "order": 3,
+      "path": "data/songs/oral-cigarettes/oral-red-criminal.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "oral-dunk",
+      "artistId": "oral-cigarettes",
+      "title": "DUNK feat.Masato (coldrain)",
+      "order": 4,
+      "path": "data/songs/oral-cigarettes/oral-dunk.json",
+      "cueTypes": [
+        "call",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
       "id": "qwer-gomin-jungdok",
       "artistId": "qwer",
       "title": "고민중독",
       "order": 1,
       "path": "data/songs/qwer/qwer-gomin-jungdok.json",
       "cueTypes": [
-        "call"
+        "call",
+        "singalong"
       ],
       "review": {
         "pronunciation": true,
@@ -448,7 +808,8 @@
       "order": 2,
       "path": "data/songs/qwer/qwer-my-name-is-malguem.json",
       "cueTypes": [
-        "call"
+        "call",
+        "singalong"
       ],
       "review": {
         "pronunciation": true,
@@ -461,7 +822,56 @@
       "title": "Discord",
       "order": 3,
       "path": "data/songs/qwer/qwer-discord.json",
-      "cueTypes": [],
+      "cueTypes": [
+        "call",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "qwer-dear",
+      "artistId": "qwer",
+      "title": "눈물참기 (Dear)",
+      "order": 4,
+      "path": "data/songs/qwer/qwer-dear.json",
+      "cueTypes": [
+        "call",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "qwer-our-voyage",
+      "artistId": "qwer",
+      "title": "Our Voyage",
+      "order": 5,
+      "path": "data/songs/qwer/qwer-our-voyage.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "qwer-ceremony",
+      "artistId": "qwer",
+      "title": "CEREMONY",
+      "order": 6,
+      "path": "data/songs/qwer/qwer-ceremony.json",
+      "cueTypes": [
+        "call",
+        "singalong"
+      ],
       "review": {
         "pronunciation": true,
         "timing": false
@@ -627,7 +1037,9 @@
       "order": 3,
       "path": "data/songs/sambomaster/sambomaster-humanity.json",
       "cueTypes": [
-        "clap"
+        "call",
+        "clap",
+        "singalong"
       ],
       "review": {
         "pronunciation": false,
@@ -650,13 +1062,59 @@
       }
     },
     {
+      "id": "sambomaster-future-is-yours",
+      "artistId": "sambomaster",
+      "title": "Future is Yours",
+      "order": 5,
+      "path": "data/songs/sambomaster/sambomaster-future-is-yours.json",
+      "cueTypes": [
+        "clap"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sambomaster-seishun-kyousoukyoku",
+      "artistId": "sambomaster",
+      "title": "青春狂騒曲",
+      "order": 6,
+      "path": "data/songs/sambomaster/sambomaster-seishun-kyousoukyoku.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sambomaster-kagayakidashite",
+      "artistId": "sambomaster",
+      "title": "輝きだして走ってく",
+      "order": 7,
+      "path": "data/songs/sambomaster/sambomaster-kagayakidashite.json",
+      "cueTypes": [
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
       "id": "suisei-bibideba",
       "artistId": "suisei",
       "title": "ビビデバ",
       "order": 1,
       "path": "data/songs/suisei/suisei-bibideba.json",
       "cueTypes": [
-        "singalong"
+        "singalong",
+        "penlight"
       ],
       "review": {
         "pronunciation": false,
@@ -670,7 +1128,9 @@
       "order": 2,
       "path": "data/songs/suisei/suisei-soiree.json",
       "cueTypes": [
-        "call"
+        "call",
+        "singalong",
+        "penlight"
       ],
       "review": {
         "pronunciation": false,
@@ -749,6 +1209,50 @@
       }
     },
     {
+      "id": "yama-haru-wo-tsugeru",
+      "artistId": "yama",
+      "title": "春を告げる",
+      "order": 1,
+      "path": "data/songs/yama/yama-haru-wo-tsugeru.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "yama-nisegao",
+      "artistId": "yama",
+      "title": "偽顔",
+      "order": 2,
+      "path": "data/songs/yama/yama-nisegao.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "yama-akogare-no-mama-ni",
+      "artistId": "yama",
+      "title": "憧れのままに",
+      "order": 3,
+      "path": "data/songs/yama/yama-akogare-no-mama-ni.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
       "id": "yuzu-natsuiro",
       "artistId": "yuzu",
       "title": "夏色",
@@ -788,6 +1292,20 @@
       "path": "data/songs/yuzu/yuzu-beautiful.json",
       "cueTypes": [
         "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "yuzu-eikou-no-kakehashi",
+      "artistId": "yuzu",
+      "title": "栄光の架橋",
+      "order": 4,
+      "path": "data/songs/yuzu/yuzu-eikou-no-kakehashi.json",
+      "cueTypes": [
         "singalong"
       ],
       "review": {

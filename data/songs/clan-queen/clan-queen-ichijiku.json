@@ -1,0 +1,73 @@
+{
+  "id": "clan-queen-ichijiku",
+  "artistId": "clan-queen",
+  "title": "無花果",
+  "youtube": {
+    "videoId": "m_2PIYki4A4",
+    "offsetSec": 0
+  },
+  "lrclib": null,
+  "durationSec": 208,
+  "lines": [],
+  "cues": [
+    {
+      "type": "call",
+      "text": "라라라라~ 라라라라~",
+      "note": "1절 후렴 「無花果の花が 白く咲くまで」 뒤. livet-call 시간(같은 MV 기준)",
+      "at": {
+        "t": 47.9
+      }
+    },
+    {
+      "type": "call",
+      "text": "라라라라~ 라라라라~",
+      "at": {
+        "t": 50.5
+      }
+    },
+    {
+      "type": "call",
+      "text": "라라라라~ 라라라라~ 라라~ 라라라~",
+      "at": {
+        "t": 53.1
+      }
+    },
+    {
+      "type": "call",
+      "text": "라라라라~ 라라라라~",
+      "note": "마지막 후렴 「心の隙間で 花が咲くまで」 뒤. livet-call에는 문구만 있고 콜 표시는 없다",
+      "at": {
+        "t": 175.7
+      }
+    },
+    {
+      "type": "call",
+      "text": "라라라라~ 라라라라~",
+      "at": {
+        "t": 178.2
+      }
+    },
+    {
+      "type": "call",
+      "text": "라라라라~ 라라라라~ 라라~ 라라라~",
+      "at": {
+        "t": 180.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "디시 일본 가수 갤러리: 「원더리벳 대비 응원 가이드 사이트(계속 추가중)」 (2026-10-31)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=860674"
+    },
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작)",
+      "url": "https://livet-call.pages.dev/"
+    }
+  ],
+  "review": {
+    "pronunciation": true,
+    "timing": false
+  },
+  "order": 2
+}
