@@ -74,7 +74,7 @@ test('시간 미정 콜이 첫 콜이면 맨 앞', () => {
   assert.deepEqual(order, ['c0', 'l0', 'l1', 'l2', 'l3']);
 });
 
-test('cueState: 1.5초 전 "다음", 도달하면 "지금", 다음 예고가 시작되면 "지금" 해제', () => {
+test('cueState: "다음"은 거리와 상관없이 가장 가까운 콜, 1.5초 안이면 soon', () => {
   const song = {
     lines,
     cues: [{ at: { line: 0 } }, { at: { line: 1 } }, { at: { t: null } }],
@@ -82,14 +82,28 @@ test('cueState: 1.5초 전 "다음", 도달하면 "지금", 다음 예고가 시
   const timed = timedCues(song);
   assert.deepEqual(timed.map((c) => c.index), [0, 1]);
 
-  assert.deepEqual(cueState(timed, 8), { next: [], now: [] });
-  assert.deepEqual(cueState(timed, 8.6).next.map((c) => c.index), [0]);
-  assert.deepEqual(cueState(timed, 10).now.map((c) => c.index), [0]);
-  assert.deepEqual(cueState(timed, 10.9).now.map((c) => c.index), [0]);
-  const s = cueState(timed, 11.1);
+  const far = cueState(timed, 5);
+  assert.deepEqual(far.next.map((c) => c.index), [0]);
+  assert.equal(far.soon, false);
+  assert.deepEqual(far.now, []);
+  const near = cueState(timed, 8.6);
+  assert.deepEqual(near.next.map((c) => c.index), [0]);
+  assert.equal(near.soon, true);
+  const fired = cueState(timed, 10);
+  assert.deepEqual(fired.now.map((c) => c.index), [0]);
+  assert.deepEqual(fired.next.map((c) => c.index), [1]);
+  assert.equal(fired.soon, false);
+  assert.deepEqual(cueState(timed, 12.5).next, []);
+});
+
+test('cueState: "지금"은 다음 콜 예고가 시작돼도 함께 유지', () => {
+  const timed = timedCues({ lines, cues: [{ at: { t: 10 } }, { at: { t: 11.5 } }] });
+  // 콜 0의 until은 줄 1 시작(12.5초)
+  const s = cueState(timed, 10.5);
+  assert.deepEqual(s.now.map((c) => c.index), [0]);
   assert.deepEqual(s.next.map((c) => c.index), [1]);
-  assert.deepEqual(s.now, []);
-  assert.deepEqual(cueState(timed, 12.5).now.map((c) => c.index), [1]);
+  assert.equal(s.soon, true);
+  assert.deepEqual(cueState(timed, 11.5).now.map((c) => c.index), [1]);
 });
 
 test('cueState: "지금"은 다음 시간 있는 가사 줄이 시작되면 해제', () => {

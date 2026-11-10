@@ -70,14 +70,18 @@ export async function songView(container, { id }) {
     return el;
   }));
 
-  // 콜 표시 영역
-  const panelLabel = h('span.panel-label');
-  const panelBody = h('div.panel-body');
-  const panelAfter = h('p.panel-after');
-  const panel = h('section.cue-panel', { 'aria-live': 'off' }, panelLabel, panelBody, panelAfter);
-  if (!timed.length) {
-    panelLabel.textContent = '시간이 정해진 콜이 없습니다';
-  }
+  // 콜 표시 영역: 위 칸은 늘 "지금", 아래 줄은 늘 "다음"
+  const slot = (label) => {
+    const labelEl = h('span.panel-label', label);
+    const body = h('div.panel-body');
+    return { el: h('div.cue-slot', labelEl, body), label: labelEl, body, key: '' };
+  };
+  const nowSlot = slot('지금');
+  const nextSlot = slot('다음');
+  const panel = h('section.cue-panel', { 'aria-live': 'off' },
+    timed.length
+      ? [nowSlot.el, nextSlot.el]
+      : h('span.panel-label', '시간이 정해진 콜이 없습니다'));
 
   // 조작
   const timeEl = h('span.clock', '0:00.00');
@@ -193,26 +197,39 @@ export async function songView(container, { id }) {
     window.scrollTo({ top: Math.max(0, target), behavior: 'smooth' });
   }
 
+  const ids = (group) => group.map((c) => c.index).join(',');
+
+  // 칸의 콜 묶음이 바뀔 때만 다시 그린다. 새 줄은 CSS 애니메이션으로 들어오고,
+  // 비워질 때는 지우지 않고 흐리게 사라지게 둔다(다음 콜이 들어올 때 교체).
+  function setSlotCues(slot, group) {
+    const key = ids(group);
+    if (key === slot.key) return;
+    slot.key = key;
+    if (!group.length) {
+      slot.body.classList.add('is-leaving');
+      return;
+    }
+    slot.body.classList.remove('is-leaving');
+    slot.body.replaceChildren(...group.map((c) => h('div.panel-cue', cueBody(song.cues[c.index]))));
+  }
+
   function renderPanel(state, now) {
-    const active = state.next.length ? state.next : state.now;
-    const kind = state.next.length ? 'next' : state.now.length ? 'now' : 'idle';
-    const key = `${kind}:${active.map((c) => c.index).join(',')}`;
+    const key = `${ids(state.now)}|${ids(state.next)}|${state.soon}`;
     if (key !== lastStateKey) {
       lastStateKey = key;
-      panel.dataset.state = kind;
-      panelBody.replaceChildren(...active.map((c) => h('div.panel-cue', cueBody(song.cues[c.index]))));
+      nowSlot.el.dataset.state = state.now.length ? 'now' : 'idle';
+      nowSlot.label.textContent = state.now.length ? '지금!' : '지금';
+      setSlotCues(nowSlot, state.now);
+      nextSlot.el.dataset.state = state.soon ? 'soon' : 'idle';
+      setSlotCues(nextSlot, state.next);
       cueEls.forEach((el) => el?.classList.remove('is-next', 'is-now'));
-      for (const c of active) cueEls[c.index]?.classList.add(kind === 'next' ? 'is-next' : 'is-now');
-      if (kind === 'now') panelLabel.textContent = '지금!';
-      if (kind === 'idle' && timed.length) panelLabel.textContent = '콜 대기 중';
+      for (const c of state.now) cueEls[c.index]?.classList.add('is-now');
+      if (state.soon) for (const c of state.next) cueEls[c.index]?.classList.add('is-next');
     }
-    if (kind === 'next') panelLabel.textContent = `다음 · ${Math.max(0, active[0].time - now).toFixed(1)}초`;
-
-    const after = timed.find((c) => c.time > now + 1.5 && !active.includes(c));
-    const afterText = after
-      ? `이후: ${song.cues[after.index].text || song.cues[after.index].note || ''} · ${Math.round(after.time - now)}초 후`
-      : '';
-    if (panelAfter.textContent !== afterText) panelAfter.textContent = afterText;
+    const sec = state.next.length ? Math.max(0, state.next[0].time - now) : null;
+    const nextLabel = sec === null ? '다음 콜 없음'
+      : `다음 · ${sec < 10 ? sec.toFixed(1) : Math.round(sec)}초 후`;
+    if (nextSlot.label.textContent !== nextLabel) nextSlot.label.textContent = nextLabel;
   }
 
   function tick() {

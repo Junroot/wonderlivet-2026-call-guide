@@ -127,9 +127,9 @@ export function timedCues(song) {
   return out.sort((a, b) => a.time - b.time || a.index - b.index);
 }
 
-// 콜 표시 영역 상태.
-// next: 1.5초 안에 다가오는 콜 묶음, now: 마지막으로 발동한 콜 묶음.
-// "지금" 상태는 다음 가사 줄이 시작되거나(until) 다음 콜 예고가 시작되면 끝난다.
+// 콜 표시 영역 상태. "지금"과 "다음"은 서로 다른 칸에 동시에 보인다.
+// next: 아직 오지 않은 가장 가까운 콜 묶음(거리 무관), soon: next가 PREVIEW_SEC 안인지,
+// now: 마지막으로 발동한 콜 묶음. "지금"은 다음 가사 줄이 시작되면(until) 끝난다.
 export function cueState(timed, now) {
   let firstFuture = timed.findIndex((c) => c.time > now);
   if (firstFuture === -1) firstFuture = timed.length;
@@ -145,10 +145,9 @@ export function cueState(timed, now) {
     return dir < 0 ? out.reverse() : out;
   };
 
-  const next = firstFuture < timed.length && timed[firstFuture].time - now <= PREVIEW_SEC
-    ? group(firstFuture, 1)
-    : [];
+  const next = group(firstFuture, 1);
+  const soon = next.length > 0 && next[0].time - now <= PREVIEW_SEC;
   const fired = group(firstFuture - 1, -1);
   const active = fired.length && now < Math.max(...fired.map((c) => c.until)) ? fired : [];
-  return { next, now: next.length ? [] : active };
+  return { next, soon, now: active };
 }

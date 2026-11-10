@@ -325,18 +325,39 @@ p { margin: 0 0 8px; }
 .external-reason { color: var(--warn); font-weight: 700; }
 .external-hint { color: var(--muted); }
 
-/* 콜 표시 영역: "다음"은 주황 테두리, "지금"은 주황 채움 */
+/* 콜 표시 영역: 위 "지금" 칸은 발동하면 주황 채움, 아래 "다음" 줄은 1.5초 전부터 주황 테두리 */
 .cue-panel {
+  display: grid;
+  gap: 6px;
   margin-top: 8px;
-  min-height: 84px;
+}
+.cue-slot {
+  min-width: 0;
+  min-height: 72px;
   padding: 8px 12px;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: var(--cut);
-  transition: border-color .1s, background-color .1s, color .1s, box-shadow .1s;
+  /* 켜질 때는 즉시, 꺼질 때는 천천히: 기본 상태로 돌아가는 전환이 이 값을 쓴다 */
+  transition: border-color .35s, background-color .35s, color .35s, box-shadow .35s;
 }
-.cue-panel[data-state="next"] { border-color: var(--orange); box-shadow: 0 0 0 1px var(--orange), 0 0 26px rgba(255, 92, 0, 0.25); }
-.cue-panel[data-state="now"] { background: var(--orange); border-color: var(--orange); color: var(--ink); box-shadow: 0 0 36px rgba(255, 92, 0, 0.45); }
+.cue-slot[data-state="now"], .cue-slot[data-state="soon"] {
+  transition: border-color .08s, background-color .08s, color .08s, box-shadow .08s;
+}
+/* 새 콜은 아래("다음" 쪽)에서 올라오며 나타나고, 끝난 콜은 흐려지며 사라진다 */
+.panel-cue { animation: cue-enter .24s var(--ease) both; }
+.panel-body { transition: opacity .35s; }
+.panel-body.is-leaving { opacity: 0; }
+@keyframes cue-enter {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .panel-cue { animation: none; }
+  .cue-slot, .cue-slot[data-state], .panel-body { transition: none; }
+}
+.cue-slot[data-state="soon"] { border-color: var(--orange); box-shadow: 0 0 0 1px var(--orange), 0 0 26px rgba(255, 92, 0, 0.25); }
+.cue-slot[data-state="now"] { background: var(--orange); border-color: var(--orange); color: var(--ink); box-shadow: 0 0 36px rgba(255, 92, 0, 0.45); }
 .panel-label {
   display: block;
   font-family: var(--font-display);
@@ -346,15 +367,21 @@ p { margin: 0 0 8px; }
   color: var(--muted);
   font-variant-numeric: tabular-nums;
 }
-.cue-panel[data-state="next"] .panel-label { color: var(--orange); }
-.cue-panel[data-state="now"] .panel-label,
-.cue-panel[data-state="now"] .cue-ko,
-.cue-panel[data-state="now"] .cue-note,
-.cue-panel[data-state="now"] .panel-after { color: var(--ink); opacity: 0.8; }
+.cue-slot[data-state="soon"] .panel-label { color: var(--orange); }
+.cue-slot[data-state="now"] .panel-label,
+.cue-slot[data-state="now"] .cue-ko,
+.cue-slot[data-state="now"] .cue-note { color: var(--ink); opacity: 0.8; }
 .panel-cue { display: flex; gap: 8px; align-items: flex-start; font-size: 1.25rem; font-weight: 800; }
 .panel-cue .cue-icon { font-size: 1.5rem; }
 .panel-cue .cue-ko, .panel-cue .cue-note { font-size: 0.85rem; font-weight: 600; }
-.panel-after { font-size: 0.78rem; color: var(--muted); margin: 4px 0 0; min-height: 1.2em; }
+/* "다음"은 미리보기라 라벨과 콜을 한 줄에 놓은 얇은 띠로 */
+.cue-slot + .cue-slot { display: flex; gap: 10px; align-items: baseline; min-height: 0; padding: 6px 12px; }
+.cue-slot + .cue-slot .panel-label { flex: none; }
+.cue-slot + .cue-slot .panel-body { min-width: 0; }
+.cue-slot + .cue-slot .panel-cue { font-size: 1rem; gap: 6px; }
+.cue-slot + .cue-slot .panel-cue .cue-icon { font-size: 1.2rem; }
+.cue-slot + .cue-slot .panel-cue .cue-ko { font-size: 0.78rem; }
+.cue-slot + .cue-slot .panel-cue .cue-note { display: none; }
 
 .lyrics { list-style: none; padding: 0; margin: 12px 0; }
 .line {
