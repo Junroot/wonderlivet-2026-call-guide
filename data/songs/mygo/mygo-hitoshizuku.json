@@ -231,9 +231,41 @@
   ],
   "cues": [
     {
+      "type": "penlight",
+      "text": "짙은 물빛 (파랑 계열)",
+      "color": "#2f8fd8",
+      "note": "MyGO!!!!! 상징색. 블레이드가 없으면 손을 흔든다",
+      "at": {
+        "t": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
+      "at": {
+        "line": 0,
+        "offset": 0
+      }
+    },
+    {
       "type": "call",
-      "text": "하이! ×12",
-      "note": "조용한 도입부(「顔上げた今日の僕を」) 뒤 간주",
+      "text": "어이!",
+      "at": {
+        "t": null,
+        "afterLine": 2
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "t": null,
+        "afterLine": 2
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
       "at": {
         "t": null,
         "afterLine": 2
@@ -242,34 +274,130 @@
     {
       "type": "clap",
       "text": "박수",
-      "note": "1절 「透明な傘で作る」~「(遮って隠れた)」 동안 박수",
       "at": {
         "line": 3,
         "offset": 0
       }
     },
     {
-      "type": "call",
-      "text": "하이! ×8",
-      "note": "1절 후렴 「この空といこう」 뒤, 「(アスファルト染めていく…)」 위로 외친다",
+      "type": "clap",
+      "text": "박수",
       "at": {
-        "line": 11,
+        "t": null,
+        "afterLine": 3
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 5,
         "offset": 0
       }
     },
     {
       "type": "call",
-      "text": "하이! ×8",
-      "note": "「上手に」와 「折り畳めないから」 사이, 줄 가운데에 넣는다",
+      "text": "어이!",
       "at": {
-        "line": 18,
-        "offset": 1.0
+        "t": null,
+        "afterLine": 5
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "t": null,
+        "afterLine": 5
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 빠르게 돌리기",
+      "at": {
+        "line": 15,
+        "offset": 0
+      },
+      "note": "하이라이트: 파란 계열 킹블을 발전기 돌리듯 빠르게 돌린다. 손을 너무 높이 들지 말 것. 싫으면 빠르게 흔들기"
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "line": 15,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 빠르게 돌리기",
+      "at": {
+        "line": 16,
+        "offset": 0
       }
     },
     {
       "type": "call",
-      "text": "하이! ×8",
-      "note": "간주. 콜표에 「느린 박자」로 표시",
+      "text": "어이!",
+      "at": {
+        "line": 18,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "line": 18,
+        "offset": 0
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "line": 18,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "at": {
+        "line": 19,
+        "offset": 0
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "line": 19,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
+      "at": {
+        "line": 20,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "헤드뱅잉 (고개를 앞뒤로)",
+      "at": {
+        "t": null,
+        "afterLine": 20
+      }
+    },
+    {
+      "type": "motion",
+      "text": "헤드뱅잉 (고개를 앞뒤로)",
       "at": {
         "t": null,
         "afterLine": 20
@@ -277,34 +405,119 @@
     },
     {
       "type": "call",
-      "text": "하이! ×8",
-      "note": "2절 후렴 「迷い続けるこの空といこう」 뒤, 「(曖昧に透ける色…)」 위로 외친다",
+      "text": "어이!",
       "at": {
-        "line": 27,
+        "t": null,
+        "afterLine": 20
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "t": null,
+        "afterLine": 20
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "t": null,
+        "afterLine": 20
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
+      "at": {
+        "line": 31,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 빠르게 돌리기",
+      "at": {
+        "line": 37,
         "offset": 0
       }
     },
     {
       "type": "call",
-      "text": "하이! ×8",
-      "note": "마지막 후렴 「まだ道は」와 「乾かないだろう」 사이",
+      "text": "어이!",
       "at": {
         "line": 40,
-        "offset": 1.0
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "line": 40,
+        "offset": 0
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "line": 40,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "at": {
+        "line": 41,
+        "offset": 0
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "line": 41,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
+      "at": {
+        "line": 42,
+        "offset": 0
       }
     },
     {
       "type": "singalong",
-      "text": "라라 라라라라 라라라라…",
-      "ko": null,
-      "note": "아웃트로 따라 부르기",
+      "text": "떼창 (줄 전체)",
       "at": {
         "t": null,
         "afterLine": 42
-      }
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "t": null,
+        "afterLine": 42
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
     }
   ],
   "sources": [
+    {
+      "label": "My One Ticket 호응가이드 (디시 이용자 제작)",
+      "url": "https://myoneticket.ing/artists/mygo/songs/htsz/guides/444"
+    },
     {
       "label": "디시 뱅드림 갤러리 「(원더리벳) 마이고 콜표 v1.0」",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bang_dream&no=6582806"

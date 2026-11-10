@@ -121,6 +121,7 @@ export async function songView(container, { id }) {
         h('p.badges', reviewBadges(song.review))),
       top),
     h('div.practice-main',
+      !song.lines.length && h('p.notice', '이 곡은 가사 없이 콜만 들어 있습니다. 콜 시간은 영상 기준입니다.'),
       list,
       h('section.sources',
         h('h2.section-label', h('span', 'SOURCE'), '응원 정보 출처'),

@@ -261,34 +261,234 @@
   ],
   "cues": [
     {
-      "type": "motion",
-      "text": "스텝 따라 추기",
-      "note": "인트로와 후렴에서 멤버(토모리 등)의 스텝을 따라 춘다. 정확한 박자는 출처에 없음",
+      "type": "penlight",
+      "text": "짙은 물빛 (파랑 계열)",
+      "color": "#2f8fd8",
+      "note": "MyGO!!!!! 상징색. 블레이드가 없으면 손을 흔든다",
       "at": {
-        "t": null,
-        "afterLine": -1
+        "t": 0
       }
     },
     {
       "type": "clap",
       "text": "박수",
-      "note": "곡 곳곳에서 클랩(리포트 기준). 정확한 위치 미확인이라 첫 후렴에 붙여 둠. 이후 후렴도 같음",
       "at": {
-        "line": 11,
+        "t": null,
+        "afterLine": -1
+      },
+      "note": "박수는 무조건 짝짝! 빠르게 한 번. 제자리에서 뛰며 뗑컨 댄스 가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "motion",
+      "text": "뗑컨 댄스",
+      "at": {
+        "t": null,
+        "afterLine": -1
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "at": {
+        "t": null,
+        "afterLine": -1
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 7,
+        "offset": 0
+      },
+      "note": "짝짝! 빠르게 한 번 치는 박수"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 7,
         "offset": 0
       }
     },
     {
       "type": "motion",
-      "text": "와이퍼",
-      "note": "손을 좌우로 흔드는 와이퍼 동작(3rd LIVE에서 연습한 동작). 위치 미확인이라 후렴 「シルエットダンス」 줄에 붙여 둠",
+      "text": "응원봉 좌우로 흔들기",
       "at": {
-        "line": 12,
+        "line": 11,
         "offset": 0
+      },
+      "note": "응원봉 좌우로 빠르게 흔들기, 응원봉 없으면 손 흔들기"
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 14,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "line": 18,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "at": {
+        "t": null,
+        "afterLine": 18
+      }
+    },
+    {
+      "type": "motion",
+      "text": "뗑컨 댄스",
+      "at": {
+        "t": null,
+        "afterLine": 18
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 19,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 27,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 27,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 좌우로 흔들기",
+      "at": {
+        "line": 31,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 34,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "at": {
+        "t": null,
+        "afterLine": 37
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": null,
+        "afterLine": 37
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": null,
+        "afterLine": 37
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "t": null,
+        "afterLine": 37
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 40,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 40,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 44,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "line": 48,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "at": {
+        "t": null,
+        "afterLine": 48
+      },
+      "note": "마지막은 점프를 하든 뗑컨 댄스를 추든 자유롭게"
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "t": null,
+        "afterLine": 48
+      }
+    },
+    {
+      "type": "motion",
+      "text": "뗑컨 댄스",
+      "at": {
+        "t": null,
+        "afterLine": 48
       }
     }
   ],
   "sources": [
+    {
+      "label": "My One Ticket 호응가이드 (디시 이용자 제작)",
+      "url": "https://myoneticket.ing/artists/mygo/songs/shdn/guides/400"
+    },
     {
       "label": "전격온라인 MyGO!!!!! 6th LIVE DAY2 리포트",
       "url": "https://dengekionline.com/article/202408/12527"

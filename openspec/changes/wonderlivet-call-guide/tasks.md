@@ -54,7 +54,7 @@
 대상: 閃光, ワタリドリ, starrrrrrr, Kick & Spin, ENDROLL ([Alexandros]) / FIRE BIRD, BLACK SHOUT, PASSIONATE ANTHEM, Neo-Aspect, Song I am., R (Roselia) / 世界はそれを愛と呼ぶんだぜ, できっこないを やらなくちゃ, ヒューマニティ！, 花束 (SAMBOMASTER) / オドループ, スパークルダンサー (FREDERIC) / 影色舞, 迷星叫, 壱雫空, 往欄印 (MyGO!!!!!) / 私、アイドル宣言, 今日もサクラ舞う暁に (CHiCO with HoneyWorks) / PONPONPON (Kyary Pamyu Pamyu)
 
 - [x] 8.1 영상 선택과 LRCLIB 뼈대 생성 (7.1과 같은 절차)
-- [ ] 8.2 콜 입력. 往欄印은 디시 콜표 이미지 05를 확인해야 상세 콜을 넣을 수 있다 (往欄印 외 23곡 완료. 往欄印은 마지막 떼창만 입력)
+- [x] 8.2 콜 입력. 往欄印은 디시 콜표 이미지 05를 확인해야 상세 콜을 넣을 수 있다 (往欄印은 My One Ticket 가이드로 입력)
 - [ ] 8.3 한글 발음 초안, `validate` 통과, 배포 (발음 초안·validate 완료, 배포는 승인 대기)
 - [ ] 8.4 타이밍과 발음 검수 — **사용자 검수**
 
@@ -69,8 +69,8 @@
 
 ## 10. 미조사 곡 재조사
 
-- [ ] 10.1 검색 한도 때문에 못 찾아본 약 28곡(`research/final-songs.md`의 "미조사" 목록)을 재조사하고, 결과를 `research/extra-calls-*.md`에 덧붙인다. 디시인사이드 갤러리의 원더리벳 2026 대비 콜표를 먼저 찾는다
-- [ ] 10.2 JavaScript로만 열리는 페이지(myoneticket.ing)와 디시 콜표 이미지는 브라우저 자동화로 읽을지 사용자에게 확인한 뒤 진행한다
+- [x] 10.1 검색 한도 때문에 못 찾아본 약 28곡(`research/final-songs.md`의 "미조사" 목록)을 재조사하고, 결과를 `research/extra-calls-*.md`에 덧붙인다. 디시인사이드 갤러리의 원더리벳 2026 대비 콜표를 먼저 찾는다
+- [x] 10.2 JavaScript로만 열리는 페이지(myoneticket.ing)와 디시 콜표 이미지는 브라우저 자동화로 읽을지 사용자에게 확인한 뒤 진행한다
 - [ ] 10.3 기준(응원 정보 있음 + 셋리스트 40% 이상)을 통과한 곡을 해당 일자 섹션 절차로 추가한다
 
 ## 11. 마무리 확인

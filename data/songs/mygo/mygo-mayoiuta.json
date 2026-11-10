@@ -191,18 +191,41 @@
   ],
   "cues": [
     {
-      "type": "call",
-      "text": "하이! ×8",
-      "note": "인트로 「La-la-la-la」(나나나나) 구간",
+      "type": "penlight",
+      "text": "짙은 물빛 (파랑 계열)",
+      "color": "#2f8fd8",
+      "note": "MyGO!!!!! 상징색. 블레이드가 없으면 손을 흔든다",
       "at": {
-        "line": 0,
-        "offset": 0.5
+        "t": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "at": {
+        "t": null,
+        "afterLine": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "t": null,
+        "afterLine": 0
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "t": null,
+        "afterLine": 0
       }
     },
     {
       "type": "clap",
       "text": "박수",
-      "note": "1절 첫 두 줄(「交差点の真ん中」~「漂うみたいだ」) 동안 박수",
       "at": {
         "line": 1,
         "offset": 0
@@ -211,25 +234,78 @@
     {
       "type": "clap",
       "text": "박수",
-      "note": "1절 프리코러스 두 줄(「また今日も声にならずに」~「下書き埋め尽くして」) 동안 박수",
+      "at": {
+        "line": 2,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 3,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
       "at": {
         "line": 7,
         "offset": 0
       }
     },
     {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 8,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
+      "at": {
+        "line": 14,
+        "offset": 0
+      }
+    },
+    {
       "type": "call",
-      "text": "하이! ×8",
-      "note": "1절 후렴(「迷い星のうた」) 뒤 간주",
+      "text": "어이!",
       "at": {
         "t": null,
         "afterLine": 14
       }
     },
     {
-      "type": "call",
-      "text": "하이! ×16",
-      "note": "기타 솔로 구간(2절 「迷い星のうた」 뒤)",
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "t": null,
+        "afterLine": 14
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "t": null,
+        "afterLine": 14
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
+      "at": {
+        "line": 28,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
       "at": {
         "t": null,
         "afterLine": 28
@@ -237,15 +313,90 @@
     },
     {
       "type": "call",
-      "text": "하이! ×8",
-      "note": "아웃트로 「La-la-la-la」 구간",
+      "text": "어이!",
       "at": {
-        "line": 34,
-        "offset": 0.5
+        "t": null,
+        "afterLine": 28
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "t": null,
+        "afterLine": 28
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "t": null,
+        "afterLine": 28
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "t": null,
+        "afterLine": 28
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
+      "at": {
+        "line": 29,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "line": 31,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 들기",
+      "at": {
+        "line": 33,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이!",
+      "at": {
+        "t": null,
+        "afterLine": 34
+      }
+    },
+    {
+      "type": "motion",
+      "text": "응원봉 흔들기",
+      "at": {
+        "t": null,
+        "afterLine": 34
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "t": null,
+        "afterLine": 34
       }
     }
   ],
   "sources": [
+    {
+      "label": "My One Ticket 호응가이드 (디시 이용자 제작)",
+      "url": "https://myoneticket.ing/artists/mygo/songs/mayoi/guides/363"
+    },
     {
       "label": "디시 뱅드림 갤러리 「(원더리벳) 마이고 콜표 v1.0」",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bang_dream&no=6582806"

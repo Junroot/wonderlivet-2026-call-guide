@@ -246,11 +246,29 @@
   ],
   "cues": [
     {
+      "type": "clap",
+      "text": "박수",
+      "note": "어쿠스틱 기타와 손뼉이 곡을 이끈다. 인트로부터 리듬에 맞춰 박수 (정확한 구간은 리포트에 없음)",
+      "at": {
+        "t": null,
+        "afterLine": -1
+      }
+    },
+    {
       "type": "motion",
       "text": "꼬리 흔들기",
-      "note": "다 같이 꼬리를 흔드는 동작(손이나 굿즈로). 리포트에 정확한 구간이 없어 첫 후렴에 붙임. 이후 후렴도 같음",
+      "note": "굿즈 「ケダモノのしっぽ」(꼬리)를 곡 리듬에 맞춰 흔든다. 꼬리가 없으면 손으로. 곡 내내 이어진다",
       "at": {
         "line": 8,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "후렴 함께 부르기",
+      "note": "「みなさんご一緒に、さんはい!」 하고 부르자고 하면 따라 부른다. 리포트에 구간이 없어 2번째 후렴에 붙임",
+      "at": {
+        "line": 23,
         "offset": 0
       }
     }
@@ -259,6 +277,22 @@
     {
       "label": "Real Sound にしな 투어 리포트 2024-12 (꼬리 흔들기)",
       "url": "https://realsound.jp/2024/12/post-1860306.html"
+    },
+    {
+      "label": "THE FIRST TIMES 공연 리포트 (꼬리 굿즈를 리듬에 맞춰 흔듦)",
+      "url": "https://www.thefirsttimes.jp/news/0000212918/"
+    },
+    {
+      "label": "LiveFans ATMC 리포트 (클랩이 이끄는 곡)",
+      "url": "https://www.livefans.jp/report/amp/62092"
+    },
+    {
+      "label": "ぴあ 프리 라이브 리포트 (자연스럽게 손뼉)",
+      "url": "https://lp.p.pia.jp/article/news/461301/index.html"
+    },
+    {
+      "label": "Rolling Stone Japan 『MUSICK』 리포트 (「さんはい!」 함께 부르기)",
+      "url": "https://www.excite.co.jp/news/article/RollingStone_42706"
     }
   ],
   "review": {

@@ -123,9 +123,26 @@
         "line": 0,
         "offset": 0
       }
+    },
+    {
+      "type": "singalong",
+      "text": "후렴 함께 부르기",
+      "note": "관객이 가사를 외워 곡 내내 목소리를 겹친다는 리포트가 있다. 구간은 특정되지 않아 첫 후렴에 붙임",
+      "at": {
+        "line": 4,
+        "offset": 0
+      }
     }
   ],
   "sources": [
+    {
+      "label": "ぴあ: FC 투어 리포트 (아카펠라 도입에 관객 노래가 겹침)",
+      "url": "https://lp.p.pia.jp/article/news/475558/index.html"
+    },
+    {
+      "label": "Real Sound: FC 투어 『ACCESS ALL AREA』 리포트 (2026-06)",
+      "url": "https://realsound.jp/2026/06/post-2416339.html"
+    },
     {
       "label": "Real Sound YOU ARE WELCOME TOUR 파이널 리포트 (일본어)",
       "url": "https://realsound.jp/2026/09/post-2513494.html"

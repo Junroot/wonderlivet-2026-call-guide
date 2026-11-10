@@ -71,6 +71,8 @@
       "order": 4,
       "path": "data/songs/alexandros/alexandros-kick-and-spin.json",
       "cueTypes": [
+        "call",
+        "clap",
         "singalong",
         "motion"
       ],
@@ -215,6 +217,9 @@
       "order": 1,
       "path": "data/songs/conton-candy/conton-candy-fuzzy-navel.json",
       "cueTypes": [
+        "call",
+        "clap",
+        "jump",
         "singalong"
       ],
       "review": {
@@ -291,8 +296,12 @@
       "order": 1,
       "path": "data/songs/mygo/mygo-kageiromai.json",
       "cueTypes": [
+        "call",
         "clap",
-        "motion"
+        "jump",
+        "singalong",
+        "motion",
+        "penlight"
       ],
       "review": {
         "pronunciation": false,
@@ -307,7 +316,10 @@
       "path": "data/songs/mygo/mygo-mayoiuta.json",
       "cueTypes": [
         "call",
-        "clap"
+        "clap",
+        "jump",
+        "motion",
+        "penlight"
       ],
       "review": {
         "pronunciation": false,
@@ -323,7 +335,10 @@
       "cueTypes": [
         "call",
         "clap",
-        "singalong"
+        "jump",
+        "singalong",
+        "motion",
+        "penlight"
       ],
       "review": {
         "pronunciation": false,
@@ -337,7 +352,11 @@
       "order": 4,
       "path": "data/songs/mygo/mygo-ourai.json",
       "cueTypes": [
-        "singalong"
+        "call",
+        "jump",
+        "singalong",
+        "motion",
+        "penlight"
       ],
       "review": {
         "pronunciation": false,
@@ -366,6 +385,8 @@
       "order": 1,
       "path": "data/songs/nishina/nishina-kedamono-no-friends.json",
       "cueTypes": [
+        "clap",
+        "singalong",
         "motion"
       ],
       "review": {
@@ -657,6 +678,35 @@
       }
     },
     {
+      "id": "sweet-steady-sweet-step",
+      "artistId": "sweet-steady",
+      "title": "SWEET STEP",
+      "order": 1,
+      "path": "data/songs/sweet-steady/sweet-steady-sweet-step.json",
+      "cueTypes": [
+        "call",
+        "clap"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "sweet-steady-heart-no-mahou",
+      "artistId": "sweet-steady",
+      "title": "ハートの魔法",
+      "order": 2,
+      "path": "data/songs/sweet-steady/sweet-steady-heart-no-mahou.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
       "id": "sweet-steady-call-me-tell-me",
       "artistId": "sweet-steady",
       "title": "Call me, Tell me",
@@ -667,6 +717,20 @@
       ],
       "review": {
         "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sweet-steady-dash",
+      "artistId": "sweet-steady",
+      "title": "DASH!!!",
+      "order": 4,
+      "path": "data/songs/sweet-steady/sweet-steady-dash.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": true,
         "timing": false
       }
     },
@@ -693,7 +757,8 @@
       "cueTypes": [
         "call",
         "clap",
-        "singalong"
+        "jump",
+        "motion"
       ],
       "review": {
         "pronunciation": false,

@@ -285,6 +285,15 @@
       }
     },
     {
+      "type": "motion",
+      "text": "오도루프 춤",
+      "note": "MV의 단순한 춤을 따라 하거나 자유롭게 변형해서 춘다 (디시 「리벳 대비 외울 춤」 목록에 포함)",
+      "at": {
+        "line": 8,
+        "offset": 0
+      }
+    },
+    {
       "type": "clap",
       "text": "たんたん 박수",
       "ko": "탄탄",
@@ -293,9 +302,41 @@
         "line": 19,
         "offset": 1.6
       }
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってない夜を知らない",
+      "ko": "오돗테나이 요루오 시라나이",
+      "note": "2절 후렴. 곡이 진행될수록 박수와 떼창이 겹친다",
+      "at": {
+        "line": 23,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "踊ってない夜を知らない",
+      "ko": "오돗테나이 요루오 시라나이",
+      "note": "마지막 후렴. 무도관 공연에서도 이 구절 대합창",
+      "at": {
+        "line": 35,
+        "offset": 0
+      }
     }
   ],
   "sources": [
+    {
+      "label": "マイナビ: 「オドループ」 춤 따라 하기 확산 기사",
+      "url": "https://news.mynavi.jp/article/20151118-frederic/"
+    },
+    {
+      "label": "디시 일본 가수 갤러리: 리벳 대비 외울 춤 리스트",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=770737"
+    },
+    {
+      "label": "Billboard JAPAN: 무도관 공연 리포트 (앵콜 「オドループ」 후렴 대합창)",
+      "url": "https://www.billboard-japan.com/d_news/detail/146833/2"
+    },
     {
       "label": "adorehack 프레데릭 정석곡 20선 (일본어)",
       "url": "https://adorehack.com/article/frederic-live-songs/"

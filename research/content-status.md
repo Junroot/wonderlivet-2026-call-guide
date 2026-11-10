@@ -1,6 +1,6 @@
 # 곡 데이터 작업 현황
 
-곡 파일을 만들 때 생긴 문제와 사용자 검수 때 확인할 점을 곡별로 적는다. "임베드"는 사이트 안 재생 여부다(2026-11-10 브라우저에서 실제 재생으로 확인). 막힌 곡은 외부 재생 모드로 연습한다.
+곡 파일을 만들 때 생긴 문제와 사용자 검수 때 확인할 점을 곡별로 적는다. "임베드" 열은 `http://127.0.0.1`에서 시험한 결과라 틀렸다. `http://localhost`와 공개 HTTPS 주소에서 다시 시험하니 **52곡 모두 재생된다**(2026-11-10). 표의 "막힘"은 무시해도 된다.
 
 ## 금요일 11/20
 
@@ -42,7 +42,7 @@
 | MyGO!!!!! 影色舞 | iFIXi6zzCls MV | 재생됨 | 박수·와이퍼 위치 추정, dcinside 콜표 이미지 미확인 |
 | MyGO!!!!! 迷星叫 | w-Gvclnnfpc MV | 재생됨 | MV가 5초 김. 간주 하이! 콜 2개 시간 미정 |
 | MyGO!!!!! 壱雫空 | CPA86QguiHY 공식 instrumental | 재생됨 | **보컬 없는 반주 영상.** 원곡은 외부 재생 모드로 |
-| MyGO!!!!! 往欄印 | KVsLvO_kvGo MV | 재생됨 | **상세 콜 미입력** (dcinside 콜표 이미지 05 미확인). 마지막 떼창 1개만 |
+| MyGO!!!!! 往欄印 | KVsLvO_kvGo MV | 재생됨 | My One Ticket 가이드로 콜 21개 |
 | CHiCO 私、アイドル宣言 | m7ddbml_vkY 공식 | 재생됨 | 콜 23개, 출처는 팬 글 1건. 「○○!」를 「CHiCO!」로 적음 |
 | CHiCO 今日もサクラ舞う暁に | dnJ4BQCW2ZY MV | 재생됨 | 타월 위치 미기재라 첫 후렴에 붙임 |
 | 캬리 PONPONPON | yzC4hFK5P3g MV | 막힘 | MV가 17초 김. 춤 구간 위치 추정, 출처 신뢰도 낮음 |
@@ -64,11 +64,29 @@
 | 유즈 ビューティフル | AFFWL8AjKQQ 공식 Visualizer | 재생됨 | 따라 부르기 위치 추정. 運命 읽기 |
 | SWEET STEADY Call me, Tell me | aCsHzjGt_QU 공식 스페셜 영상 | 재생됨 | **LRCLIB가 일반 가사뿐이라 62줄 시간을 모두 찍어야 함.** 팡 MIX 위치 추정 |
 | SWEET STEADY カワイイコレクション | PXMessDoNeo MV | 재생됨 | 「OK!」 위치 추정. 避けちゃって 읽기 |
-| SWEET STEADY SWEET STEP | (1546cwoU6Wg MV 확인만) | - | **LRCLIB에 가사 없음.** 콜 출처(oshikatsu, idol-info.site) 확보 |
-| SWEET STEADY ハートの魔法 | (KtzrJWgIdqM Topic 확인만) | - | **LRCLIB에 가사 없음.** oshikatsu에 콜 11곳 |
-| SWEET STEADY DASH!!! | (gomXHymBcHQ Cheering Guide) | - | **LRCLIB에 가사 없음.** 보컬 있는 공식 음원은 Cheering Guide뿐. oshikatsu에 콜 6곳 |
+| SWEET STEADY SWEET STEP | YtpbG4bnaYA 공식 라이브 | 재생됨 | **가사 없이 콜만** (콜렌 시간 데이터, 39묶음) |
+| SWEET STEADY ハートの魔法 | hRseb2KsyHk 공식 라이브 | 재생됨 | **가사 없이 콜만** (콜렌, 102묶음) |
+| SWEET STEADY DASH!!! | ihhoXKr6ku0 공식 라이브 | 재생됨 | **가사 없이 콜만** (콜렌, 66묶음) |
 | CANDY TUNE 総意♡So Free | mnf87lhGgqE MV | 재생됨 | MV가 6초 김. A멜로 응답 「So Free」/「総意！」 확인 필요 |
 | CANDY TUNE 倍倍FIGHT! | 9HKbo1FstOE MV | 재생됨 | Topic(6mTKPDwzoRM)이 막혀 MV로 바꿈(길이 같음). 콜 22개 |
 | CANDY TUNE キス・ミー・パティシエ | esPFCP4arBc MV | 재생됨 | Topic이 막혀 MV로 바꿈(+2초). 콜 15개 |
 | 오오츠카 아이 さくらんぼ | upODO6OuOOk avex 공식 | 재생됨 | Topic이 막혀 바꿈. **영상이 7초 김, offsetSec 필요.** 6번째 줄 원문 오기 의심 |
 | eill フィナーレ。 | 1lYb9nLO_FY MV | 막힘 | 근거가 익명 후기 1건. 대체 공식 스튜디오 영상 없음 |
+
+## 디시 재조사 반영 (2026-11-10)
+
+자세한 내용은 `extra-calls-dcinside.md`. 디시 이용자 제작 가이드 3곳(응원 가이드 사이트, My One Ticket, 콜렌)으로 21곡의 콜을 바꾸거나 새로 만들었다. 가이드 줄과 맞추지 못한 콜은 "위치 확인 필요" 메모와 함께 시간 미정 콜로 들어 있다. Chevon 冥冥·銃電中·FLASH BACK!!!!!!!!과 jo0ji 条司는 여전히 곡 파일이 없다(콜이 대부분 가사 떼창이라 가사 없이는 쓸모가 적음).
+
+## 콜이 적던 곡 재조사 (2026-11-10)
+
+| 곡 | 콜 수 | 새 근거 |
+|---|---|---|
+| [Alexandros] Kick & Spin | 2 → 13 | 디시 일본 가수 갤러리 「알렉산드로스 콜가이드」 이미지 콜표 (no=813923): 인트로 박수, 「down」 외치기, 「Stay alight, stay alive」 떼창, 「어이!」, 마지막 일본어 떼창 |
+| [Alexandros] ENDROLL | 1 → 2 | Real Sound·ぴあ 리포트: 후렴 함께 부르기 (구간 미기재) |
+| FREDERIC オドループ | 3 → 6 | adorehack, Billboard JAPAN 무도관 리포트, 디시 "리벳 대비 외울 춤 리스트": 2절·마지막 후렴 떼창, 오도루프 춤 |
+| nishina ケダモノのフレンズ | 1 → 3 | LiveFans·ぴあ·Rolling Stone 리포트: 인트로 박수, 후렴 함께 부르기 |
+| Conton Candy ファジーネーブル | 1 → 5 | LiveFans 투어 리포트: 박수, 점프, 간주 「ワン・ツー!」, 落ちサビ 함께 부르기 |
+| eill フィナーレ。 | 1 → 3 | THE FIRST TIMES 5주년 리포트: 후렴 대합창 |
+| 大塚愛 さくらんぼ | 6 (변경 없음) | 박수 위치를 적은 출처를 찾지 못함 |
+
+새로 넣은 콜 중 리포트 근거인 것은 구간이 적혀 있지 않아 위치가 추정이다. 디시 알렉산드로스 콜표에는 閃光·ワタリドリ·Starrrrrrr 페이지도 있어, 응원 가이드 사이트 콜과 대조하면 박수 구간을 보강할 수 있다.

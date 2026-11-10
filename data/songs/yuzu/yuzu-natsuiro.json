@@ -151,20 +151,134 @@
   ],
   "cues": [
     {
-      "type": "clap",
-      "text": "탬버린·박수",
-      "note": "곡 내내 탬버린을 흔들거나 박수를 친다. 시작 위치는 출처에 없음",
+      "type": "jump",
+      "text": "점프",
       "at": {
         "t": null,
         "afterLine": -1
+      },
+      "note": "선창하면 후창하기 가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 0,
+        "offset": 0
       }
     },
     {
-      "type": "singalong",
-      "text": "다 같이 부르기",
-      "note": "후렴 「この長い長い下り坂を」부터 장내 전체가 함께 부른다. 마지막 후렴까지 반복",
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 1,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 2,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 3,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 4,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 5,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
       "at": {
         "line": 8,
+        "offset": 0
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프",
+      "at": {
+        "t": null,
+        "afterLine": 8
+      },
+      "note": "가이드 줄과 맞추지 못해 위치 확인 필요"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 10,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 11,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 12,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 21,
+        "offset": 0
+      },
+      "note": "짝 짝 짝짝짝 짝 짝 짝짝짝"
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "at": {
+        "line": 22,
+        "offset": 0
+      },
+      "note": "짝 짝 짝짝짝 짝 짝 짝짝짝"
+    },
+    {
+      "type": "motion",
+      "text": "손 흔들기",
+      "at": {
+        "line": 25,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "손 흔들기",
+      "at": {
+        "line": 25,
         "offset": 0
       }
     },
@@ -180,6 +294,10 @@
     }
   ],
   "sources": [
+    {
+      "label": "My One Ticket 호응가이드 (디시 이용자 제작)",
+      "url": "https://myoneticket.ing/artists/yuzu/songs/wtvb/guides/745"
+    },
     {
       "label": "Real Sound 2025 ゆず 아레나 투어 리포트",
       "url": "https://realsound.jp/2025/03/post-1951822_2.html"

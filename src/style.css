@@ -391,6 +391,8 @@ p { margin: 0 0 8px; }
 .cue-ko { color: var(--muted); }
 .cue-note { color: var(--muted); font-size: 0.8rem; }
 
+.notice { margin: 12px 0; padding: 8px 12px; border: 1px dashed var(--line-strong); color: var(--orange-soft); font-size: 0.88rem; font-weight: 700; }
+
 .sources ul { padding-left: 18px; margin: 0; font-size: 0.9rem; }
 
 /* 좁은 화면: 플레이어·콜 영역이 가사 전체 구간에서 위에 고정되도록 감싸는 상자를 푼다 */

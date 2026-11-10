@@ -385,16 +385,113 @@
       }
     },
     {
-      "type": "singalong",
-      "text": "따라 부르기",
-      "note": "곡 내내 객석이 함께 부른다. 위치가 적혀 있지 않아 첫 후렴 「Stay alight / Stay alive」에 붙임",
+      "type": "clap",
+      "text": "드럼 박자에 맞춰 박수",
+      "note": "첫 가사부터 「in bed」로 끝나는 줄까지 드럼 박자에 맞춰 박수",
       "at": {
-        "line": 43,
+        "line": 0,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "down! down! down!",
+      "note": "「I go down」이 세 번 반복되는 구간에서 「down」을 함께 외친다 (LRCLIB 가사에 없는 구간)",
+      "at": {
+        "t": null,
+        "afterLine": 21
+      }
+    },
+    {
+      "type": "call",
+      "text": "down! down! down!",
+      "note": "2절. 「I go down」 반복 구간의 「down」을 함께 외친다",
+      "at": {
+        "t": null,
+        "afterLine": 36
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Stay alight, stay alive, stay alight",
+      "at": {
+        "line": 44,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Stay alight, stay alive",
+      "at": {
+        "line": 48,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "어이! 어이!",
+      "note": "박자가 바뀌는 지점부터 반복해서 외친다",
+      "at": {
+        "t": null,
+        "afterLine": 51
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "note": "박자가 바뀐 뒤 일본어 네 줄을 모두 함께 부른다",
+      "at": {
+        "line": 52,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 53,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 54,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 55,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Stay alight, stay alive, stay alight",
+      "note": "마지막 후렴",
+      "at": {
+        "line": 63,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Stay alight, stay alive",
+      "at": {
+        "line": 67,
         "offset": 0
       }
     }
   ],
   "sources": [
+    {
+      "label": "디시 일본 가수 갤러리: 알렉산드로스 콜가이드 (2026-09-29, 이미지 콜표: 빨강=떼창, 노랑=박수)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=singer_&no=813923"
+    },
     {
       "label": "adorehack [Alexandros] 라이브 정석곡 20선 (일본어)",
       "url": "https://adorehack.com/article/alexandros-live-songs/"

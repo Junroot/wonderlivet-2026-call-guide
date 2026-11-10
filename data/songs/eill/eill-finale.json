@@ -228,12 +228,33 @@
         "line": 0,
         "offset": 0
       }
+    },
+    {
+      "type": "singalong",
+      "text": "후렴 대합창",
+      "note": "5주년 공연에서 곡이 끝난 뒤에도 관객이 이 곡을 대합창했다. 후렴을 따라 부를 준비",
+      "at": {
+        "line": 9,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "후렴 대합창",
+      "at": {
+        "line": 25,
+        "offset": 0
+      }
     }
   ],
   "sources": [
     {
       "label": "디시인사이드 eill 갤러리 2026 서울 공연 후기",
       "url": "https://gall.dcinside.com/mini/eill/3985"
+    },
+    {
+      "label": "THE FIRST TIMES 5주년 공연 리포트 (관객 대합창)",
+      "url": "https://www.thefirsttimes.jp/report/0000299125/"
     }
   ],
   "review": {
