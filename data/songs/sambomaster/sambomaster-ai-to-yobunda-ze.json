@@ -202,7 +202,7 @@
   "cues": [
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "보쿠라 나제카 타시카메아우 세카이쟈 소레오 아이토 요분다제",
       "at": {
         "line": 7,
         "offset": 0
@@ -210,7 +210,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "보쿠라 소레오 타시카메아우 세카이쟈 소레모 아이토 요분다제",
       "at": {
         "line": 19,
         "offset": 0
@@ -227,7 +227,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "아이토 헤-와! 카나시미데 하나가 사쿠모노카",
       "at": {
         "line": 23,
         "offset": 0
@@ -235,7 +235,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "세카이와 소레오 맛테이룬다제",
       "at": {
         "line": 30,
         "offset": 0
@@ -252,7 +252,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "Love and peace",
       "at": {
         "line": 31,
         "offset": 0

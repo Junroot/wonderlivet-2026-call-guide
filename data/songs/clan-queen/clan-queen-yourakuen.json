@@ -292,7 +292,7 @@
   "cues": [
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "아이시앗테 노메리콘데",
       "at": {
         "line": 9,
         "offset": 0
@@ -300,7 +300,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "아이시앗테 노메리콘데",
       "at": {
         "line": 11,
         "offset": 0
@@ -308,7 +308,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "아이시앗테 노메리콘데",
       "at": {
         "line": 13,
         "offset": 0
@@ -316,7 +316,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "마타 (one, two, three, four, five) 오도레",
       "at": {
         "line": 15,
         "offset": 0
@@ -333,7 +333,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "아이시앗테 노메리콘데",
       "at": {
         "line": 29,
         "offset": 0
@@ -341,7 +341,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "아이시앗테 노메리콘데",
       "at": {
         "line": 31,
         "offset": 0
@@ -349,7 +349,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "마타 (one, two, three, four, five) 오도레",
       "at": {
         "line": 33,
         "offset": 0

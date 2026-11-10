@@ -302,7 +302,7 @@
   "cues": [
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "「키라와레챳타라 도-시요-?」",
       "at": {
         "line": 12,
         "offset": 0
@@ -310,7 +310,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "토카 캉가에텐노 이로이로",
       "at": {
         "line": 13,
         "offset": 0
@@ -318,7 +318,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "「키라와레챳타라 도-시요-?」",
       "at": {
         "line": 14,
         "offset": 0
@@ -326,7 +326,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "토카 캉가에텐노 이로이로",
       "at": {
         "line": 15,
         "offset": 0
@@ -398,7 +398,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "「키라와레챳타라 도-시요-?」",
       "at": {
         "line": 41,
         "offset": 0
@@ -406,7 +406,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "토카 캉가에텐노 이로이로",
       "at": {
         "line": 42,
         "offset": 0
@@ -414,7 +414,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "「키라와레챳타라 도-시요-?」",
       "at": {
         "line": 43,
         "offset": 0
@@ -422,7 +422,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "토카 캉가에텐노 이로이로",
       "at": {
         "line": 44,
         "offset": 0
@@ -430,7 +430,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "「키라와레챳타라 도-시요-?」",
       "at": {
         "line": 53,
         "offset": 0
@@ -439,7 +439,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "토카 캉가에텐노 이로이로",
       "at": {
         "line": 54,
         "offset": 0
@@ -447,7 +447,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "「키라와레챳타라 도-시요-?」",
       "at": {
         "line": 55,
         "offset": 0
@@ -455,7 +455,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "토카 캉가에텐노 이로이로",
       "at": {
         "line": 56,
         "offset": 0

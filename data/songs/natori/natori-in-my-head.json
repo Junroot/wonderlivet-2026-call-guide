@@ -272,7 +272,7 @@
   "cues": [
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "In my head!",
       "at": {
         "line": 0,
         "offset": 0
@@ -288,7 +288,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "In my head!",
       "at": {
         "line": 1,
         "offset": 0
@@ -367,7 +367,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "In my head!",
       "at": {
         "line": 17,
         "offset": 0
@@ -375,7 +375,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "In my head!",
       "at": {
         "line": 18,
         "offset": 0

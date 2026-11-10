@@ -302,7 +302,7 @@
   "cues": [
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "이키츠기닷테, 기리기리나 보쿠라와",
       "at": {
         "line": 6,
         "offset": 0
@@ -310,7 +310,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "메토 메, 아와세테 아이즈시테",
       "at": {
         "line": 7,
         "offset": 0
@@ -318,7 +318,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "이야이야, 소노 아이오 마모루 타메니",
       "at": {
         "line": 9,
         "offset": 0
@@ -326,7 +326,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "이마, 히츠요-나노와 손나 이-와케쟈나이제",
       "at": {
         "line": 10,
         "offset": 0
@@ -334,7 +334,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "젠부, 모야시츠쿠시테 젯타이레-도",
       "at": {
         "line": 12,
         "offset": 0
@@ -342,7 +342,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "리유-모 테-사이모 칸케-나이",
       "at": {
         "line": 13,
         "offset": 0
@@ -350,7 +350,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "모-, 후랏슈박쿠 & 디스코뮤니케-숀!",
       "at": {
         "line": 14,
         "offset": 0
@@ -358,7 +358,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "맛타쿠 못테, 츠마라나이",
       "at": {
         "line": 19,
         "offset": 0
@@ -366,7 +366,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "사비쿠사이 마치노 니오이야 켄소-니 바츠텐",
       "at": {
         "line": 20,
         "offset": 0
@@ -374,7 +374,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "맛타쿠 못테, 츠마라나이",
       "at": {
         "line": 22,
         "offset": 0
@@ -382,7 +382,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "사비쿠사이 마치노 니오이야 켄소-니 바츠텐",
       "at": {
         "line": 23,
         "offset": 0
@@ -390,7 +390,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "젠부, 모야시츠쿠시테 젯타이레-도",
       "at": {
         "line": 25,
         "offset": 0
@@ -398,7 +398,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "우밧테, 우바이카에스 젠쇼-센",
       "at": {
         "line": 26,
         "offset": 0
@@ -406,7 +406,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "모-, 후랏슈박쿠 & 디스코뮤니케-숀!",
       "at": {
         "line": 27,
         "offset": 0
@@ -414,7 +414,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "젠부, 모야시츠쿠시테 젯타이레-도",
       "at": {
         "line": 38,
         "offset": 0
@@ -422,7 +422,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "시로쿠로 츠케요-제, 엔쵸-센",
       "at": {
         "line": 39,
         "offset": 0
@@ -430,7 +430,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "소-, 난도모 난도모 난도모 난도모",
       "at": {
         "line": 40,
         "offset": 0
@@ -438,7 +438,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "젠부, 모야시츠쿠시테 젯타이레-도",
       "at": {
         "line": 41,
         "offset": 0
@@ -446,7 +446,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "리유-모 테-사이모 칸케-나이",
       "at": {
         "line": 42,
         "offset": 0
@@ -454,7 +454,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "모-, 후랏슈박쿠 & 디스코뮤니케-숀!",
       "at": {
         "line": 43,
         "offset": 0
@@ -471,7 +471,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "나-, 제츠보-가 난닷테",
       "at": {
         "line": 51,
         "offset": 0
@@ -479,7 +479,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "요아케가 코나쿠탓테",
       "at": {
         "line": 54,
         "offset": 0
@@ -487,7 +487,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "아메가 후리야마나쿠탓테",
       "at": {
         "line": 55,
         "offset": 0
@@ -495,7 +495,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "이테츠쿠 호도 모에테이루, 젯타이레-도",
       "at": {
         "line": 56,
         "offset": 0

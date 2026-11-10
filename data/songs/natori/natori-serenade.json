@@ -322,7 +322,7 @@
   "cues": [
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "유루세나이, 이마노 보쿠와 다레?",
       "at": {
         "line": 7,
         "offset": 0
@@ -330,7 +330,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "다레데모 나이, 아나타 아나타다케",
       "at": {
         "line": 18,
         "offset": 0
@@ -338,7 +338,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "세카이가 마다 와스레테 쿠레나쿠테모",
       "at": {
         "line": 19,
         "offset": 0
@@ -346,7 +346,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "킷토, 마다 아나타 아나타다케",
       "at": {
         "line": 20,
         "offset": 0
@@ -354,7 +354,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "다레데모 나이, 아나타 아나타다케",
       "at": {
         "line": 55,
         "offset": 0
@@ -362,7 +362,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "세카이가 마다 와스레테 쿠레나쿠테모",
       "at": {
         "line": 56,
         "offset": 0
@@ -370,7 +370,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "킷토, 마다 아나타 아나타다케",
       "at": {
         "line": 57,
         "offset": 0

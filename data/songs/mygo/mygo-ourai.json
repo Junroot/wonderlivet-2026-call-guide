@@ -335,7 +335,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "떼창",
       "at": {
         "t": null,
         "afterLine": 15
@@ -410,7 +410,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "코코로노 하시오 타돗테 키미니 아이니 이쿠",
       "at": {
         "line": 49,
         "offset": 0
@@ -427,7 +427,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "코코로노 하시오 타도리 키미니 후레타이",
       "at": {
         "line": 52,
         "offset": 0
@@ -435,7 +435,7 @@
     },
     {
       "type": "singalong",
-      "text": "떼창 (줄 전체)",
+      "text": "후안사에 미에나쿠나루 쿠라이 (보쿠라와)",
       "at": {
         "line": 53,
         "offset": 0
