@@ -123,7 +123,7 @@ export async function songView(container, { id }) {
     h('div.practice-main',
       list,
       h('section.sources',
-        h('h2', '응원 정보 출처'),
+        h('h2.section-label', h('span', 'SOURCE'), '응원 정보 출처'),
         h('ul', song.sources.map((s) => h('li', h('a', { href: s.url, target: '_blank', rel: 'noopener' }, s.label ?? s.url))))),
       h('p.footnote', h('a', { href: `#/edit/${song.id}` }, '타이밍 보정 화면 →'))),
   );

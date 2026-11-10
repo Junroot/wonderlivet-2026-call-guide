@@ -19,10 +19,24 @@ function byStart(a, b) {
   return 0;
 }
 
+const DOW = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
+
+function dayParts(date) {
+  const d = new Date(`${date}T00:00:00`);
+  return { day: String(d.getDate()).padStart(2, '0'), dow: DOW[d.getDay()] };
+}
+
+export function stageClass(a) {
+  return a.stage ? `stage-${a.stage.toLowerCase()}` : 'stage-unknown';
+}
+
+export function timeText(a) {
+  return a.start ? `${a.start}${a.end ? ` - ${a.end}` : ''}` : '시간 미정';
+}
+
 export function slotText(a) {
   const stage = a.stage ? `${a.stage} STAGE` : '스테이지 미정';
-  const time = a.start ? `${a.start}${a.end ? `–${a.end}` : ''}` : '시간 미정';
-  return `${stage} · ${time}`;
+  return `${stage} · ${timeText(a)}`;
 }
 
 export async function homeView(container, _params, query) {
@@ -30,11 +44,15 @@ export async function homeView(container, _params, query) {
   const selected = lineup.days.some((d) => d.date === query.d) ? query.d : defaultDay(lineup.days);
 
   const tabs = h('nav.day-tabs', { role: 'tablist' },
-    lineup.days.map((d) => h('a.day-tab', {
-      href: `#/?d=${d.date}`,
-      role: 'tab',
-      'aria-selected': d.date === selected ? 'true' : 'false',
-    }, d.label)));
+    lineup.days.map((d) => {
+      const { day, dow } = dayParts(d.date);
+      return h('a.day-tab', {
+        href: `#/?d=${d.date}`,
+        role: 'tab',
+        'aria-selected': d.date === selected ? 'true' : 'false',
+        'aria-label': d.label,
+      }, h('strong', day), h('sup', dow));
+    }));
 
   const artists = lineup.artists
     .filter((a) => a.date === selected && songsByArtist.has(a.id))
@@ -42,16 +60,19 @@ export async function homeView(container, _params, query) {
 
   const list = artists.length
     ? h('ul.artist-list', artists.map((a) => h('li',
-      h('a.artist-card', { href: `#/artist/${a.id}` },
+      h('a.artist-card', { href: `#/artist/${a.id}`, class: stageClass(a) },
         h('span.artist-name', a.name),
-        a.nameKo !== a.name && h('span.artist-name-ko', a.nameKo),
-        h('span.artist-meta', `${slotText(a)} · ${songsByArtist.get(a.id).length}곡`)))))
+        h('span.artist-time', timeText(a)),
+        h('span.artist-meta',
+          [a.nameKo !== a.name && a.nameKo, a.stage ? `${a.stage} STAGE` : '스테이지 미정', `${songsByArtist.get(a.id).length}곡`]
+            .filter(Boolean).join(' · '))))))
     : h('p.empty', '이 날은 아직 곡 데이터가 있는 아티스트가 없습니다.');
 
   container.replaceChildren(
     h('header.site-header',
-      h('h1', lineup.festival?.name ?? 'WONDERLIVET 2026', h('span.sub', ' 콜 연습')),
-      lineup.festival?.venue && h('p.muted', lineup.festival.venue)),
+      h('p.eyebrow', 'CALL GUIDE · 개인 연습용'),
+      h('h1.display', lineup.festival?.name ?? 'WONDERLIVET 2026'),
+      h('p.site-sub', '콜 연습', lineup.festival?.venue && h('span.muted', ` · ${lineup.festival.venue}`))),
     tabs,
     list,
     lineup.lineupNote && h('p.footnote', lineup.lineupNote),

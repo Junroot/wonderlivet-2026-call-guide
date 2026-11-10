@@ -2,7 +2,7 @@ import { h } from '../dom.js';
 import { loadCatalog } from '../data.js';
 import { notFound } from '../router.js';
 import { cueIcon, reviewBadges } from '../cue-types.js';
-import { slotText } from './home.js';
+import { slotText, stageClass } from './home.js';
 
 export async function artistView(container, { id }) {
   const { lineup, artists, songsByArtist } = await loadCatalog();
@@ -14,12 +14,13 @@ export async function artistView(container, { id }) {
   container.replaceChildren(
     h('nav.crumbs', h('a', { href: `#/?d=${artist.date}` }, `← ${day?.label ?? '목록'}`)),
     h('header.page-header',
-      h('h1', artist.name),
+      h('p.eyebrow', h('span.stage-chip', { class: stageClass(artist) }, artist.stage ? `${artist.stage} STAGE` : 'STAGE TBA')),
+      h('h1.display', artist.name),
       artist.nameKo !== artist.name && h('p.artist-name-ko', artist.nameKo),
       h('p.muted', `${day?.label ?? artist.date} · ${slotText(artist)}`)),
 
     artist.rituals?.length > 0 && h('section.rituals',
-      h('h2', '공연 의식'),
+      h('h2.section-label', h('span', 'RITUAL'), '공연 의식'),
       artist.rituals.map((r) => h('article.ritual',
         h('h3', r.name),
         h('p', r.description),
@@ -29,7 +30,7 @@ export async function artistView(container, { id }) {
         ]))))),
 
     h('section.songs',
-      h('h2', `곡 ${songs.length}개`),
+      h('h2.section-label', h('span', 'SONGS'), `곡 ${songs.length}개`),
       songs.length
         ? h('ul.song-list', songs.map((s) => h('li',
           h('a.song-card', { href: `#/song/${s.id}` },
