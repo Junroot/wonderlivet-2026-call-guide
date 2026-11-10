@@ -98,3 +98,12 @@ test('cueState: 같은 시간 콜은 묶어서 보여준다', () => {
   assert.equal(cueState(timed, 9).next.length, 2);
   assert.equal(cueState(timed, 10.5).now.length, 2);
 });
+
+test('시간 미정 콜은 afterLine이 있으면 그 줄 뒤에 놓인다', () => {
+  assert.equal(atKind({ t: null, afterLine: 2 }), 'abs-null');
+  assert.equal(atKind({ t: null, afterLine: 'x' }), null);
+  const song = { lines, cues: [{ at: { line: 0 } }, { at: { t: null, afterLine: 2 } }, { at: { t: null } }] };
+  const order = buildTimeline(song).map((it) => `${it.kind[0]}${it.index}`);
+  // c2는 afterLine이 없으므로 앞 콜(c1)과 같은 자리
+  assert.deepEqual(order, ['l0', 'c0', 'l1', 'l2', 'c1', 'c2', 'l3']);
+});

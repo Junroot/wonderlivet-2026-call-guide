@@ -1,0 +1,463 @@
+{
+  "id": "reona-gg",
+  "artistId": "reona",
+  "title": "GG",
+  "youtube": {
+    "videoId": "1Epuw7MG0a8",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 35604879,
+    "trackName": "GG",
+    "artistName": "ReoNa"
+  },
+  "durationSec": 200,
+  "lines": [
+    {
+      "t": 11.28,
+      "text": "Hello, hello",
+      "ko": null
+    },
+    {
+      "t": 14.29,
+      "text": "UnHappy に Hello",
+      "ko": "UnHappy 니 Hello"
+    },
+    {
+      "t": 17.01,
+      "text": "泥水込めふっ放した",
+      "ko": "도로미즈 코메 붓파나시타"
+    },
+    {
+      "t": 20.63,
+      "text": "そんな世界だ",
+      "ko": "손나 세카이다"
+    },
+    {
+      "t": 22.77,
+      "text": "ドンマイ Don't mind",
+      "ko": "돈마이 Don't mind"
+    },
+    {
+      "t": 25.57,
+      "text": "そのままで Never mind",
+      "ko": "소노 마마데 Never mind"
+    },
+    {
+      "t": 28.6,
+      "text": "何度でも死に戻れ",
+      "ko": "난도데모 시니모도레"
+    },
+    {
+      "t": 31.72,
+      "text": "Goodbye, goodbye",
+      "ko": null
+    },
+    {
+      "t": 39.09,
+      "text": "Hello, hello, halo to goodbye",
+      "ko": null
+    },
+    {
+      "t": 44.59,
+      "text": "Run away away away into the game",
+      "ko": null
+    },
+    {
+      "t": 50.56,
+      "text": "残弾は気にすんな",
+      "ko": "잔단와 키니 슨나"
+    },
+    {
+      "t": 53.63,
+      "text": "もがけあがけ Nirvana",
+      "ko": "모가케 아가케 Nirvana"
+    },
+    {
+      "t": 56.23,
+      "text": "Hey",
+      "ko": null
+    },
+    {
+      "t": 57.85,
+      "text": "Live and let die",
+      "ko": null
+    },
+    {
+      "t": 59.48,
+      "text": "You see？",
+      "ko": null
+    },
+    {
+      "t": 61.45,
+      "text": "SA-YO-NA-RA GG",
+      "ko": "사-요-나-라 GG"
+    },
+    {
+      "t": 64.19,
+      "text": "叫べ Grunge",
+      "ko": "사케베 Grunge"
+    },
+    {
+      "t": 66.58,
+      "text": "さよなら GG",
+      "ko": "사요나라 GG"
+    },
+    {
+      "t": 69.23,
+      "text": "楽しんだもん勝ち",
+      "ko": "타노신다 몬가치"
+    },
+    {
+      "t": 72.27,
+      "text": "そうだろう？",
+      "ko": "소-다로-?"
+    },
+    {
+      "t": 73.91,
+      "text": "We are the champions",
+      "ko": null
+    },
+    {
+      "t": 84.18,
+      "text": "Hello, halo Unlucky",
+      "ko": null
+    },
+    {
+      "t": 87.89,
+      "text": "でも Nevermind",
+      "ko": "데모 Nevermind"
+    },
+    {
+      "t": 89.82,
+      "text": "ゴミのように美しく",
+      "ko": "고미노 요-니 우츠쿠시쿠"
+    },
+    {
+      "t": 93.47,
+      "text": "Good game, good game",
+      "ko": null
+    },
+    {
+      "t": 106.41,
+      "text": "I've got a feeling",
+      "ko": null
+    },
+    {
+      "t": 109.25,
+      "text": "I've got for everything",
+      "ko": null
+    },
+    {
+      "t": 111.85,
+      "text": "I've got a feeling",
+      "ko": null
+    },
+    {
+      "t": 114.55,
+      "text": "I've got nothing left",
+      "ko": null
+    },
+    {
+      "t": 117.37,
+      "text": "I've got a feeling",
+      "ko": null
+    },
+    {
+      "t": 120.08,
+      "text": "錆びつく前に燃えつきろ",
+      "ko": "사비츠쿠 마에니 모에츠키로"
+    },
+    {
+      "t": 123.44,
+      "text": "Bang! Bang! Bang! 撃ちまくれ",
+      "ko": "Bang! Bang! Bang! 우치마쿠레"
+    },
+    {
+      "t": 139.67,
+      "text": "Hello, hello, halo to goodbye",
+      "ko": null
+    },
+    {
+      "t": 145.27,
+      "text": "Run away away away into the game",
+      "ko": null
+    },
+    {
+      "t": 150.88,
+      "text": "残弾は気にすんな",
+      "ko": "잔단와 키니 슨나"
+    },
+    {
+      "t": 154.13,
+      "text": "もがけあがけ Nirvana",
+      "ko": "모가케 아가케 Nirvana"
+    },
+    {
+      "t": 156.63,
+      "text": "Hey",
+      "ko": null
+    },
+    {
+      "t": 157.99,
+      "text": "Live and let die",
+      "ko": null
+    },
+    {
+      "t": 159.56,
+      "text": "You see？",
+      "ko": null
+    },
+    {
+      "t": 161.63,
+      "text": "SA-YO-NA-RA GG",
+      "ko": "사-요-나-라 GG"
+    },
+    {
+      "t": 164.37,
+      "text": "叫べ Grunge",
+      "ko": "사케베 Grunge"
+    },
+    {
+      "t": 167.03,
+      "text": "さよなら GG",
+      "ko": "사요나라 GG"
+    },
+    {
+      "t": 169.86,
+      "text": "楽しんだもん勝ち",
+      "ko": "타노신다 몬가치"
+    },
+    {
+      "t": 173.4,
+      "text": "全身全弹 Gun Gun 行こうぜ",
+      "ko": "젠신젠단 Gun Gun 이코-제"
+    },
+    {
+      "t": 176.48,
+      "text": "遊ぼうぜ",
+      "ko": "아소보-제"
+    },
+    {
+      "t": 178.34,
+      "text": "そうだろう？",
+      "ko": "소-다로-?"
+    },
+    {
+      "t": 179.67,
+      "text": "We are the champions",
+      "ko": null
+    },
+    {
+      "t": 184.77,
+      "text": "We are the champions",
+      "ko": null
+    }
+  ],
+  "cues": [
+    {
+      "type": "call",
+      "text": "간주 — 환호와 콜",
+      "at": {
+        "t": null,
+        "afterLine": -1
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "(에이에이예~)",
+      "note": "떼창: 이 줄의 「(에이에이예~)」 부분",
+      "at": {
+        "line": 8,
+        "offset": 4.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "game (게이에이예~)",
+      "note": "떼창: 이 줄의 「game (게이에이예~)」 부분",
+      "at": {
+        "line": 9,
+        "offset": 4.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 12,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 15,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 17,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 20,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "간주 — 환호와 콜",
+      "at": {
+        "t": null,
+        "afterLine": 20
+      }
+    },
+    {
+      "type": "call",
+      "text": "간주 — 멘트 있을 예정, 열렬한 환호",
+      "at": {
+        "t": null,
+        "afterLine": 24
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 25,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 26,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 27,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 28,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 29,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Yeah",
+      "note": "떼창: 이 줄의 「Yeah」 부분",
+      "at": {
+        "line": 31,
+        "offset": 6.2
+      }
+    },
+    {
+      "type": "call",
+      "text": "간주 — 환호와 콜",
+      "at": {
+        "t": null,
+        "afterLine": 31
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "(에이에이예~)",
+      "note": "떼창: 이 줄의 「(에이에이예~)」 부분",
+      "at": {
+        "line": 32,
+        "offset": 4.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "game (게이에이예~)",
+      "note": "떼창: 이 줄의 「game (게이에이예~)」 부분",
+      "at": {
+        "line": 33,
+        "offset": 4.2
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 36,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 39,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 41,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 47,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "간주 — 환호와 콜",
+      "at": {
+        "t": null,
+        "afterLine": 47
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작)",
+      "url": "https://livet-call.pages.dev/"
+    },
+    {
+      "label": "note カゼッタ「ReoNa SQUADJAM 私なりの楽しみ方(コール表)」",
+      "url": "https://note.com/cute_chimp289/n/n9d4acb69ac88"
+    }
+  ],
+  "review": {
+    "pronunciation": false,
+    "timing": false
+  },
+  "order": 2
+}

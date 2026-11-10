@@ -1,0 +1,710 @@
+{
+  "id": "candy-tune-baibai-fight",
+  "artistId": "candy-tune",
+  "title": "倍倍FIGHT!",
+  "youtube": {
+    "videoId": "9HKbo1FstOE",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 20652621,
+    "trackName": "倍倍FIGHT!",
+    "artistName": "CANDY TUNE"
+  },
+  "durationSec": 254,
+  "lines": [
+    {
+      "t": 1.61,
+      "text": "倍の倍の fight",
+      "ko": "바이노 바이노 fight"
+    },
+    {
+      "t": 3.03,
+      "text": "倍倍 fight by CANDY TUNE",
+      "ko": "바이바이 fight by CANDY TUNE"
+    },
+    {
+      "t": 4.34,
+      "text": "（倍の倍の fight）",
+      "ko": "(바이노 바이노 fight)"
+    },
+    {
+      "t": 5.74,
+      "text": "（倍倍 fight by CANDY TUNE）",
+      "ko": "(바이바이 fight by CANDY TUNE)"
+    },
+    {
+      "t": 7.02,
+      "text": "倍の倍の fight",
+      "ko": "바이노 바이노 fight"
+    },
+    {
+      "t": 8.45,
+      "text": "倍倍 fight by CANDY TUNE",
+      "ko": "바이바이 fight by CANDY TUNE"
+    },
+    {
+      "t": 9.89,
+      "text": "（倍の倍の fight）",
+      "ko": "(바이노 바이노 fight)"
+    },
+    {
+      "t": 11.14,
+      "text": "（倍倍 fight by CANDY TUNE）",
+      "ko": "(바이바이 fight by CANDY TUNE)"
+    },
+    {
+      "t": 23.46,
+      "text": "本音と建前ない私",
+      "ko": "혼네토 타테마에 나이 와타시"
+    },
+    {
+      "t": 26.26,
+      "text": "なりたい 在りたいけど だけど",
+      "ko": "나리타이 아리타이케도 다케도"
+    },
+    {
+      "t": 28.99,
+      "text": "人の目気にせず 素直な子",
+      "ko": "히토노 메 키니세즈 스나오나 코"
+    },
+    {
+      "t": 31.63,
+      "text": "なりたい 在りたいけど だけど",
+      "ko": "나리타이 아리타이케도 다케도"
+    },
+    {
+      "t": 34.36,
+      "text": "誰かを救うということは",
+      "ko": "다레카오 스쿠우토 이우 코토와"
+    },
+    {
+      "t": 37.17,
+      "text": "過去の自分も救うことです",
+      "ko": "카코노 지분모 스쿠우 코토데스"
+    },
+    {
+      "t": 39.86,
+      "text": "誰かを愛すということは",
+      "ko": "다레카오 아이스토 이우 코토와"
+    },
+    {
+      "t": 42.66,
+      "text": "本当の自分を大好きになることです",
+      "ko": "혼토-노 지분오 다이스키니 나루 코토데스"
+    },
+    {
+      "t": 47.91,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight (fight)",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight (fight)"
+    },
+    {
+      "t": 50.78,
+      "text": "何回転んでも立ち上がれ",
+      "ko": "난카이 코론데모 타치아가레"
+    },
+    {
+      "t": 53.43,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight (fight)",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight (fight)"
+    },
+    {
+      "t": 56.1,
+      "text": "厄介な問題も飛び越えろ",
+      "ko": "얏카이나 몬다이모 토비코에로"
+    },
+    {
+      "t": 58.58,
+      "text": "嬉しい（倍倍倍倍）",
+      "ko": "우레시- (바이바이바이바이)"
+    },
+    {
+      "t": 59.96,
+      "text": "悲しい (bye, bye, bye, bye)",
+      "ko": "카나시- (bye, bye, bye, bye)"
+    },
+    {
+      "t": 61.32,
+      "text": "ほら 倍の倍のバイのバイで もっと行こうよ",
+      "ko": "호라 바이노 바이노 바이노 바이데 못토 이코-요"
+    },
+    {
+      "t": 64.31,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight"
+    },
+    {
+      "t": 78.06,
+      "text": "飽き性 根性ない状況",
+      "ko": "아키쇼- 콘조- 나이 죠-쿄-"
+    },
+    {
+      "t": 80.72,
+      "text": "やめたい やめたいけど だけど",
+      "ko": "야메타이 야메타이케도 다케도"
+    },
+    {
+      "t": 83.57,
+      "text": "もっぱらネガティブ 自虐思考",
+      "ko": "몹파라 네가티브 지갸쿠시코-"
+    },
+    {
+      "t": 86.21,
+      "text": "やめたい やめたいけど だけど",
+      "ko": "야메타이 야메타이케도 다케도"
+    },
+    {
+      "t": 88.97,
+      "text": "何かを犠牲にすることは",
+      "ko": "나니카오 기세-니 스루 코토와"
+    },
+    {
+      "t": 91.68,
+      "text": "何かを目指すということです",
+      "ko": "나니카오 메자스토 이우 코토데스"
+    },
+    {
+      "t": 94.49,
+      "text": "何かを目指すということは",
+      "ko": "나니카오 메자스토 이우 코토와"
+    },
+    {
+      "t": 97.17,
+      "text": "何かを本気で信じるということです",
+      "ko": "나니카오 혼키데 신지루토 이우 코토데스"
+    },
+    {
+      "t": 102.51,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight (fight)",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight (fight)"
+    },
+    {
+      "t": 105.33,
+      "text": "なんてまあ素敵なこの人生",
+      "ko": "난테 마- 스테키나 코노 진세-"
+    },
+    {
+      "t": 107.92,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight (fight)",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight (fight)"
+    },
+    {
+      "t": 110.62,
+      "text": "だって私は そう 私だもん",
+      "ko": "닷테 와타시와 소- 와타시다몽"
+    },
+    {
+      "t": 113.08,
+      "text": "楽しい（倍倍倍倍）",
+      "ko": "타노시- (바이바이바이바이)"
+    },
+    {
+      "t": 114.51,
+      "text": "悔しい (bye, bye, bye, bye)",
+      "ko": "쿠야시- (bye, bye, bye, bye)"
+    },
+    {
+      "t": 115.86,
+      "text": "ほら 倍の倍のバイのバイで もっと行こうよ",
+      "ko": "호라 바이노 바이노 바이노 바이데 못토 이코-요"
+    },
+    {
+      "t": 118.85,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight"
+    },
+    {
+      "t": 121.66,
+      "text": "倍の倍の fight",
+      "ko": "바이노 바이노 fight"
+    },
+    {
+      "t": 123.05,
+      "text": "倍倍 fight by CANDY TUNE",
+      "ko": "바이바이 fight by CANDY TUNE"
+    },
+    {
+      "t": 124.39,
+      "text": "（倍の倍の fight）",
+      "ko": "(바이노 바이노 fight)"
+    },
+    {
+      "t": 125.62,
+      "text": "（倍倍 fight by CANDY TUNE）",
+      "ko": "(바이바이 fight by CANDY TUNE)"
+    },
+    {
+      "t": 127.02,
+      "text": "倍の倍の fight",
+      "ko": "바이노 바이노 fight"
+    },
+    {
+      "t": 128.43,
+      "text": "倍倍 fight by CANDY TUNE",
+      "ko": "바이바이 fight by CANDY TUNE"
+    },
+    {
+      "t": 129.78,
+      "text": "（倍の倍の fight）",
+      "ko": "(바이노 바이노 fight)"
+    },
+    {
+      "t": 131.13,
+      "text": "（倍倍 fight by CANDY TUNE）",
+      "ko": "(바이바이 fight by CANDY TUNE)"
+    },
+    {
+      "t": 132.4,
+      "text": "自分を大事に 本音を大事に",
+      "ko": "지분오 다이지니 혼네오 다이지니"
+    },
+    {
+      "t": 133.92,
+      "text": "つまずいたって（倍倍 fight）",
+      "ko": "츠마즈이탓테 (바이바이 fight)"
+    },
+    {
+      "t": 135.23,
+      "text": "強い人間になりたかったって？",
+      "ko": "츠요이 닌겐니 나리타캇탓테?"
+    },
+    {
+      "t": 136.68,
+      "text": "今からなれるさ（倍倍 fight）",
+      "ko": "이마카라 나레루사 (바이바이 fight)"
+    },
+    {
+      "t": 137.97,
+      "text": "有言実行 言葉に宿った魂 信じて（倍倍 fight）",
+      "ko": "유-겐짓코- 코토바니 야돗타 타마시- 신지테 (바이바이 fight)"
+    },
+    {
+      "t": 140.75,
+      "text": "誰かと比べて落ち込んだって",
+      "ko": "다레카토 쿠라베테 오치콘닷테"
+    },
+    {
+      "t": 142.09,
+      "text": "自分は自分さ（倍倍 fight）",
+      "ko": "지분와 지분사 (바이바이 fight)"
+    },
+    {
+      "t": 143.44,
+      "text": "半径100キロ 幸せで満たしたいな（倍倍 fight）",
+      "ko": "한케- 햐쿠키로 시아와세데 미타시타이나 (바이바이 fight)"
+    },
+    {
+      "t": 146.17,
+      "text": "生きているだけで すごいことだから",
+      "ko": "이키테이루 다케데 스고이 코토다카라"
+    },
+    {
+      "t": 147.57,
+      "text": "命を誉めよう（倍倍 fight）",
+      "ko": "이노치오 호메요- (바이바이 fight)"
+    },
+    {
+      "t": 148.85,
+      "text": "できないことより できることを",
+      "ko": "데키나이 코토요리 데키루 코토오"
+    },
+    {
+      "t": 150.13,
+      "text": "ほら 数えてみようよ（倍倍 fight）",
+      "ko": "호라 카조에테 미요-요 (바이바이 fight)"
+    },
+    {
+      "t": 151.55,
+      "text": "すなわち とにかく倍倍アクティブ",
+      "ko": "스나와치 토니카쿠 바이바이 아쿠티브"
+    },
+    {
+      "t": 153.05,
+      "text": "Bye, bye パッシブ 倍倍 fight",
+      "ko": "Bye, bye 팟시브 바이바이 fight"
+    },
+    {
+      "t": 165.2,
+      "text": "（倍倍 fight）ほんの小さな一歩",
+      "ko": "(바이바이 fight) 혼노 치-사나 잇포"
+    },
+    {
+      "t": 167.96,
+      "text": "（倍倍 fight）大きな大きな一歩",
+      "ko": "(바이바이 fight) 오-키나 오-키나 잇포"
+    },
+    {
+      "t": 170.68,
+      "text": "（倍倍 fight）どれも君にとって",
+      "ko": "(바이바이 fight) 도레모 키미니 톳테"
+    },
+    {
+      "t": 173.41,
+      "text": "大切な（大切な）",
+      "ko": "타이세츠나 (타이세츠나)"
+    },
+    {
+      "t": 174.78,
+      "text": "大切な勇気の証だよ",
+      "ko": "타이세츠나 유-키노 아카시다요"
+    },
+    {
+      "t": 178.86,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight"
+    },
+    {
+      "t": 181.62,
+      "text": "なんと言われても 諦めぬ",
+      "ko": "난토 이와레테모 아키라메누"
+    },
+    {
+      "t": 184.34,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight"
+    },
+    {
+      "t": 187.02,
+      "text": "人生これっきり 一度っきり",
+      "ko": "진세- 코렛키리 이치돗키리"
+    },
+    {
+      "t": 191.87,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight (fight)",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight (fight)"
+    },
+    {
+      "t": 194.6,
+      "text": "何回転んでも立ち上がれ",
+      "ko": "난카이 코론데모 타치아가레"
+    },
+    {
+      "t": 197.4,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight (fight)",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight (fight)"
+    },
+    {
+      "t": 200.09,
+      "text": "厄介な問題も飛び越えろ",
+      "ko": "얏카이나 몬다이모 토비코에로"
+    },
+    {
+      "t": 202.42,
+      "text": "嬉しい（倍倍倍倍）",
+      "ko": "우레시- (바이바이바이바이)"
+    },
+    {
+      "t": 203.84,
+      "text": "悲しい (bye, bye, bye, bye)",
+      "ko": "카나시- (bye, bye, bye, bye)"
+    },
+    {
+      "t": 205.18,
+      "text": "ほら 倍の倍のバイのバイで もっと行こうよ",
+      "ko": "호라 바이노 바이노 바이노 바이데 못토 이코-요"
+    },
+    {
+      "t": 208.25,
+      "text": "倍 fight 倍倍 fight 倍倍倍 fight",
+      "ko": "바이 fight 바이바이 fight 바이바이바이 fight"
+    },
+    {
+      "t": 210.95,
+      "text": "いっせーのせ 原宿から世界へ！",
+      "ko": "잇세-노세 하라주쿠카라 세카이에!"
+    },
+    {
+      "t": 214.71,
+      "text": "険しい道も共に歩むんだ",
+      "ko": "케와시- 미치모 토모니 아유문다"
+    },
+    {
+      "t": 217.89,
+      "text": "You will never walk alone",
+      "ko": null
+    },
+    {
+      "t": 220.12,
+      "text": "躓いて もがいて 強くなるんだ",
+      "ko": "츠마즈이테 모가이테 츠요쿠 나룬다"
+    },
+    {
+      "t": 223.28,
+      "text": "Whoa-oh-oh, oh-oh-oh",
+      "ko": null
+    },
+    {
+      "t": 225.65,
+      "text": "険しい道も共に歩むんだ",
+      "ko": "케와시- 미치모 토모니 아유문다"
+    },
+    {
+      "t": 228.72,
+      "text": "You will never walk alone",
+      "ko": null
+    },
+    {
+      "t": 231.01,
+      "text": "躓いて もがいて 強くなるんだ",
+      "ko": "츠마즈이테 모가이테 츠요쿠 나룬다"
+    },
+    {
+      "t": 234.12,
+      "text": "Whoa-oh-oh, oh-oh-oh",
+      "ko": null
+    },
+    {
+      "t": 236.89,
+      "text": "明日からじゃなくて 今日だ",
+      "ko": "아시타카라 쟈나쿠테 쿄-다"
+    },
+    {
+      "t": 238.27,
+      "text": "今だ 君だ ここだ（倍 fight）",
+      "ko": "이마다 키미다 코코다 (바이 fight)"
+    },
+    {
+      "t": 239.55,
+      "text": "忙しなくて疲れたなら",
+      "ko": "세와시나쿠테 츠카레타나라"
+    },
+    {
+      "t": 241.04,
+      "text": "ちょっと休むかい？（倍 rest）",
+      "ko": "촛토 야스무카이? (바이 rest)"
+    },
+    {
+      "t": 242.32,
+      "text": "私たちがいつもそばにいるからさ",
+      "ko": "와타시타치가 이츠모 소바니 이루카라사"
+    },
+    {
+      "t": 244.75,
+      "text": "倍 fight 倍 fight 倍 fight",
+      "ko": "바이 fight 바이 fight 바이 fight"
+    }
+  ],
+  "cues": [
+    {
+      "type": "call",
+      "text": "倍の倍のFIGHT 倍倍FIGHT BY CANDY TUNE",
+      "ko": "바이노 바이노 fight 바이바이 fight by CANDY TUNE",
+      "note": "괄호 줄을 멤버와 함께 외친다 (인트로)",
+      "at": {
+        "line": 2,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍の倍のFIGHT 倍倍FIGHT BY CANDY TUNE",
+      "ko": "바이노 바이노 fight 바이바이 fight by CANDY TUNE",
+      "at": {
+        "line": 6,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "うりゃおい！×4 → 👏 👏👏👏 👏 → きゃんちゅーいくよっ！ → りのまる！なちこ！びびちゃん！なったん！こっちゃん！しーちゃん！きりちゃん！",
+      "ko": "우랴오이!×4 → 박수 → 캰츄- 이쿠욧! → 리노마루! 나치코! 비비짱! 낫탄! 콧짱! 시-짱! 키리짱!",
+      "note": "인트로 뒤 간주. 멤버 이름은 생일 순서",
+      "at": {
+        "t": null,
+        "afterLine": 7
+      }
+    },
+    {
+      "type": "call",
+      "text": "あーなったん！！！",
+      "ko": "아- 낫탄!!!",
+      "at": {
+        "line": 8,
+        "offset": 1.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "あーなちこ！！！",
+      "ko": "아- 나치코!!!",
+      "at": {
+        "line": 10,
+        "offset": 1.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "きーりちゃん！×4",
+      "ko": "키-리짱!×4",
+      "at": {
+        "line": 13,
+        "offset": 1.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "イェッイェッイェッタイガー！",
+      "ko": "옛 옛 옛 타이가-!",
+      "note": "후렴 직전",
+      "at": {
+        "line": 15,
+        "offset": 3.0
+      }
+    },
+    {
+      "type": "call",
+      "text": "うりゃおい！×4 → 👏 👏👏👏 👏 → きゃんちゅーいくよっ！ → りのまる！なちこ！びびちゃん！なったん！こっちゃん！しーちゃん！きりちゃん！",
+      "ko": "우랴오이!×4 → 박수 → 캰츄- 이쿠욧! → 리노마루! 나치코! 비비짱! 낫탄! 콧짱! 시-짱! 키리짱!",
+      "note": "1절 후렴 뒤 간주",
+      "at": {
+        "t": null,
+        "afterLine": 23
+      }
+    },
+    {
+      "type": "call",
+      "text": "あーしーちゃん！！！",
+      "ko": "아- 시-짱!!!",
+      "at": {
+        "line": 24,
+        "offset": 1.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "あーことみ！！！",
+      "ko": "아- 코토미!!!",
+      "at": {
+        "line": 26,
+        "offset": 1.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "りーのちゃん！×4",
+      "ko": "리-노짱!×4",
+      "at": {
+        "line": 29,
+        "offset": 1.8
+      }
+    },
+    {
+      "type": "call",
+      "text": "イェッイェッイェッタイガー！",
+      "ko": "옛 옛 옛 타이가-!",
+      "note": "후렴 직전",
+      "at": {
+        "line": 31,
+        "offset": 3.0
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍の倍のFIGHT 倍倍FIGHT BY CANDY TUNE",
+      "ko": "바이노 바이노 fight 바이바이 fight by CANDY TUNE",
+      "note": "2절 후렴 뒤 괄호 줄을 함께 외친다",
+      "at": {
+        "line": 42,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍の倍のFIGHT 倍倍FIGHT BY CANDY TUNE",
+      "ko": "바이노 바이노 fight 바이바이 fight by CANDY TUNE",
+      "at": {
+        "line": 46,
+        "offset": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍倍FIGHT",
+      "ko": "바이바이 fight",
+      "at": {
+        "line": 49,
+        "offset": 0.6
+      },
+      "note": "랩 구간. 줄 끝 괄호 「倍倍 fight」를 따라 외친다"
+    },
+    {
+      "type": "call",
+      "text": "倍倍FIGHT",
+      "ko": "바이바이 fight",
+      "at": {
+        "line": 51,
+        "offset": 0.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍倍FIGHT",
+      "ko": "바이바이 fight",
+      "at": {
+        "line": 52,
+        "offset": 2.0
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍倍FIGHT",
+      "ko": "바이바이 fight",
+      "at": {
+        "line": 54,
+        "offset": 0.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍倍FIGHT",
+      "ko": "바이바이 fight",
+      "at": {
+        "line": 55,
+        "offset": 2.0
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍倍FIGHT",
+      "ko": "바이바이 fight",
+      "at": {
+        "line": 57,
+        "offset": 0.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "倍倍FIGHT",
+      "ko": "바이바이 fight",
+      "at": {
+        "line": 59,
+        "offset": 0.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "はいっ！×4 → CANDY TUNE! ×3",
+      "ko": "하잇!×4 → 캔디 튠!×3",
+      "note": "랩 구간 뒤 간주",
+      "at": {
+        "t": null,
+        "afterLine": 61
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "KAWAII LAB. 콜 정리 블로그 「倍倍FIGHT!」 (일본어)",
+      "url": "https://kawaiilab-call.hatenablog.com/entry/2025/04/25/021743"
+    },
+    {
+      "label": "CANDY TUNE 공식 Cheering Guide 콜 영상",
+      "url": "https://youtu.be/2EyjXI_DkI8"
+    }
+  ],
+  "review": {
+    "pronunciation": false,
+    "timing": false
+  },
+  "order": 2
+}

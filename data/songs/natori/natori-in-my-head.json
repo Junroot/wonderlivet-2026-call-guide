@@ -1,0 +1,524 @@
+{
+  "id": "natori-in-my-head",
+  "artistId": "natori",
+  "title": "IN_MY_HEAD",
+  "youtube": {
+    "videoId": "49tyOkJ0uLs",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 32840514,
+    "trackName": "IN_MY_HEAD",
+    "artistName": "natori"
+  },
+  "durationSec": 208,
+  "lines": [
+    {
+      "t": 10.13,
+      "text": "In my head!",
+      "ko": null
+    },
+    {
+      "t": 15.77,
+      "text": "In my head!",
+      "ko": null
+    },
+    {
+      "t": 21.75,
+      "text": "Taigai? subete wa kanchigaidatta",
+      "ko": "타이가이? 스베테와 칸치가이닷타"
+    },
+    {
+      "t": 24.35,
+      "text": "Mou, kaerasete High-speed de",
+      "ko": "모-, 카에라세테 High-speed 데"
+    },
+    {
+      "t": 27.09,
+      "text": "Uso kusai sore wa hontouni natta",
+      "ko": "우소쿠사이 소레와 혼토-니 낫타"
+    },
+    {
+      "t": 29.73,
+      "text": "Ore ga ano toki, nigeta sei de",
+      "ko": "오레가 아노 토키, 니게타 세-데"
+    },
+    {
+      "t": 32.47,
+      "text": "Sutomi bakari, ki ni shiteiru amari",
+      "ko": "스토미 바카리, 키니 시테이루 아마리"
+    },
+    {
+      "t": 35.12,
+      "text": "Kuchi kara de makase bakka no Anarchy",
+      "ko": "쿠치카라 데마카세 박카노 Anarchy"
+    },
+    {
+      "t": 37.84,
+      "text": "Kat tari i banashi, ittan owari",
+      "ko": "캇타리 이바나시, 잇탄 오와리"
+    },
+    {
+      "t": 40.42,
+      "text": "Bakuha sunzen、 hora in my head!",
+      "ko": "바쿠하 순젠, 호라 in my head!"
+    },
+    {
+      "t": 43.32,
+      "text": "\"ikenai\" no shita！douiu ryouken de？",
+      "ko": "\"이케나이\" 노 시타! 도-유- 료-켄데?"
+    },
+    {
+      "t": 46.05,
+      "text": "\"nitenai? nitenai, issho ni shinaide!\"",
+      "ko": "\"니테나이? 니테나이, 잇쇼니 시나이데!\""
+    },
+    {
+      "t": 48.68,
+      "text": "\"abunai\" no kitai! mou, go kanben de",
+      "ko": "\"아부나이\" 노 키타이! 모-, 고칸벤데"
+    },
+    {
+      "t": 51.28,
+      "text": "Hitome mo wakarazu odore, beibi！",
+      "ko": "히토메모 하바카라즈 오도레, 베이비!"
+    },
+    {
+      "t": 54.22,
+      "text": "In my head, in my head! suki ni odotte",
+      "ko": "In my head, in my head! 스키니 오돗테"
+    },
+    {
+      "t": 56.91,
+      "text": "In my mind, in my mind! suki ni kurutte",
+      "ko": "In my mind, in my mind! 스키니 쿠룻테"
+    },
+    {
+      "t": 59.6,
+      "text": "Weekend ai？Shiganai boku no ryoute de odoreba ii!",
+      "ko": "Weekend 아이? 시가나이 보쿠노 료-테데 오도레바 이-!"
+    },
+    {
+      "t": 64.61,
+      "text": "In my head!",
+      "ko": null
+    },
+    {
+      "t": 69.68,
+      "text": "In my head!",
+      "ko": null
+    },
+    {
+      "t": 75.61,
+      "text": "Daitan futekina aitsu o utagatta",
+      "ko": "다이탄 후테키나 아이츠오 우타갓타"
+    },
+    {
+      "t": 78.33,
+      "text": "Aa, u zattakutе mou shouganee",
+      "ko": "아-, 우잣타쿠테 모- 쇼-가네-"
+    },
+    {
+      "t": 80.97,
+      "text": "Aokusai ore wa mou otona ni natta？",
+      "ko": "아오쿠사이 오레와 모- 오토나니 낫타?"
+    },
+    {
+      "t": 85.21,
+      "text": "\"ki no sei!\"",
+      "ko": "\"키노 세-!\""
+    },
+    {
+      "t": 86.44,
+      "text": "ippun ma ichibyou mo muda ni za dekinaina",
+      "ko": "잇푼 마 이치뵤-모 무다니 자 데키나이나"
+    },
+    {
+      "t": 89.08,
+      "text": "Mou atama no naka, еgui juutai",
+      "ko": "모- 아타마노 나카, 에구이 쥬-타이"
+    },
+    {
+      "t": 91.68,
+      "text": "Kattari hanashi, mou zenbu owari",
+      "ko": "캇타리 하나시, 모- 젠부 오와리"
+    },
+    {
+      "t": 94.32,
+      "text": "Bakuha sunzen, hora in my head!",
+      "ko": "바쿠하 순젠, 호라 in my head!"
+    },
+    {
+      "t": 97.22,
+      "text": "\"ikenai\" no shita！douiu ryouken de？",
+      "ko": "\"이케나이\" 노 시타! 도-유- 료-켄데?"
+    },
+    {
+      "t": 99.88,
+      "text": "\"nitenai? nitenai, issho ni shinaide!\"",
+      "ko": "\"니테나이? 니테나이, 잇쇼니 시나이데!\""
+    },
+    {
+      "t": 102.64,
+      "text": "\"abunai\" no kitai! mou, go kanben de",
+      "ko": "\"아부나이\" 노 키타이! 모-, 고칸벤데"
+    },
+    {
+      "t": 105.23,
+      "text": "Hitome mo wakarazu odore, beibii！",
+      "ko": "히토메모 하바카라즈 오도레, 베이비!"
+    },
+    {
+      "t": 108.04,
+      "text": "In my head, in my head! suki ni odotte",
+      "ko": "In my head, in my head! 스키니 오돗테"
+    },
+    {
+      "t": 110.81,
+      "text": "In my mind, in my mind! suki ni kurutte",
+      "ko": "In my mind, in my mind! 스키니 쿠룻테"
+    },
+    {
+      "t": 113.45,
+      "text": "Weekend ai？Shiganai boku no ryoute de odoreba īze！",
+      "ko": "Weekend 아이? 시가나이 보쿠노 료-테데 오도레바 이-제!"
+    },
+    {
+      "t": 128.86,
+      "text": "Un deux",
+      "ko": "앙 되"
+    },
+    {
+      "t": 151.08,
+      "text": "Hama macchimatta no sa",
+      "ko": "하맛치맛타노 사"
+    },
+    {
+      "t": 152.62,
+      "text": "Haisupekkuna ai no wana ni！",
+      "ko": "하이스펙쿠나 아이노 와나니!"
+    },
+    {
+      "t": 153.96,
+      "text": "\"nitenai? nitenai, issho ni shinaide!\"",
+      "ko": "\"니테나이? 니테나이, 잇쇼니 시나이데!\""
+    },
+    {
+      "t": 156.61,
+      "text": "\"abunai\" no kitai! mou, go kanben de",
+      "ko": "\"아부나이\" 노 키타이! 모-, 고칸벤데"
+    },
+    {
+      "t": 159.13,
+      "text": "Hitome mo bakarazu odore, beibii！",
+      "ko": "히토메모 하바카라즈 오도레, 베이비!"
+    },
+    {
+      "t": 162.05,
+      "text": "In my head, in my head! suki ni odotte",
+      "ko": "In my head, in my head! 스키니 오돗테"
+    },
+    {
+      "t": 164.64,
+      "text": "In my mind, in my mind! suki ni kurutte",
+      "ko": "In my mind, in my mind! 스키니 쿠룻테"
+    },
+    {
+      "t": 167.41,
+      "text": "Weekend ai？Shiganai boku no ryoute de odoreba ii！",
+      "ko": "Weekend 아이? 시가나이 보쿠노 료-테데 오도레바 이-!"
+    },
+    {
+      "t": 172.73,
+      "text": "one, two, three de but tonda bureikou",
+      "ko": "one, two, three 데 붓톤다 부레-코-"
+    },
+    {
+      "t": 175.45,
+      "text": "Three, two, one de slap on the bass",
+      "ko": "Three, two, one 데 slap on the bass"
+    },
+    {
+      "t": 178.21,
+      "text": "(In my head) one, two, three de but tonda bureikou",
+      "ko": "(In my head) one, two, three 데 붓톤다 부레-코-"
+    },
+    {
+      "t": 180.83,
+      "text": "Three, two, one de slap on the bass",
+      "ko": "Three, two, one 데 slap on the bass"
+    },
+    {
+      "t": 183.65,
+      "text": "(In my head) one, two, three de but tonda bureikou",
+      "ko": "(In my head) one, two, three 데 붓톤다 부레-코-"
+    },
+    {
+      "t": 186.25,
+      "text": "Three, two, one de slap on the bass",
+      "ko": "Three, two, one 데 slap on the bass"
+    },
+    {
+      "t": 188.91,
+      "text": "(In my head) one, two, three de but tonda bureikou",
+      "ko": "(In my head) one, two, three 데 붓톤다 부레-코-"
+    },
+    {
+      "t": 191.61,
+      "text": "Three, two, one de slap on the bass (uh)",
+      "ko": "Three, two, one 데 slap on the bass (uh)"
+    }
+  ],
+  "cues": [
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 0,
+        "offset": 0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기 (줄 전체)",
+      "at": {
+        "line": 0,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 1,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "In my head!",
+      "note": "떼창: 이 줄의 「In my head!」 부분",
+      "at": {
+        "line": 9,
+        "offset": 1.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "이케나이노 시타이!",
+      "note": "떼창: 이 줄의 「이케나이노 시타이!」 부분",
+      "at": {
+        "line": 10,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기 (줄 전체)",
+      "at": {
+        "line": 10,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "니테나이? 니테나이",
+      "note": "떼창: 이 줄의 「니테나이? 니테나이」 부분",
+      "at": {
+        "line": 11,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "아부나이노 키타이!",
+      "note": "떼창: 이 줄의 「아부나이노 키타이!」 부분",
+      "at": {
+        "line": 12,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "In my head, in my head!",
+      "note": "떼창: 이 줄의 「In my head, in my head!」 부분",
+      "at": {
+        "line": 14,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "In my mind, in my mind!",
+      "note": "떼창: 이 줄의 「In my mind, in my mind!」 부분",
+      "at": {
+        "line": 15,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Weekend 아이? 시가나이",
+      "note": "떼창: 이 줄의 「Weekend 아이? 시가나이」 부분",
+      "at": {
+        "line": 16,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 17,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창 (줄 전체)",
+      "at": {
+        "line": 18,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "In my head!",
+      "note": "떼창: 이 줄의 「In my head!」 부분",
+      "at": {
+        "line": 26,
+        "offset": 1.4
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "이케나이노 시타이!",
+      "note": "떼창: 이 줄의 「이케나이노 시타이!」 부분",
+      "at": {
+        "line": 27,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기 (줄 전체)",
+      "at": {
+        "line": 27,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "니테나이? 니테나이",
+      "note": "떼창: 이 줄의 「니테나이? 니테나이」 부분",
+      "at": {
+        "line": 28,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "아부나이노 키타이!",
+      "note": "떼창: 이 줄의 「아부나이노 키타이!」 부분",
+      "at": {
+        "line": 29,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "In my head, in my head!",
+      "note": "떼창: 이 줄의 「In my head, in my head!」 부분",
+      "at": {
+        "line": 31,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "In my mind, in my mind!",
+      "note": "떼창: 이 줄의 「In my mind, in my mind!」 부분",
+      "at": {
+        "line": 32,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Weekend 아이? 시가나이",
+      "note": "떼창: 이 줄의 「Weekend 아이? 시가나이」 부분",
+      "at": {
+        "line": 33,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "motion",
+      "text": "타올 돌리기 (줄 전체)",
+      "at": {
+        "line": 35,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "니테나이? 니테나이",
+      "note": "떼창: 이 줄의 「니테나이? 니테나이」 부분",
+      "at": {
+        "line": 37,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "아부나이노 키타이!",
+      "note": "떼창: 이 줄의 「아부나이노 키타이!」 부분",
+      "at": {
+        "line": 38,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "In my head, in my head!",
+      "note": "떼창: 이 줄의 「In my head, in my head!」 부분",
+      "at": {
+        "line": 40,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "In my mind, in my mind!",
+      "note": "떼창: 이 줄의 「In my mind, in my mind!」 부분",
+      "at": {
+        "line": 41,
+        "offset": 0.0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Weekend 아이? 시가나이",
+      "note": "떼창: 이 줄의 「Weekend 아이? 시가나이」 부분",
+      "at": {
+        "line": 42,
+        "offset": 0.0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작)",
+      "url": "https://livet-call.pages.dev/"
+    },
+    {
+      "label": "SCRMBL natori 부도칸 2026 공연 리포트 (영어)",
+      "url": "https://scrmbl.com/post/natori-nippon-budokan-2026-live-report"
+    }
+  ],
+  "review": {
+    "pronunciation": false,
+    "timing": false
+  },
+  "order": 1
+}

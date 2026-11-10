@@ -1,0 +1,411 @@
+{
+  "id": "alexandros-senkou",
+  "artistId": "alexandros",
+  "title": "閃光",
+  "youtube": {
+    "videoId": "xfG6L9I7N8I",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 31523810,
+    "trackName": "閃光",
+    "artistName": "[Alexandros]"
+  },
+  "durationSec": 309,
+  "lines": [
+    {
+      "t": 35.77,
+      "text": "Blinding lights are fading out from the night",
+      "ko": null
+    },
+    {
+      "t": 39.33,
+      "text": "あどけない夢掲げた",
+      "ko": "아도케나이 유메 카카게타"
+    },
+    {
+      "t": 42.24,
+      "text": "痛みを知らない赤子のように",
+      "ko": "이타미오 시라나이 아카고노 요-니"
+    },
+    {
+      "t": 45.25,
+      "text": "Thunders calling to my ears all the time",
+      "ko": null
+    },
+    {
+      "t": 48.83,
+      "text": "揺れる心隠した",
+      "ko": "유레루 코코로 카쿠시타"
+    },
+    {
+      "t": 51.58,
+      "text": "痛みを覚えた子供のようにって",
+      "ko": "이타미오 오보에타 코도모노 요-닛테"
+    },
+    {
+      "t": 54.49,
+      "text": "I'm scared to death and it's so cold all the time",
+      "ko": null
+    },
+    {
+      "t": 58.1,
+      "text": "当たり散らし乱れた",
+      "ko": "아타리치라시 미다레타"
+    },
+    {
+      "t": 60.44,
+      "text": "認めたくない過去思い出して",
+      "ko": "미토메타쿠나이 카코 오모이다시테"
+    },
+    {
+      "t": 63.41,
+      "text": "Take the sword and get prepared for the fight",
+      "ko": null
+    },
+    {
+      "t": 66.47,
+      "text": "気づけばいつのまにか",
+      "ko": "키즈케바 이츠노마니카"
+    },
+    {
+      "t": 69.77,
+      "text": "新しい世界に染まりだしていく",
+      "ko": "아타라시이 세카이니 소마리다시테 이쿠"
+    },
+    {
+      "t": 73.08,
+      "text": "Teach me how to fly",
+      "ko": null
+    },
+    {
+      "t": 75.88,
+      "text": "これ以上泣かないで",
+      "ko": "코레 이죠- 나카나이데"
+    },
+    {
+      "t": 79.44,
+      "text": "羽ばたけるように",
+      "ko": "하바타케루 요-니"
+    },
+    {
+      "t": 82.5,
+      "text": "\"Just take one deep breath",
+      "ko": null
+    },
+    {
+      "t": 84.83,
+      "text": "And hold it still until you see your enemies inside your scope\"",
+      "ko": null
+    },
+    {
+      "t": 90.5,
+      "text": "鳴らない言葉をもう一度描いて",
+      "ko": "나라나이 코토바오 모- 이치도 에가이테"
+    },
+    {
+      "t": 95.03,
+      "text": "赤色に染まる時間を置き忘れ去れば",
+      "ko": "아카이로니 소마루 지칸오 오키와스레사레바"
+    },
+    {
+      "t": 99.84,
+      "text": "哀しい世界はもう二度となくて",
+      "ko": "카나시이 세카이와 모- 니도토 나쿠테"
+    },
+    {
+      "t": 104.65,
+      "text": "荒れた陸地が こぼれ落ちていく 一筋の光へ",
+      "ko": "아레타 리쿠치가 코보레오치테 이쿠 히토스지노 히카리에"
+    },
+    {
+      "t": 120.94,
+      "text": "Blinding lights are falling down from the sky",
+      "ko": null
+    },
+    {
+      "t": 124.72,
+      "text": "あどけない夢思い出す",
+      "ko": "아도케나이 유메 오모이다스"
+    },
+    {
+      "t": 127.56,
+      "text": "心を落とした大人のように",
+      "ko": "코코로오 오토시타 오토나노 요-니"
+    },
+    {
+      "t": 130.48,
+      "text": "Speak out the words and get prepared for the fight",
+      "ko": null
+    },
+    {
+      "t": 134.47,
+      "text": "気づけばいつのまにか",
+      "ko": "키즈케바 이츠노마니카"
+    },
+    {
+      "t": 136.1,
+      "text": "新しい世界を紡ぎ出していけ",
+      "ko": "아타라시이 세카이오 츠무기다시테 이케"
+    },
+    {
+      "t": 140.58,
+      "text": "Now I've learned to fly",
+      "ko": null
+    },
+    {
+      "t": 143.16,
+      "text": "これ以上泣かないよ",
+      "ko": "코레 이죠- 나카나이요"
+    },
+    {
+      "t": 146.08,
+      "text": "明日にはいないから",
+      "ko": "아시타니와 이나이카라"
+    },
+    {
+      "t": 148.94,
+      "text": "\"Gonna take one deep breath",
+      "ko": null
+    },
+    {
+      "t": 151.63,
+      "text": "And hold it still until I see my enemies inside the scope\"",
+      "ko": null
+    },
+    {
+      "t": 157.62,
+      "text": "くだらない言葉をもう一度叫んで",
+      "ko": "쿠다라나이 코토바오 모- 이치도 사켄데"
+    },
+    {
+      "t": 162.28,
+      "text": "鳴らないことなく孤独ラトゥになれば",
+      "ko": "나라나이 코토나쿠 코도쿠 라투니 나레바"
+    },
+    {
+      "t": 166.77,
+      "text": "新しい世界はもうそこにあって",
+      "ko": "아타라시이 세카이와 모- 소코니 앗테"
+    },
+    {
+      "t": 171.34,
+      "text": "開け放たれた 碧すぎる空 一粒の涙",
+      "ko": "아케하나타레타 아오스기루 소라 히토츠부노 나미다"
+    },
+    {
+      "t": 178.57,
+      "text": "A long time ago, there was a king of worlds",
+      "ko": null
+    },
+    {
+      "t": 182.15,
+      "text": "Who led me down my path",
+      "ko": null
+    },
+    {
+      "t": 184.04,
+      "text": "Through night and day, he showed the truths",
+      "ko": null
+    },
+    {
+      "t": 185.91,
+      "text": "Of the worlds and the shapes that I need to be",
+      "ko": null
+    },
+    {
+      "t": 188.27,
+      "text": "But after all, I cast a shadow under a light from my own sky",
+      "ko": null
+    },
+    {
+      "t": 194.41,
+      "text": "And I think that this is something that I want (oh oh oh oh)",
+      "ko": null
+    },
+    {
+      "t": 219.08,
+      "text": "鳴らない言葉をもう一度描いて",
+      "ko": "나라나이 코토바오 모- 이치도 에가이테"
+    },
+    {
+      "t": 223.64,
+      "text": "赤色に染まる時間を置き忘れ去れば",
+      "ko": "아카이로니 소마루 지칸오 오키와스레사레바"
+    },
+    {
+      "t": 227.99,
+      "text": "哀しい世界はもう二度となくて",
+      "ko": "카나시이 세카이와 모- 니도토 나쿠테"
+    },
+    {
+      "t": 231.81,
+      "text": "荒れた陸地が こぼれ落ちていく 一筋の光へ yeah",
+      "ko": "아레타 리쿠치가 코보레오치테 이쿠 히토스지노 히카리에 yeah"
+    }
+  ],
+  "cues": [
+    {
+      "type": "call",
+      "text": "어이! 어이! (반복) — 박수 구간 동안",
+      "at": {
+        "t": null,
+        "afterLine": -1
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 0,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 1,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 1
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 1
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 3,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 3
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 5,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 21,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 22,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 23,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 24,
+        "offset": 0
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 24
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 24
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박수 (줄 전체)",
+      "at": {
+        "line": 27,
+        "offset": 0
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "워어어~",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 27
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "떼창",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 41
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작)",
+      "url": "https://livet-call.pages.dev/"
+    },
+    {
+      "label": "adorehack [Alexandros] 라이브 정석곡 20선 (일본어)",
+      "url": "https://adorehack.com/article/alexandros-live-songs/"
+    },
+    {
+      "label": "2025 알렉산드로스 내한 대비 떼창 가이드 (YouTube)",
+      "url": "https://youtu.be/-Rfq1ogjSP8"
+    }
+  ],
+  "review": {
+    "pronunciation": false,
+    "timing": false
+  },
+  "order": 1
+}

@@ -1,0 +1,147 @@
+{
+  "id": "alexandros-endroll",
+  "artistId": "alexandros",
+  "title": "ENDROLL",
+  "youtube": {
+    "videoId": "lwyeuCgx8Uo",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 35445288,
+    "trackName": "ENDROLL",
+    "artistName": "[Alexandros]"
+  },
+  "durationSec": 214,
+  "lines": [
+    {
+      "t": 19.11,
+      "text": "ほら また 落ちていく 雨",
+      "ko": "호라 마타 오치테 이쿠 아메"
+    },
+    {
+      "t": 27.62,
+      "text": "消えていく 音",
+      "ko": "키에테 이쿠 오토"
+    },
+    {
+      "t": 32.74,
+      "text": "もうどんなに叫んでも",
+      "ko": "모- 돈나니 사켄데모"
+    },
+    {
+      "t": 39.85,
+      "text": "届かないから",
+      "ko": "토도카나이카라"
+    },
+    {
+      "t": 46.61,
+      "text": "We'd already gone 解いたって弱さが",
+      "ko": "We'd already gone 호도이탓테 요와사가"
+    },
+    {
+      "t": 53.65,
+      "text": "探す声が 走馬灯みたく走って何度も",
+      "ko": "사가스 코에가 소-마토- 미타쿠 하싯테 난도모"
+    },
+    {
+      "t": 61.08,
+      "text": "眺めて 溺れて 心を枯らしたって",
+      "ko": "나가메테 오보레테 코코로오 카라시탓테"
+    },
+    {
+      "t": 68.03,
+      "text": "過去に変わる二人 someone's gotta go",
+      "ko": "카코니 카와루 후타리 someone's gotta go"
+    },
+    {
+      "t": 82.76,
+      "text": "No light at the end of this hollow 風",
+      "ko": "No light at the end of this hollow 카제"
+    },
+    {
+      "t": 91.15,
+      "text": "冴えていく 左脳",
+      "ko": "사에테 이쿠 사노-"
+    },
+    {
+      "t": 96.09,
+      "text": "もうどんなに叫んでも",
+      "ko": "모- 돈나니 사켄데모"
+    },
+    {
+      "t": 103.12,
+      "text": "届かないけど",
+      "ko": "토도카나이케도"
+    },
+    {
+      "t": 109.86,
+      "text": "We'd already gone 解いたって弱さが",
+      "ko": "We'd already gone 호도이탓테 요와사가"
+    },
+    {
+      "t": 117.37,
+      "text": "探す声が 走馬灯みたく走って何度も",
+      "ko": "사가스 코에가 소-마토- 미타쿠 하싯테 난도모"
+    },
+    {
+      "t": 124.65,
+      "text": "眺めて 溺れて 心を枯らしたって",
+      "ko": "나가메테 오보레테 코코로오 카라시탓테"
+    },
+    {
+      "t": 131.56,
+      "text": "過去に変わる二人 someone's gotta go",
+      "ko": "카코니 카와루 후타리 someone's gotta go"
+    },
+    {
+      "t": 151,
+      "text": "We'd already gone 解いたって弱さが",
+      "ko": "We'd already gone 호도이탓테 요와사가"
+    },
+    {
+      "t": 158.27,
+      "text": "探す声が 走馬灯みたく走って何度も",
+      "ko": "사가스 코에가 소-마토- 미타쿠 하싯테 난도모"
+    },
+    {
+      "t": 165.73,
+      "text": "眺めて 溺れて 心を枯らしたって",
+      "ko": "나가메테 오보레테 코코로오 카라시탓테"
+    },
+    {
+      "t": 172.7,
+      "text": "過去に変わる二人 someone's gotta go",
+      "ko": "카코니 카와루 후타리 someone's gotta go"
+    }
+  ],
+  "cues": [
+    {
+      "type": "singalong",
+      "text": "첫 소절 떼창",
+      "note": "곡이 객석 싱어롱으로 시작한다. 카와카미가 마이크를 객석으로 돌리면 도입부를 따라 부른다",
+      "at": {
+        "line": 0,
+        "offset": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Real Sound YOU ARE WELCOME TOUR 파이널 리포트 (일본어)",
+      "url": "https://realsound.jp/2026/09/post-2513494.html"
+    },
+    {
+      "label": "adorehack [Alexandros] 라이브 정석곡 20선 (일본어)",
+      "url": "https://adorehack.com/article/alexandros-live-songs/"
+    },
+    {
+      "label": "THE FIRST TIMES THIS FES '26 리포트 (일본어)",
+      "url": "https://www.thefirsttimes.jp/report/0000910682/"
+    }
+  ],
+  "review": {
+    "pronunciation": false,
+    "timing": false
+  },
+  "order": 5
+}

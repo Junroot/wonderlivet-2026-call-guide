@@ -246,70 +246,146 @@
   ],
   "cues": [
     {
-      "type": "call",
-      "text": "Wo～o O～o O o!",
-      "ko": "워-오 오-오 오 오!",
-      "note": "1절 후렴. 손을 들고 「oh oh oh」 부분을 외친다",
+      "type": "jump",
+      "text": "점프!점프!",
       "at": {
-        "line": 12,
-        "offset": 2.5
+        "t": null,
+        "afterLine": 5
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프 (줄 전체)",
+      "at": {
+        "line": 6,
+        "offset": 0
+      }
+    },
+    {
+      "type": "jump",
+      "text": "크게 해드뱅잉!",
+      "at": {
+        "t": null,
+        "afterLine": 7
+      }
+    },
+    {
+      "type": "call",
+      "text": "Wow wow wow",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 11
+      }
+    },
+    {
+      "type": "jump",
+      "text": "점프!점프!",
+      "at": {
+        "t": null,
+        "afterLine": 17
       }
     },
     {
       "type": "clap",
-      "text": "박수 2번",
-      "note": "「滑稽なディストーション」에 맞춰 짝짝",
+      "text": "박수 짝짝!",
       "at": {
-        "line": 18,
+        "t": null,
+        "afterLine": 18
+      }
+    },
+    {
+      "type": "call",
+      "text": "Wow wow wow",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
+      "at": {
+        "t": null,
+        "afterLine": 24
+      }
+    },
+    {
+      "type": "jump",
+      "text": "크게 헤드뱅잉!",
+      "at": {
+        "t": null,
+        "afterLine": 27
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박자 맞춰서 박수",
+      "at": {
+        "t": null,
+        "afterLine": 29
+      }
+    },
+    {
+      "type": "clap",
+      "text": "박자 맞춰서 박수",
+      "at": {
+        "t": null,
+        "afterLine": 30
+      }
+    },
+    {
+      "type": "call",
+      "text": "ha-ha-hands",
+      "note": "콜: 이 줄의 「ha-ha-hands」 부분",
+      "at": {
+        "line": 31,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "call",
+      "text": "ha-ha-hands",
+      "note": "콜: 이 줄의 「ha-ha-hands」 부분",
+      "at": {
+        "line": 32,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "call",
+      "text": "ha-ha-hands",
+      "note": "콜: 이 줄의 「ha-ha-hands」 부분",
+      "at": {
+        "line": 33,
+        "offset": 2.2
+      }
+    },
+    {
+      "type": "call",
+      "text": "ha-ha-hands",
+      "note": "콜: 이 줄의 「ha-ha-hands」 부분",
+      "at": {
+        "line": 34,
         "offset": 1.5
       }
     },
     {
-      "type": "call",
-      "text": "Wo～o O～o O o!",
-      "ko": "워-오 오-오 오 오!",
-      "note": "2절 후렴. 손을 들고 외친다",
+      "type": "singalong",
+      "text": "Wow wow wow",
+      "note": "가이드 사이트의 가사 줄과 맞추지 못해 위치 확인 필요",
       "at": {
-        "line": 25,
-        "offset": 2.5
+        "t": null,
+        "afterLine": 38
       }
     },
     {
       "type": "call",
-      "text": "ha ha ha~nds",
-      "ko": "하 하 해-즈",
-      "note": "보컬 「Just wanna hold your ha～nds」에 손을 들고 응답. 이후 반복되는 줄도 같은 응답",
+      "text": "워어~워어~",
       "at": {
-        "line": 31,
-        "offset": 2.0
-      }
-    },
-    {
-      "type": "call",
-      "text": "ha ha ha~nds",
-      "at": {
-        "line": 32,
-        "offset": 2.0
-      }
-    },
-    {
-      "type": "call",
-      "text": "ha ha ha~nds",
-      "at": {
-        "line": 33,
-        "offset": 2.0
-      }
-    },
-    {
-      "type": "call",
-      "text": "ha ha ha~nds",
-      "at": {
-        "line": 34,
-        "offset": 2.0
+        "t": null,
+        "afterLine": 38
       }
     }
   ],
   "sources": [
+    {
+      "label": "원더리벳 2026 응원 가이드 (디시 일본 가수 갤러리 이용자 제작)",
+      "url": "https://livet-call.pages.dev/"
+    },
     {
       "label": "kyoonlife 오랄 정석곡 가이드 (일본어)",
       "url": "https://kyoonlife.com/theoralcigarettes-live-fes-teibankyoku-guide/"

@@ -32,6 +32,24 @@ export function parsePlain(text) {
     .map((s) => ({ t: null, text: s, ko: null }));
 }
 
+// 비교용 제목 정규화: 공백·기호를 지우고 전각 영숫자를 반각으로, 소문자로
+export function normalizeTitle(t) {
+  return String(t ?? '')
+    .normalize('NFKC')
+    .toLowerCase()
+    .replace(/[\s\p{P}\p{S}]/gu, '');
+}
+
+// 일반 검색(q) 결과에서 제목이 맞는 것만 남긴다. 다른 곡 가사가 섞이는 것을 막는다.
+export function matchingTitle(results, title) {
+  const want = normalizeTitle(title);
+  if (!want) return [];
+  return results.filter((r) => {
+    const got = normalizeTitle(r.trackName);
+    return got && (got.includes(want) || want.includes(got));
+  });
+}
+
 // 동기화 가사가 있는 결과 중 길이가 가장 가까운 것. 없으면 일반 가사가 있는 결과.
 // 반환: { result, synced: boolean } | null
 export function pickBest(results, durationSec) {

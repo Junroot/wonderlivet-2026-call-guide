@@ -139,6 +139,10 @@ export function validateAll({ lineup, songs }) {
         }
       } else if (kind === 'abs-null') {
         untimedCues.push(i);
+        const al = cue.at.afterLine;
+        if (al !== undefined && (al < -1 || al >= song.lines.length)) {
+          err(`cues[${i}].at.afterLine=${al} 범위 밖 (-1~${song.lines.length - 1})`);
+        }
       }
     });
     if (untimedCues.length) {

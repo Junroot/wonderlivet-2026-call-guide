@@ -1,0 +1,613 @@
+{
+  "id": "roselia-r",
+  "artistId": "roselia",
+  "title": "R",
+  "youtube": {
+    "videoId": "ZqdMPCDsCeE",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 3324021,
+    "trackName": "R",
+    "artistName": "Roselia"
+  },
+  "durationSec": 286,
+  "lines": [
+    {
+      "t": 6.08,
+      "text": "礎なる one's intention",
+      "ko": "이시즈에나루 one's intention"
+    },
+    {
+      "t": 8.89,
+      "text": "歌は凛々しく 百花繚乱",
+      "ko": "우타와 리리시쿠 햣카료-란"
+    },
+    {
+      "t": 11.35,
+      "text": "輝かしき one's intention",
+      "ko": "카가야카시키 one's intention"
+    },
+    {
+      "t": 13.56,
+      "text": "(Shout out!) 鮮烈に示すわ",
+      "ko": "(Shout out!) 센레츠니 시메스와"
+    },
+    {
+      "t": 15.98,
+      "text": "(Shout out!) 私たちの声で",
+      "ko": "(Shout out!) 와타시타치노 코에데"
+    },
+    {
+      "t": 18.57,
+      "text": "(Shout out!) 世界の (shout out!) 果てまで",
+      "ko": "(Shout out!) 세카이노 (shout out!) 하테마데"
+    },
+    {
+      "t": 21.71,
+      "text": "高らかに響け forever",
+      "ko": "타카라카니 히비케 forever"
+    },
+    {
+      "t": 28.52,
+      "text": "Never end! Never end! Never end!",
+      "ko": null
+    },
+    {
+      "t": 31.02,
+      "text": "We are",
+      "ko": null
+    },
+    {
+      "t": 43.06,
+      "text": "抱く意志が導くまま",
+      "ko": "이다쿠 이시가 미치비쿠 마마"
+    },
+    {
+      "t": 45.81,
+      "text": "夢をヒトサジ 掬い取って",
+      "ko": "유메오 히토사지 스쿠이톳테"
+    },
+    {
+      "t": 48.37,
+      "text": "纏う姿は毅然とし",
+      "ko": "마토우 스가타와 키젠토시"
+    },
+    {
+      "t": 51.03,
+      "text": "飛び交う闇を跳ねのける",
+      "ko": "토비카우 야미오 하네노케루"
+    },
+    {
+      "t": 53.52,
+      "text": "ラララララ",
+      "ko": "라라라라라"
+    },
+    {
+      "t": 56.18,
+      "text": "一糸乱れないオーラ",
+      "ko": "잇시 미다레나이 오-라"
+    },
+    {
+      "t": 58.63,
+      "text": "ラララララ",
+      "ko": "라라라라라"
+    },
+    {
+      "t": 61.18,
+      "text": "崩れはしないの",
+      "ko": "쿠즈레와 시나이노"
+    },
+    {
+      "t": 66.03,
+      "text": "(Shout out!) 激情は目覚ましく",
+      "ko": "(Shout out!) 게키죠-와 메자마시쿠"
+    },
+    {
+      "t": 68.37,
+      "text": "(Shout out!) 影を洗う光が",
+      "ko": "(Shout out!) 카게오 아라우 히카리가"
+    },
+    {
+      "t": 70.98,
+      "text": "(Shout out!) 何時でも (shout out!) 何処でも",
+      "ko": "(Shout out!) 이츠데모 (shout out!) 도코데모"
+    },
+    {
+      "t": 73.56,
+      "text": "己を照らしゆくわ",
+      "ko": "오노레오 테라시유쿠와"
+    },
+    {
+      "t": 76.44,
+      "text": "天に示す one's intention (雲突き抜けて)",
+      "ko": "텐니 시메스 one's intention (쿠모 츠키누케테)"
+    },
+    {
+      "t": 81.47,
+      "text": "絢爛たる one's intention (高らかに今)",
+      "ko": "겐란타루 one's intention (타카라카니 이마)"
+    },
+    {
+      "t": 86.62,
+      "text": "永遠に (永遠に) 止まない想い (止まない想い)",
+      "ko": "에-엔니 (에-엔니) 야마나이 오모이 (야마나이 오모이)"
+    },
+    {
+      "t": 91.75,
+      "text": "選ぶわ 正しい明日を",
+      "ko": "에라부와 타다시이 아스오"
+    },
+    {
+      "t": 97.14,
+      "text": "\"Rose\" shouts so loud!",
+      "ko": null
+    },
+    {
+      "t": 99.35,
+      "text": "薫り高く (showing, showing up!)",
+      "ko": "카오리 타카쿠 (showing, showing up!)"
+    },
+    {
+      "t": 102,
+      "text": "未来永劫 咲き誇るのよ",
+      "ko": "미라이에-고- 사키호코루노요"
+    },
+    {
+      "t": 117.19,
+      "text": "極限を辿りながらも",
+      "ko": "쿄쿠겐오 타도리나가라모"
+    },
+    {
+      "t": 119.77,
+      "text": "その時々の熱を持って",
+      "ko": "소노 토키도키노 네츠오 못테"
+    },
+    {
+      "t": 122.34,
+      "text": "望んだ場所へ進むだけ",
+      "ko": "노존다 바쇼에 스스무다케"
+    },
+    {
+      "t": 124.92,
+      "text": "道は既に開かれてる",
+      "ko": "미치와 스데니 히라카레테루"
+    },
+    {
+      "t": 127.62,
+      "text": "ラララララ",
+      "ko": "라라라라라"
+    },
+    {
+      "t": 130.25,
+      "text": "織り成すメッセージ",
+      "ko": "오리나스 멧세-지"
+    },
+    {
+      "t": 132.64,
+      "text": "ラララララ",
+      "ko": "라라라라라"
+    },
+    {
+      "t": 135.14,
+      "text": "華麗に掲げて",
+      "ko": "카레-니 카카게테"
+    },
+    {
+      "t": 139.69,
+      "text": "(Shout out!) ありのまま踊るわ",
+      "ko": "(Shout out!) 아리노마마 오도루와"
+    },
+    {
+      "t": 142.36,
+      "text": "(Shout out!) 愛を知る瞳で",
+      "ko": "(Shout out!) 아이오 시루 히토미데"
+    },
+    {
+      "t": 144.98,
+      "text": "(Shout out!) 覚悟が (shout out!) 背中を",
+      "ko": "(Shout out!) 카쿠고가 (shout out!) 세나카오"
+    },
+    {
+      "t": 147.51,
+      "text": "押し続けてくれるの",
+      "ko": "오시츠즈케테 쿠레루노"
+    },
+    {
+      "t": 150.61,
+      "text": "偽りなき one's intention (前を見据えて)",
+      "ko": "이츠와리나키 one's intention (마에오 미스에테)"
+    },
+    {
+      "t": 155.57,
+      "text": "刻みつける one's intention (色濃く深く)",
+      "ko": "키자미츠케루 one's intention (이로코쿠 후카쿠)"
+    },
+    {
+      "t": 160.77,
+      "text": "最後まで (最後まで) 離さないまま (離さないまま)",
+      "ko": "사이고마데 (사이고마데) 하나사나이 마마 (하나사나이 마마)"
+    },
+    {
+      "t": 165.83,
+      "text": "一途に駆け抜けるの",
+      "ko": "이치즈니 카케누케루노"
+    },
+    {
+      "t": 170.82,
+      "text": "\"Rose\" shouts so loud!",
+      "ko": null
+    },
+    {
+      "t": 173.41,
+      "text": "華々しく (showing, showing up!)",
+      "ko": "하나바나시쿠 (showing, showing up!)"
+    },
+    {
+      "t": 176.22,
+      "text": "未来永劫 咲き誇るのよ",
+      "ko": "미라이에-고- 사키호코루노요"
+    },
+    {
+      "t": 206.55,
+      "text": "喜怒哀楽 どんな台詞も",
+      "ko": "키도아이라쿠 돈나 세리후모"
+    },
+    {
+      "t": 209.17,
+      "text": "私たちが生んだスピリット",
+      "ko": "와타시타치가 운다 스피릿토"
+    },
+    {
+      "t": 211.82,
+      "text": "一片ずつ繋がり合って",
+      "ko": "히토히라즈츠 츠나가리앗테"
+    },
+    {
+      "t": 214.29,
+      "text": "折れない翼へと育った",
+      "ko": "오레나이 츠바사에토 소닷타"
+    },
+    {
+      "t": 216.92,
+      "text": "礎なる one's intention (唯一無二の)",
+      "ko": "이시즈에나루 one's intention (유이이츠무니노)"
+    },
+    {
+      "t": 222.01,
+      "text": "輝かしき one's intention (汚されないと)",
+      "ko": "카가야카시키 one's intention (케가사레나이토)"
+    },
+    {
+      "t": 227.05,
+      "text": "天に示す one's intention (雲突き抜けて)",
+      "ko": "텐니 시메스 one's intention (쿠모 츠키누케테)"
+    },
+    {
+      "t": 232.15,
+      "text": "絢爛たる one's intention (高らかに今)",
+      "ko": "겐란타루 one's intention (타카라카니 이마)"
+    },
+    {
+      "t": 237.27,
+      "text": "永遠に (永遠に) 止まない想い (止まない想い)",
+      "ko": "에-엔니 (에-엔니) 야마나이 오모이 (야마나이 오모이)"
+    },
+    {
+      "t": 242.4,
+      "text": "選ぶわ 正しい明日を",
+      "ko": "에라부와 타다시이 아스오"
+    },
+    {
+      "t": 247.46,
+      "text": "\"Rose\" shouts so loud!",
+      "ko": null
+    },
+    {
+      "t": 249.92,
+      "text": "薫り高く (showing, showing up!)",
+      "ko": "카오리 타카쿠 (showing, showing up!)"
+    },
+    {
+      "t": 252.5,
+      "text": "未来永劫 咲き誇るのよ",
+      "ko": "미라이에-고- 사키호코루노요"
+    },
+    {
+      "t": 267.65,
+      "text": "絆の薔薇よ 美しく (華ひらくとき)",
+      "ko": "키즈나노 바라요 우츠쿠시쿠 (하나 히라쿠 토키)"
+    },
+    {
+      "t": 273.22,
+      "text": "私たちのモノガタリが (また始まるの)",
+      "ko": "와타시타치노 모노가타리가 (마타 하지마루노)"
+    }
+  ],
+  "cues": [
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "note": "「Shout out!」 부분을 관객이 외친다 (seesaa 표기 「しゃったう!」)",
+      "at": {
+        "line": 3
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 4
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 5
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 5,
+        "offset": 1.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "R R R R R",
+      "ko": "아-루 ×5",
+      "note": "가사 「ラララララ」 자리에서 외친다 (seesaa 표기 「ららい」×5)",
+      "at": {
+        "line": 13
+      }
+    },
+    {
+      "type": "call",
+      "text": "R R R R R",
+      "ko": "아-루 ×5",
+      "at": {
+        "line": 15
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 17
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 18
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 19
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 19,
+        "offset": 1.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "雲突き抜けて",
+      "ko": "쿠모 츠키누케테",
+      "note": "괄호 부분을 따라 부른다",
+      "at": {
+        "line": 21,
+        "offset": 2.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "高らかに今",
+      "ko": "타카라카니 이마",
+      "at": {
+        "line": 22,
+        "offset": 2.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "永遠に",
+      "ko": "에-엔니",
+      "at": {
+        "line": 23,
+        "offset": 1.3
+      }
+    },
+    {
+      "type": "call",
+      "text": "止まない想い",
+      "ko": "야마나이 오모이",
+      "at": {
+        "line": 23,
+        "offset": 3.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "Showing, showing up!",
+      "ko": "쇼잉 쇼잉 업!",
+      "at": {
+        "line": 26,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "call",
+      "text": "R R R R R",
+      "ko": "아-루 ×5",
+      "at": {
+        "line": 32
+      }
+    },
+    {
+      "type": "call",
+      "text": "R R R R R",
+      "ko": "아-루 ×5",
+      "at": {
+        "line": 34
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 36
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 37
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 38
+      }
+    },
+    {
+      "type": "call",
+      "text": "Shout out!",
+      "ko": "샤우타웃!",
+      "at": {
+        "line": 38,
+        "offset": 1.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "前を見据えて",
+      "ko": "마에오 미스에테",
+      "at": {
+        "line": 40,
+        "offset": 2.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "色濃く深く",
+      "ko": "이로코쿠 후카쿠",
+      "at": {
+        "line": 41,
+        "offset": 2.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "最後まで",
+      "ko": "사이고마데",
+      "at": {
+        "line": 42,
+        "offset": 1.3
+      }
+    },
+    {
+      "type": "call",
+      "text": "離さないまま",
+      "ko": "하나사나이 마마",
+      "at": {
+        "line": 42,
+        "offset": 3.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "Showing, showing up!",
+      "ko": "쇼잉 쇼잉 업!",
+      "at": {
+        "line": 45,
+        "offset": 1.5
+      }
+    },
+    {
+      "type": "call",
+      "text": "雲突き抜けて",
+      "ko": "쿠모 츠키누케테",
+      "at": {
+        "line": 53,
+        "offset": 2.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "高らかに今",
+      "ko": "타카라카니 이마",
+      "at": {
+        "line": 54,
+        "offset": 2.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "永遠に",
+      "ko": "에-엔니",
+      "at": {
+        "line": 55,
+        "offset": 1.3
+      }
+    },
+    {
+      "type": "call",
+      "text": "止まない想い",
+      "ko": "야마나이 오모이",
+      "at": {
+        "line": 55,
+        "offset": 3.6
+      }
+    },
+    {
+      "type": "call",
+      "text": "Showing, showing up!",
+      "ko": "쇼잉 쇼잉 업!",
+      "at": {
+        "line": 58,
+        "offset": 1.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "dcinside 뱅드림 갤러리 Roselia 콜가이드 핵심 요약 (2025 서울 공연 대비)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=bang_dream&no=5800696"
+    },
+    {
+      "label": "バンドリ！ポッピンコール！ R 콜표 (일본어)",
+      "url": "https://bangdream.seesaa.net/article/R.html"
+    }
+  ],
+  "review": {
+    "pronunciation": false,
+    "timing": false
+  },
+  "order": 6
+}

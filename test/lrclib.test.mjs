@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseSynced, parsePlain, pickBest, buildSkeleton } from '../tools/lib/lrclib.mjs';
+import { parseSynced, parsePlain, pickBest, buildSkeleton, matchingTitle } from '../tools/lib/lrclib.mjs';
 
 test('parseSynced: 시간 태그, 여러 태그, 메타데이터와 빈 줄 제거', () => {
   const lrc = '[ar:X]\n[00:12.34] 一行目\n[00:15.00]\n[01:02.5][00:20.00]繰り返し\n';
@@ -43,4 +43,14 @@ test('buildSkeleton: 일반 가사면 t가 null인 뼈대', () => {
   assert.equal(s.lrclib.id, 3);
   assert.deepEqual(s.lines, [{ t: null, text: 'a', ko: null }]);
   assert.deepEqual(s.review, { pronunciation: false, timing: false });
+});
+
+test('matchingTitle: 일반 검색 결과 중 제목이 맞는 것만 남긴다', () => {
+  const rs = [
+    { id: 1, trackName: 'カワイイコレクション' },
+    { id: 2, trackName: 'SWEET STEP' },
+    { id: 3, trackName: 'ＳＷＥＥＴ　ＳＴＥＰ (Live)' },
+  ];
+  assert.deepEqual(matchingTitle(rs, 'SWEET STEP').map((r) => r.id), [2, 3]);
+  assert.deepEqual(matchingTitle(rs, 'ハートの魔法'), []);
 });

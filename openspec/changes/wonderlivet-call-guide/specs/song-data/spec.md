@@ -1,7 +1,7 @@
 ## ADDED Requirements
 
 ### Requirement: 곡 데이터 형식
-각 곡은 `data/songs/<artist-id>/<song-id>.json` 파일 하나로 저장해야 한다(SHALL). 필수 필드는 `id`, `artistId`, `title`, `youtube.videoId`, `youtube.offsetSec`, `durationSec`, `lines[]`, `cues[]`, `sources[]`, `review`다. 콜의 `type`은 `call`, `clap`, `jump`, `singalong`, `motion`, `penlight`, `other` 중 하나여야 한다(SHALL). 콜의 `at`은 `{ line, offset? }`, `{ t }`, `{ t: null }` 중 하나여야 한다(SHALL). `line`은 `lines[]`의 0 기준 첨자다. `{ t: null }`은 시간 미정 절대 시간 콜이다.
+각 곡은 `data/songs/<artist-id>/<song-id>.json` 파일 하나로 저장해야 한다(SHALL). 필수 필드는 `id`, `artistId`, `title`, `youtube.videoId`, `youtube.offsetSec`, `durationSec`, `lines[]`, `cues[]`, `sources[]`, `review`다. 콜의 `type`은 `call`, `clap`, `jump`, `singalong`, `motion`, `penlight`, `other` 중 하나여야 한다(SHALL). 콜의 `at`은 `{ line, offset? }`, `{ t }`, `{ t: null }` 중 하나여야 한다(SHALL). `line`은 `lines[]`의 0 기준 첨자다. `{ t: null }`은 시간 미정 절대 시간 콜이며, 선택 필드 `afterLine`(0 기준, -1이면 맨 앞)으로 목록에서 어느 가사 줄 뒤에 표시할지 정할 수 있다. `afterLine`이 없으면 `cues[]`에서 바로 앞 콜과 같은 자리에 표시한다.
 
 #### Scenario: 가사 줄 기준 콜
 - **WHEN** 콜이 `"at": { "line": 12, "offset": 0.4 }`이다
@@ -14,6 +14,10 @@
 #### Scenario: 시간 미정 절대 시간 콜
 - **WHEN** 콜이 `"at": { "t": null }`이다
 - **THEN** 그 콜은 시간이 없는 콜로 취급되고, 검증 스크립트는 오류가 아닌 경고를 출력한다
+
+#### Scenario: 시간 미정 콜의 표시 위치
+- **WHEN** 콜이 `"at": { "t": null, "afterLine": 13 }`이다
+- **THEN** 그 콜은 연습 화면과 보정 도구 목록에서 `lines[13]` 바로 뒤에 표시된다. `afterLine`이 가사 줄 범위(-1 ~ 줄 수 - 1)를 벗어나면 검증 스크립트가 오류를 보고한다
 
 ### Requirement: 라인업 데이터
 `data/lineup.json`은 곡 데이터가 있는 아티스트마다 `id`, 원문 이름, 한글 이름, 공연 일자, 스테이지, 시작·종료 시간, `rituals[]`를 담아야 한다(SHALL). 공연 의식 항목은 이름, 설명, 출처 URL을 가져야 한다(SHALL).

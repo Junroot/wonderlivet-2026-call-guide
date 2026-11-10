@@ -9,7 +9,8 @@ export function round2(v) {
   return Math.round(v * 100) / 100;
 }
 
-// at 형식 판별: 'line' = { line, offset? }, 'abs' = { t: 숫자 }, 'abs-null' = { t: null }.
+// at 형식 판별: 'line' = { line, offset? }, 'abs' = { t: 숫자 }, 'abs-null' = { t: null, afterLine? }.
+// afterLine은 시간 미정 콜을 목록에서 어느 줄 뒤에 둘지 정하는 선택 필드다(0 기준, -1이면 맨 앞).
 // 어느 형식도 아니면 null.
 export function atKind(at) {
   if (!at || typeof at !== 'object') return null;
@@ -19,7 +20,7 @@ export function atKind(at) {
     return 'line';
   }
   if ('t' in at) {
-    if (at.t === null) return 'abs-null';
+    if (at.t === null) return !('afterLine' in at) || Number.isInteger(at.afterLine) ? 'abs-null' : null;
     if (isNum(at.t)) return 'abs';
   }
   return null;
@@ -65,7 +66,7 @@ export function currentLineIndex(lines, now) {
 // 화면 목록 순서. 가사 줄마다 그 줄 뒤에 붙는 콜을 이어 붙인다.
 // - 줄 기준 콜: 자신이 붙은 줄 뒤
 // - 절대 시간 콜: 그 시간 이전의 마지막 시간 있는 줄 뒤 (첫 줄보다 이르면 맨 앞)
-// - 시간 미정 콜: cues[]에서 바로 앞 콜과 같은 자리 (첫 콜이면 맨 앞)
+// - 시간 미정 콜: afterLine 줄 뒤. 없으면 cues[]에서 바로 앞 콜과 같은 자리 (첫 콜이면 맨 앞)
 // 같은 자리의 콜은 cues[] 순서를 따른다.
 // 결과: [{ kind: 'line', index } | { kind: 'cue', index }]
 export function buildTimeline(song) {
@@ -83,7 +84,9 @@ export function buildTimeline(song) {
         anchor = currentLineIndex(lines, cue.at.t);
         break;
       default:
-        anchor = prev;
+        anchor = Number.isInteger(cue.at?.afterLine)
+          ? Math.min(Math.max(cue.at.afterLine, -1), lines.length - 1)
+          : prev;
     }
     anchors[i] = anchor;
     prev = anchor;

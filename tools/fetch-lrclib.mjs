@@ -7,7 +7,7 @@
 import { readFile, writeFile, mkdir, access } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { pickBest, buildSkeleton } from './lib/lrclib.mjs';
+import { pickBest, buildSkeleton, matchingTitle } from './lib/lrclib.mjs';
 
 const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const API = 'https://lrclib.net/api';
@@ -59,7 +59,13 @@ async function search(params) {
 }
 
 let results = await search({ artist_name: artist, track_name: track });
-if (!results.length) results = await search({ q: opt.query ?? `${artist} ${track}` });
+if (!results.length) {
+  const loose = await search({ q: opt.query ?? `${artist} ${track}` });
+  results = matchingTitle(loose, track);
+  if (loose.length && !results.length) {
+    console.warn(`일반 검색 결과 ${loose.length}개는 제목이 달라 버렸습니다: ${[...new Set(loose.map((r) => r.trackName))].slice(0, 5).join(', ')}`);
+  }
+}
 
 const pick = pickBest(results, duration);
 if (!pick) fail(`가사를 찾지 못했습니다 (검색 결과 ${results.length}개). 가사 사이트에서 직접 넣어야 합니다.`);

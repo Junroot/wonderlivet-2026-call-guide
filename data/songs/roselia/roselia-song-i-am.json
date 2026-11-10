@@ -1,0 +1,456 @@
+{
+  "id": "roselia-song-i-am",
+  "artistId": "roselia",
+  "title": "Song I am.",
+  "youtube": {
+    "videoId": "Kohn9PRanoY",
+    "offsetSec": 0
+  },
+  "lrclib": {
+    "id": 3122903,
+    "trackName": "Song I am.",
+    "artistName": "Roselia"
+  },
+  "durationSec": 243,
+  "lines": [
+    {
+      "t": 35.9,
+      "text": "歪な始まりは生まれた",
+      "ko": "이비츠나 하지마리와 우마레타"
+    },
+    {
+      "t": 38.42,
+      "text": "世界が崩れゆく中",
+      "ko": "세카이가 쿠즈레유쿠 나카"
+    },
+    {
+      "t": 40.82,
+      "text": "Gotta make it happen",
+      "ko": null
+    },
+    {
+      "t": 43.05,
+      "text": "(Gotta make it happen)",
+      "ko": null
+    },
+    {
+      "t": 46.02,
+      "text": "迷いなく この身を捧げたわ",
+      "ko": "마요이나쿠 코노 미오 사사게타와"
+    },
+    {
+      "t": 48.56,
+      "text": "立ち上がる為ならば と",
+      "ko": "타치아가루 타메나라바 토"
+    },
+    {
+      "t": 50.6,
+      "text": "Gotta make it happen",
+      "ko": null
+    },
+    {
+      "t": 53.09,
+      "text": "(Gotta make it happen)",
+      "ko": null
+    },
+    {
+      "t": 56.65,
+      "text": "足掻き、もがきながら",
+      "ko": "아가키, 모가키나가라"
+    },
+    {
+      "t": 58.98,
+      "text": "(Wow wo wow)",
+      "ko": null
+    },
+    {
+      "t": 61.69,
+      "text": "集めた 本当の\"歌う意味\"を",
+      "ko": "아츠메타 혼토-노 \"우타우 이미\"오"
+    },
+    {
+      "t": 66.05,
+      "text": "(I am song)",
+      "ko": null
+    },
+    {
+      "t": 67.54,
+      "text": "貴方がいたから 私がいた過去から",
+      "ko": "아나타가 이타카라 와타시가 이타 카코카라"
+    },
+    {
+      "t": 71.15,
+      "text": "(I am song)",
+      "ko": null
+    },
+    {
+      "t": 72.65,
+      "text": "これからの道を選び",
+      "ko": "코레카라노 미치오 에라비"
+    },
+    {
+      "t": 76.45,
+      "text": "私達が在る為の未来へと",
+      "ko": "와타시타치가 아루 타메노 미라이에토"
+    },
+    {
+      "t": 81.28,
+      "text": "(I am song)",
+      "ko": null
+    },
+    {
+      "t": 82.64,
+      "text": "振り返らず、迷わず、進むわ",
+      "ko": "후리카에라즈, 마요와즈, 스스무와"
+    },
+    {
+      "t": 85.01,
+      "text": "Shout to the top！",
+      "ko": null
+    },
+    {
+      "t": 97.27,
+      "text": "決して死なない...",
+      "ko": "켓시테 시나나이..."
+    },
+    {
+      "t": 99.82,
+      "text": "火をつけた言葉は",
+      "ko": "히오 츠케타 코토바와"
+    },
+    {
+      "t": 103.62,
+      "text": "今やBlazing...",
+      "ko": "이마야 Blazing..."
+    },
+    {
+      "t": 106.44,
+      "text": "(Burn!!)",
+      "ko": null
+    },
+    {
+      "t": 107.46,
+      "text": "五体全てを照らして",
+      "ko": "고타이 스베테오 테라시테"
+    },
+    {
+      "t": 111.27,
+      "text": "We live forever",
+      "ko": null
+    },
+    {
+      "t": 113.89,
+      "text": "(We live forever)",
+      "ko": null
+    },
+    {
+      "t": 116.68,
+      "text": "義務じゃなく",
+      "ko": "기무쟈나쿠"
+    },
+    {
+      "t": 117.82,
+      "text": "自分の意志のみで",
+      "ko": "지분노 이시노미데"
+    },
+    {
+      "t": 119.42,
+      "text": "I sing a song",
+      "ko": null
+    },
+    {
+      "t": 120.28,
+      "text": "羽ばたくよう",
+      "ko": "하바타쿠요-"
+    },
+    {
+      "t": 121.28,
+      "text": "(Oh, oh!)",
+      "ko": null
+    },
+    {
+      "t": 121.9,
+      "text": "誇りと音色たちよ",
+      "ko": "호코리토 네이로타치요"
+    },
+    {
+      "t": 123.6,
+      "text": "さらに気高く響け！",
+      "ko": "사라니 케다카쿠 히비케!"
+    },
+    {
+      "t": 126.76,
+      "text": "(Song I am)",
+      "ko": null
+    },
+    {
+      "t": 128.23,
+      "text": "この先 どんなに長い道のりだろうと",
+      "ko": "코노 사키 돈나니 나가이 미치노리다로-토"
+    },
+    {
+      "t": 131.66,
+      "text": "(Song I am)",
+      "ko": null
+    },
+    {
+      "t": 133.22,
+      "text": "何を恐れることがある？",
+      "ko": "나니오 오소레루 코토가 아루?"
+    },
+    {
+      "t": 136.95,
+      "text": "選ぶ先は 正解しかないんだ",
+      "ko": "에라부 사키와 세-카이시카 나인다"
+    },
+    {
+      "t": 141.85,
+      "text": "(Song I am)",
+      "ko": null
+    },
+    {
+      "t": 143.38,
+      "text": "確かな運命を 今此処から",
+      "ko": "타시카나 운메-오 이마 코코카라"
+    },
+    {
+      "t": 145.67,
+      "text": "Declare to be！",
+      "ko": null
+    },
+    {
+      "t": 165.96,
+      "text": "Song I am",
+      "ko": null
+    },
+    {
+      "t": 194.97,
+      "text": "(I am song)",
+      "ko": null
+    },
+    {
+      "t": 196.36,
+      "text": "導き続けてくれたもの達へ贈ろう",
+      "ko": "미치비키츠즈케테 쿠레타 모노타치에 오쿠로-"
+    },
+    {
+      "t": 200.02,
+      "text": "(I am song)",
+      "ko": null
+    },
+    {
+      "t": 201.51,
+      "text": "感謝と そして想いを...",
+      "ko": "칸샤토 소시테 오모이오..."
+    },
+    {
+      "t": 205.25,
+      "text": "私達が在る為の未来まで",
+      "ko": "와타시타치가 아루 타메노 미라이마데"
+    },
+    {
+      "t": 210.14,
+      "text": "(I am song)",
+      "ko": null
+    },
+    {
+      "t": 211.48,
+      "text": "振り返らず、迷わず、信じて",
+      "ko": "후리카에라즈, 마요와즈, 신지테"
+    },
+    {
+      "t": 213.75,
+      "text": "Shout to the top！",
+      "ko": null
+    },
+    {
+      "t": 220.19,
+      "text": "(Song I am)",
+      "ko": null
+    },
+    {
+      "t": 221.62,
+      "text": "...私達は 新たな世界を歌ってゆくわ",
+      "ko": "...와타시타치와 아라타나 세카이오 우탓테 유쿠와"
+    },
+    {
+      "t": 225.28,
+      "text": "(Song I am Song I am)",
+      "ko": null
+    },
+    {
+      "t": 231.73,
+      "text": "強く、熱く、届けよ 果てまで",
+      "ko": "츠요쿠, 아츠쿠, 토도케요 하테마데"
+    },
+    {
+      "t": 234.18,
+      "text": "Louder!! Louder!!",
+      "ko": null
+    }
+  ],
+  "cues": [
+    {
+      "type": "penlight",
+      "text": "보라",
+      "note": "곡 전체 펜라이트 색",
+      "color": "#8b5cf6",
+      "at": {
+        "t": 0
+      }
+    },
+    {
+      "type": "call",
+      "text": "Gotta make it happen",
+      "ko": "가라 메이크 잇 해픈",
+      "at": {
+        "line": 3
+      }
+    },
+    {
+      "type": "call",
+      "text": "Gotta make it happen",
+      "ko": "가라 메이크 잇 해픈",
+      "at": {
+        "line": 7
+      }
+    },
+    {
+      "type": "singalong",
+      "text": "Wow wo wow",
+      "ko": "와우 워 와우",
+      "at": {
+        "line": 9
+      }
+    },
+    {
+      "type": "call",
+      "text": "I am song",
+      "ko": "아이 엠 송",
+      "note": "1절 후렴은 「I am song」, 2절은 「Song I am」 순서",
+      "at": {
+        "line": 11
+      }
+    },
+    {
+      "type": "call",
+      "text": "I am song",
+      "ko": "아이 엠 송",
+      "at": {
+        "line": 13
+      }
+    },
+    {
+      "type": "call",
+      "text": "I am song",
+      "ko": "아이 엠 송",
+      "at": {
+        "line": 16
+      }
+    },
+    {
+      "type": "call",
+      "text": "Burn!!",
+      "ko": "번!!",
+      "at": {
+        "line": 22
+      }
+    },
+    {
+      "type": "call",
+      "text": "We live forever",
+      "ko": "위 리브 포에버",
+      "at": {
+        "line": 25
+      }
+    },
+    {
+      "type": "call",
+      "text": "Oh, oh!",
+      "ko": "오 오!",
+      "at": {
+        "line": 30
+      }
+    },
+    {
+      "type": "call",
+      "text": "Song I am",
+      "ko": "송 아이 엠",
+      "at": {
+        "line": 33
+      }
+    },
+    {
+      "type": "call",
+      "text": "Song I am",
+      "ko": "송 아이 엠",
+      "at": {
+        "line": 35
+      }
+    },
+    {
+      "type": "call",
+      "text": "Song I am",
+      "ko": "송 아이 엠",
+      "at": {
+        "line": 38
+      }
+    },
+    {
+      "type": "call",
+      "text": "I am song",
+      "ko": "아이 엠 송",
+      "note": "마지막 후렴: I am song 3번, 그다음 Song I am 3번",
+      "at": {
+        "line": 42
+      }
+    },
+    {
+      "type": "call",
+      "text": "I am song",
+      "ko": "아이 엠 송",
+      "at": {
+        "line": 44
+      }
+    },
+    {
+      "type": "call",
+      "text": "I am song",
+      "ko": "아이 엠 송",
+      "at": {
+        "line": 47
+      }
+    },
+    {
+      "type": "call",
+      "text": "Song I am",
+      "ko": "송 아이 엠",
+      "at": {
+        "line": 50
+      }
+    },
+    {
+      "type": "call",
+      "text": "Song I am Song I am",
+      "ko": "송 아이 엠 송 아이 엠",
+      "at": {
+        "line": 52
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "dcinside 뱅드림 갤러리 Roselia 콜가이드 핵심 요약 (2025 서울 공연 대비)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=bang_dream&no=5800696"
+    },
+    {
+      "label": "バンドリ！ポッピンコール！ Song I am. 콜표 (일본어)",
+      "url": "https://bangdream.seesaa.net/article/Song-I-am.html"
+    }
+  ],
+  "review": {
+    "pronunciation": false,
+    "timing": false
+  },
+  "order": 5
+}

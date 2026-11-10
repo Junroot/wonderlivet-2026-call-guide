@@ -150,3 +150,9 @@ test('CLI: 오류가 있으면 종료 코드 1, 색인 없음 / 경고만 있으
     await rm(root, { recursive: true, force: true });
   }
 });
+
+test('afterLine 범위 밖은 오류', () => {
+  const r = check(makeSong({ cues: [{ type: 'clap', text: '', at: { t: null, afterLine: 30 } }] }));
+  assert.match(messages(r.errors), /afterLine=30 범위 밖/);
+  assert.deepEqual(check(makeSong({ cues: [{ type: 'clap', text: '', at: { t: null, afterLine: 29 } }] })).errors, []);
+});

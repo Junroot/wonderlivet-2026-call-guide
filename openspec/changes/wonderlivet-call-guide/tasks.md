@@ -44,27 +44,27 @@
 
 대상: 狂乱 Hey Kids!!, カンタンナコト (THE ORAL CIGARETTES) / ビビデバ, ソワレ (호시마치 스이세이) / ANIMA, GG (ReoNa) / IN_MY_HEAD (natori) / 踊楽園 (CLAN QUEEN) / ファジーネーブル (Conton Candy) / 条司 (jo0ji) / ケダモノのフレンズ (nishina)
 
-- [ ] 7.1 곡마다 임베드 가능한 공식 음원 또는 MV를 고르고 `fetch-lrclib.mjs`로 뼈대를 만든다. LRCLIB에 없는 곡은 따로 기록한다
-- [ ] 7.2 `research/`의 출처를 따라 콜을 `cues[]`에 넣는다. `at.line`은 0 기준 첨자로 적고(N번째 줄 → `N - 1`), 가사 없는 구간의 절대 시간 콜은 `{t: null}`로 적는다. 공식 콜 영상이 있는 곡은 영상과 대조한다
-- [ ] 7.3 일본어 가사에 한글 발음 초안을 넣고 `validate`를 통과시킨 뒤 배포한다
+- [x] 7.1 곡마다 임베드 가능한 공식 음원 또는 MV를 고르고 `fetch-lrclib.mjs`로 뼈대를 만든다. LRCLIB에 없는 곡은 따로 기록한다
+- [x] 7.2 `research/`의 출처를 따라 콜을 `cues[]`에 넣는다. `at.line`은 0 기준 첨자로 적고(N번째 줄 → `N - 1`), 가사 없는 구간의 절대 시간 콜은 `{t: null}`로 적는다. 공식 콜 영상이 있는 곡은 영상과 대조한다
+- [ ] 7.3 일본어 가사에 한글 발음 초안을 넣고 `validate`를 통과시킨 뒤 배포한다 (발음 초안·validate 완료, 배포는 승인 대기. 곡별 상태는 `research/content-status.md`)
 - [ ] 7.4 보정 도구로 타이밍을 검수하고 발음을 검수한다 — **사용자 검수**
 
 ## 8. 곡 데이터: 토요일 11/21 (24곡)
 
 대상: 閃光, ワタリドリ, starrrrrrr, Kick & Spin, ENDROLL ([Alexandros]) / FIRE BIRD, BLACK SHOUT, PASSIONATE ANTHEM, Neo-Aspect, Song I am., R (Roselia) / 世界はそれを愛と呼ぶんだぜ, できっこないを やらなくちゃ, ヒューマニティ！, 花束 (SAMBOMASTER) / オドループ, スパークルダンサー (FREDERIC) / 影色舞, 迷星叫, 壱雫空, 往欄印 (MyGO!!!!!) / 私、アイドル宣言, 今日もサクラ舞う暁に (CHiCO with HoneyWorks) / PONPONPON (Kyary Pamyu Pamyu)
 
-- [ ] 8.1 영상 선택과 LRCLIB 뼈대 생성 (7.1과 같은 절차)
-- [ ] 8.2 콜 입력. 往欄印은 디시 콜표 이미지 05를 확인해야 상세 콜을 넣을 수 있다
-- [ ] 8.3 한글 발음 초안, `validate` 통과, 배포
+- [x] 8.1 영상 선택과 LRCLIB 뼈대 생성 (7.1과 같은 절차)
+- [ ] 8.2 콜 입력. 往欄印은 디시 콜표 이미지 05를 확인해야 상세 콜을 넣을 수 있다 (往欄印 외 23곡 완료. 往欄印은 마지막 떼창만 입력)
+- [ ] 8.3 한글 발음 초안, `validate` 통과, 배포 (발음 초안·validate 완료, 배포는 승인 대기)
 - [ ] 8.4 타이밍과 발음 검수 — **사용자 검수**
 
 ## 9. 곡 데이터: 일요일 11/22 (21곡)
 
 대상: 冥冥, ダンス・デカダンス, 銃電中, FLASH BACK!!!!!!!!, Banquet (Chevon) / 고민중독, 내 이름 맑음, Discord (QWER) / SWEET STEP, Call me Tell me, ハートの魔法, DASH!!!, カワイイコレクション (SWEET STEADY) / 夏色, ビューティフル, サヨナラバス (YUZU) / さくらんぼ (Ai Otsuka) / 倍倍FIGHT!, 総意♡So Free, キス・ミー・パティシエ (CANDY TUNE) / フィナーレ。 (eill)
 
-- [ ] 9.1 영상 선택과 LRCLIB 뼈대 생성 (7.1과 같은 절차)
-- [ ] 9.2 콜 입력. KAWAII LAB. 두 팀은 공식 Cheering Guide 영상과 대조한다
-- [ ] 9.3 한글 발음 초안(한국어 곡은 `ko: null`), `validate` 통과, 배포
+- [x] 9.1 영상 선택과 LRCLIB 뼈대 생성 (7.1과 같은 절차)
+- [ ] 9.2 콜 입력. KAWAII LAB. 두 팀은 공식 Cheering Guide 영상과 대조한다 (15곡 완료. 영상은 볼 수 없어 글 출처로만 입력. QWER Discord는 콜 0개)
+- [ ] 9.3 한글 발음 초안(한국어 곡은 `ko: null`), `validate` 통과, 배포 (발음 초안·validate 완료, 배포는 승인 대기)
 - [ ] 9.4 타이밍과 발음 검수 — **사용자 검수**
 
 ## 10. 미조사 곡 재조사

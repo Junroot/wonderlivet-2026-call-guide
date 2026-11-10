@@ -1,6 +1,379 @@
 {
   "songs": [
     {
+      "id": "ai-otsuka-sakuranbo",
+      "artistId": "ai-otsuka",
+      "title": "さくらんぼ",
+      "order": 1,
+      "path": "data/songs/ai-otsuka/ai-otsuka-sakuranbo.json",
+      "cueTypes": [
+        "call",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "alexandros-senkou",
+      "artistId": "alexandros",
+      "title": "閃光",
+      "order": 1,
+      "path": "data/songs/alexandros/alexandros-senkou.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "alexandros-wataridori",
+      "artistId": "alexandros",
+      "title": "ワタリドリ",
+      "order": 2,
+      "path": "data/songs/alexandros/alexandros-wataridori.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "jump",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "alexandros-starrrrrrr",
+      "artistId": "alexandros",
+      "title": "starrrrrrr",
+      "order": 3,
+      "path": "data/songs/alexandros/alexandros-starrrrrrr.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "alexandros-kick-and-spin",
+      "artistId": "alexandros",
+      "title": "Kick & Spin",
+      "order": 4,
+      "path": "data/songs/alexandros/alexandros-kick-and-spin.json",
+      "cueTypes": [
+        "singalong",
+        "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "alexandros-endroll",
+      "artistId": "alexandros",
+      "title": "ENDROLL",
+      "order": 5,
+      "path": "data/songs/alexandros/alexandros-endroll.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "candy-tune-soui-so-free",
+      "artistId": "candy-tune",
+      "title": "総意♡So Free",
+      "order": 1,
+      "path": "data/songs/candy-tune/candy-tune-soui-so-free.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "candy-tune-baibai-fight",
+      "artistId": "candy-tune",
+      "title": "倍倍FIGHT!",
+      "order": 2,
+      "path": "data/songs/candy-tune/candy-tune-baibai-fight.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "candy-tune-kiss-me-patissier",
+      "artistId": "candy-tune",
+      "title": "キス・ミー・パティシエ",
+      "order": 3,
+      "path": "data/songs/candy-tune/candy-tune-kiss-me-patissier.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "chevon-dance-decadence",
+      "artistId": "chevon",
+      "title": "ダンス・デカダンス",
+      "order": 1,
+      "path": "data/songs/chevon/chevon-dance-decadence.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "chevon-banquet",
+      "artistId": "chevon",
+      "title": "Banquet",
+      "order": 5,
+      "path": "data/songs/chevon/chevon-banquet.json",
+      "cueTypes": [
+        "call",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "chico-idol-sengen",
+      "artistId": "chico-honeyworks",
+      "title": "私、アイドル宣言",
+      "order": 1,
+      "path": "data/songs/chico-honeyworks/chico-idol-sengen.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "chico-sakura-mau",
+      "artistId": "chico-honeyworks",
+      "title": "今日もサクラ舞う暁に",
+      "order": 2,
+      "path": "data/songs/chico-honeyworks/chico-sakura-mau.json",
+      "cueTypes": [
+        "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "clan-queen-yourakuen",
+      "artistId": "clan-queen",
+      "title": "踊楽園",
+      "order": 1,
+      "path": "data/songs/clan-queen/clan-queen-yourakuen.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "conton-candy-fuzzy-navel",
+      "artistId": "conton-candy",
+      "title": "ファジーネーブル",
+      "order": 1,
+      "path": "data/songs/conton-candy/conton-candy-fuzzy-navel.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "eill-finale",
+      "artistId": "eill",
+      "title": "フィナーレ。",
+      "order": 1,
+      "path": "data/songs/eill/eill-finale.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "frederic-odoloop",
+      "artistId": "frederic",
+      "title": "オドループ",
+      "order": 1,
+      "path": "data/songs/frederic/frederic-odoloop.json",
+      "cueTypes": [
+        "clap",
+        "singalong",
+        "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "frederic-sparkle-dancer",
+      "artistId": "frederic",
+      "title": "スパークルダンサー",
+      "order": 2,
+      "path": "data/songs/frederic/frederic-sparkle-dancer.json",
+      "cueTypes": [
+        "clap",
+        "jump",
+        "motion",
+        "other"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "kyary-ponponpon",
+      "artistId": "kyary",
+      "title": "PONPONPON",
+      "order": 1,
+      "path": "data/songs/kyary/kyary-ponponpon.json",
+      "cueTypes": [
+        "clap",
+        "jump"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "mygo-kageiromai",
+      "artistId": "mygo",
+      "title": "影色舞",
+      "order": 1,
+      "path": "data/songs/mygo/mygo-kageiromai.json",
+      "cueTypes": [
+        "clap",
+        "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "mygo-mayoiuta",
+      "artistId": "mygo",
+      "title": "迷星叫",
+      "order": 2,
+      "path": "data/songs/mygo/mygo-mayoiuta.json",
+      "cueTypes": [
+        "call",
+        "clap"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "mygo-hitoshizuku",
+      "artistId": "mygo",
+      "title": "壱雫空",
+      "order": 3,
+      "path": "data/songs/mygo/mygo-hitoshizuku.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "mygo-ourai",
+      "artistId": "mygo",
+      "title": "往欄印",
+      "order": 4,
+      "path": "data/songs/mygo/mygo-ourai.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "natori-in-my-head",
+      "artistId": "natori",
+      "title": "IN_MY_HEAD",
+      "order": 1,
+      "path": "data/songs/natori/natori-in-my-head.json",
+      "cueTypes": [
+        "singalong",
+        "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "nishina-kedamono-no-friends",
+      "artistId": "nishina",
+      "title": "ケダモノのフレンズ",
+      "order": 1,
+      "path": "data/songs/nishina/nishina-kedamono-no-friends.json",
+      "cueTypes": [
+        "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
       "id": "oral-kyouran-hey-kids",
       "artistId": "oral-cigarettes",
       "title": "狂乱 Hey Kids!!",
@@ -8,7 +381,349 @@
       "path": "data/songs/oral-cigarettes/oral-kyouran-hey-kids.json",
       "cueTypes": [
         "call",
+        "clap",
+        "jump",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "oral-kantan-na-koto",
+      "artistId": "oral-cigarettes",
+      "title": "カンタンナコト",
+      "order": 2,
+      "path": "data/songs/oral-cigarettes/oral-kantan-na-koto.json",
+      "cueTypes": [
+        "clap",
+        "jump",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "qwer-gomin-jungdok",
+      "artistId": "qwer",
+      "title": "고민중독",
+      "order": 1,
+      "path": "data/songs/qwer/qwer-gomin-jungdok.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "qwer-my-name-is-malguem",
+      "artistId": "qwer",
+      "title": "내 이름 맑음",
+      "order": 2,
+      "path": "data/songs/qwer/qwer-my-name-is-malguem.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "qwer-discord",
+      "artistId": "qwer",
+      "title": "Discord",
+      "order": 3,
+      "path": "data/songs/qwer/qwer-discord.json",
+      "cueTypes": [],
+      "review": {
+        "pronunciation": true,
+        "timing": false
+      }
+    },
+    {
+      "id": "reona-anima",
+      "artistId": "reona",
+      "title": "ANIMA",
+      "order": 1,
+      "path": "data/songs/reona/reona-anima.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "reona-gg",
+      "artistId": "reona",
+      "title": "GG",
+      "order": 2,
+      "path": "data/songs/reona/reona-gg.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "roselia-fire-bird",
+      "artistId": "roselia",
+      "title": "FIRE BIRD",
+      "order": 1,
+      "path": "data/songs/roselia/roselia-fire-bird.json",
+      "cueTypes": [
+        "call",
+        "singalong",
+        "penlight"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "roselia-black-shout",
+      "artistId": "roselia",
+      "title": "BLACK SHOUT",
+      "order": 2,
+      "path": "data/songs/roselia/roselia-black-shout.json",
+      "cueTypes": [
+        "call",
+        "motion",
+        "penlight"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "roselia-passionate-anthem",
+      "artistId": "roselia",
+      "title": "PASSIONATE ANTHEM",
+      "order": 3,
+      "path": "data/songs/roselia/roselia-passionate-anthem.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "penlight"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "roselia-neo-aspect",
+      "artistId": "roselia",
+      "title": "Neo-Aspect",
+      "order": 4,
+      "path": "data/songs/roselia/roselia-neo-aspect.json",
+      "cueTypes": [
+        "call",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "roselia-song-i-am",
+      "artistId": "roselia",
+      "title": "Song I am.",
+      "order": 5,
+      "path": "data/songs/roselia/roselia-song-i-am.json",
+      "cueTypes": [
+        "call",
+        "singalong",
+        "penlight"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "roselia-r",
+      "artistId": "roselia",
+      "title": "R",
+      "order": 6,
+      "path": "data/songs/roselia/roselia-r.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sambomaster-ai-to-yobunda-ze",
+      "artistId": "sambomaster",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "order": 1,
+      "path": "data/songs/sambomaster/sambomaster-ai-to-yobunda-ze.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sambomaster-dekkkonai",
+      "artistId": "sambomaster",
+      "title": "できっこないを やらなくちゃ",
+      "order": 2,
+      "path": "data/songs/sambomaster/sambomaster-dekkkonai.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sambomaster-humanity",
+      "artistId": "sambomaster",
+      "title": "ヒューマニティ！",
+      "order": 3,
+      "path": "data/songs/sambomaster/sambomaster-humanity.json",
+      "cueTypes": [
         "clap"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sambomaster-hanataba",
+      "artistId": "sambomaster",
+      "title": "花束",
+      "order": 4,
+      "path": "data/songs/sambomaster/sambomaster-hanataba.json",
+      "cueTypes": [
+        "call",
+        "clap"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "suisei-bibideba",
+      "artistId": "suisei",
+      "title": "ビビデバ",
+      "order": 1,
+      "path": "data/songs/suisei/suisei-bibideba.json",
+      "cueTypes": [
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "suisei-soiree",
+      "artistId": "suisei",
+      "title": "ソワレ",
+      "order": 2,
+      "path": "data/songs/suisei/suisei-soiree.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sweet-steady-call-me-tell-me",
+      "artistId": "sweet-steady",
+      "title": "Call me, Tell me",
+      "order": 3,
+      "path": "data/songs/sweet-steady/sweet-steady-call-me-tell-me.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "sweet-steady-kawaii-collection",
+      "artistId": "sweet-steady",
+      "title": "カワイイコレクション",
+      "order": 5,
+      "path": "data/songs/sweet-steady/sweet-steady-kawaii-collection.json",
+      "cueTypes": [
+        "call"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "yuzu-natsuiro",
+      "artistId": "yuzu",
+      "title": "夏色",
+      "order": 1,
+      "path": "data/songs/yuzu/yuzu-natsuiro.json",
+      "cueTypes": [
+        "call",
+        "clap",
+        "singalong"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "yuzu-sayonara-bus",
+      "artistId": "yuzu",
+      "title": "サヨナラバス",
+      "order": 2,
+      "path": "data/songs/yuzu/yuzu-sayonara-bus.json",
+      "cueTypes": [
+        "singalong",
+        "motion"
+      ],
+      "review": {
+        "pronunciation": false,
+        "timing": false
+      }
+    },
+    {
+      "id": "yuzu-beautiful",
+      "artistId": "yuzu",
+      "title": "ビューティフル",
+      "order": 3,
+      "path": "data/songs/yuzu/yuzu-beautiful.json",
+      "cueTypes": [
+        "clap",
+        "singalong"
       ],
       "review": {
         "pronunciation": false,
