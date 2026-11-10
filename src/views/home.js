@@ -75,6 +75,6 @@ export async function homeView(container, _params, query) {
       h('p.site-sub', '콜 연습', lineup.festival?.venue && h('span.muted', ` · ${lineup.festival.venue}`))),
     tabs,
     list,
-    lineup.lineupNote && h('p.footnote', lineup.lineupNote),
+    lineup.lineupNote ? h('p.footnote', lineup.lineupNote) : '',
   );
 }

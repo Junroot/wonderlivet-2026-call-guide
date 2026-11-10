@@ -19,7 +19,7 @@ export async function artistView(container, { id }) {
       artist.nameKo !== artist.name && h('p.artist-name-ko', artist.nameKo),
       h('p.muted', `${day?.label ?? artist.date} · ${slotText(artist)}`)),
 
-    artist.rituals?.length > 0 && h('section.rituals',
+    artist.rituals?.length > 0 ? h('section.rituals',
       h('h2.section-label', h('span', 'RITUAL'), '공연 의식'),
       artist.rituals.map((r) => h('article.ritual',
         h('h3', r.name),
@@ -27,7 +27,7 @@ export async function artistView(container, { id }) {
         h('p.sources', '출처: ', r.sources.map((s, i) => [
           i > 0 && ' · ',
           h('a', { href: s.url, target: '_blank', rel: 'noopener' }, s.label ?? s.url),
-        ]))))),
+        ]))))) : '',
 
     h('section.songs',
       h('h2.section-label', h('span', 'SONGS'), `곡 ${songs.length}개`),
