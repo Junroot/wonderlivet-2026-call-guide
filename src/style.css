@@ -246,7 +246,7 @@ p { margin: 0 0 8px; }
 }
 .stage-chip.stage-wonder { background: var(--orange); color: var(--ink); }
 
-.rituals, .songs, .sources { margin: 22px 0; }
+.rituals, .songs, .sources, .setlist { margin: 22px 0; }
 .ritual {
   background: var(--panel);
   border: 1px solid var(--line);
@@ -292,6 +292,45 @@ p { margin: 0 0 8px; }
   background: var(--pen, linear-gradient(#ff5c00, #ffc24d, #4fd1ff));
   box-shadow: 0 0 6px var(--pen, transparent);
 }
+
+/* 예상 세트리스트 */
+.setlist-songs { margin: 0 0 10px; padding: 0; list-style: none; counter-reset: setlist; display: grid; gap: 4px; }
+.setlist-song {
+  counter-increment: setlist;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 8px;
+  padding: 8px 12px;
+  background: var(--panel);
+  border-left: 3px solid var(--hairline);
+}
+.setlist-song::before {
+  content: counter(setlist, decimal-leading-zero);
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  color: var(--muted);
+  min-width: 1.6em;
+}
+.setlist-song:has(.tier-sure) { border-left-color: var(--orange); }
+.setlist-song:has(.tier-likely) { border-left-color: var(--line-strong); }
+.setlist-title { font-weight: 700; flex: 1 1 12em; min-width: 0; overflow-wrap: anywhere; }
+.tier {
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 1px 7px;
+  border: 1px solid var(--hairline);
+  color: var(--muted);
+  white-space: nowrap;
+}
+.tier-sure { background: var(--orange); border-color: var(--orange); color: var(--ink); }
+.tier-likely { border-color: var(--orange); color: var(--orange-soft); }
+.setlist-seen { font-size: 0.8rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.setlist-practice { font-size: 0.8rem; font-weight: 700; white-space: nowrap; }
+.setlist-note { flex: 1 1 100%; font-size: 0.78rem; color: var(--muted); padding-left: calc(1.6em + 8px); }
+.setlist-candidates, .setlist-memo { font-size: 0.88rem; margin: 6px 0; overflow-wrap: anywhere; }
+.setlist-memo { color: var(--warn); }
+.setlist .sources { font-size: 0.82rem; color: var(--muted); margin: 4px 0; overflow-wrap: anywhere; }
 
 /* 연습 화면 */
 .practice-top {

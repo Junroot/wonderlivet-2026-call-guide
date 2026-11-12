@@ -40,7 +40,7 @@ export function slotText(a) {
 }
 
 export async function homeView(container, _params, query) {
-  const { lineup, songsByArtist } = await loadCatalog();
+  const { lineup, songsByArtist, setlists } = await loadCatalog();
   const selected = lineup.days.some((d) => d.date === query.d) ? query.d : defaultDay(lineup.days);
 
   const tabs = h('nav.day-tabs', { role: 'tablist' },
@@ -55,7 +55,7 @@ export async function homeView(container, _params, query) {
     }));
 
   const artists = lineup.artists
-    .filter((a) => a.date === selected && songsByArtist.has(a.id))
+    .filter((a) => a.date === selected && (songsByArtist.has(a.id) || setlists.has(a.id)))
     .sort(byStart);
 
   const list = artists.length
@@ -64,9 +64,10 @@ export async function homeView(container, _params, query) {
         h('span.artist-name', a.name),
         h('span.artist-time', timeText(a)),
         h('span.artist-meta',
-          [a.nameKo !== a.name && a.nameKo, a.stage ? `${a.stage} STAGE` : '스테이지 미정', `${songsByArtist.get(a.id).length}곡`]
+          [a.nameKo !== a.name && a.nameKo, a.stage ? `${a.stage} STAGE` : '스테이지 미정',
+            songsByArtist.has(a.id) ? `${songsByArtist.get(a.id).length}곡` : '세트리스트만']
             .filter(Boolean).join(' · '))))))
-    : h('p.empty', '이 날은 아직 곡 데이터가 있는 아티스트가 없습니다.');
+    : h('p.empty', '이 날은 아직 데이터가 있는 아티스트가 없습니다.');
 
   container.replaceChildren(
     h('header.site-header',
