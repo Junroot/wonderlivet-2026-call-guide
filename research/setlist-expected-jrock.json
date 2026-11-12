@@ -1,0 +1,302 @@
+{
+  "oral-cigarettes": {
+    "basis": "최근 페스·게스트 세트 6회 (2026-04 ~ 10, setlist.fm·LiveFans)",
+    "songs": [
+      { "title": "GET BACK", "tier": "likely", "seen": [4, 6] },
+      { "title": "Red Criminal", "tier": "sure", "seen": [5, 6] },
+      { "title": "ERASE", "tier": "sure", "seen": [5, 6] },
+      { "title": "LIMIT", "tier": "likely", "seen": [4, 6] },
+      { "title": "カンタンナコト", "tier": "likely", "seen": [3, 6] },
+      { "title": "BUG", "tier": "maybe", "seen": [2, 6], "note": "60분 슬롯이라 곡 수를 늘리려고 넣음" },
+      { "title": "Mr.ファントム", "tier": "maybe", "seen": [2, 6], "note": "60분 슬롯이라 곡 수를 늘리려고 넣음" },
+      { "title": "DUNK", "tier": "sure", "seen": [5, 6] },
+      { "title": "狂乱 Hey Kids!!", "tier": "sure", "seen": [5, 6] },
+      { "title": "LOVE", "tier": "maybe", "seen": [2, 6], "note": "미발매 곡으로 보임. 나온 두 번(THIS FES, 京都大作戦) 모두 마지막 곡" }
+    ],
+    "candidates": [
+      { "title": "DIKIDANDAN", "seen": [2, 6] },
+      { "title": "5150", "seen": [1, 6] },
+      { "title": "ENEMY", "seen": [1, 6] },
+      { "title": "BLACK MEMORY", "seen": [0, 6] }
+    ],
+    "sources": [
+      { "label": "setlist.fm THIS FES '26", "url": "https://www.setlist.fm/setlist/the-oral-cigarettes/2026/sagamihara-gion-field-sagamihara-japan-33723c95.html" },
+      { "label": "setlist.fm HAZIKETEMAZARE 2026", "url": "https://www.setlist.fm/setlist/the-oral-cigarettes/2026/izumi-ootsu-phoenix-izumi-ootsu-japan-6b7c4e16.html" },
+      { "label": "LiveFans StandBy 豊洲PIT", "url": "https://www.livefans.jp/events/1932979" },
+      { "label": "setlist.fm 京都大作戦2026", "url": "https://www.setlist.fm/setlist/the-oral-cigarettes/2026/yamashiro-sougou-undou-kouen-taiyougaoka-tokusetsu-yagai-stage-genji-no-butai-uji-japan-2b7270d2.html" },
+      { "label": "setlist.fm YON FES 2026", "url": "https://www.setlist.fm/setlist/the-oral-cigarettes/2026/moricoro-park-sky-stage-nagakute-japan-5b72e3c8.html" },
+      { "label": "setlist.fm DEAD POP FESTiVAL 2026", "url": "https://www.setlist.fm/setlist/the-oral-cigarettes/2026/higashi-ougishima-higashi-kouen-cave-stage-kawasaki-japan-3b48d814.html" }
+    ],
+    "note": "여름은 홀 투어 중이라 페스 출연이 적었다. 60분 마지막 순서라 중앙값(7.5곡)보다 많은 10곡으로 잡았고, 앙코르가 붙을 수 있다."
+  },
+  "alexandros": {
+    "basis": "최근 페스·이벤트 세트 9회 (2026-05 ~ 11, setlist.fm·utaten·THE FIRST TIMES)",
+    "songs": [
+      { "title": "Girl A", "tier": "sure", "seen": [8, 9], "note": "보통 Burger Queen 테이프 등장 직후 첫 곡" },
+      { "title": "Kick & Spin", "tier": "maybe", "seen": [4, 9] },
+      { "title": "Dracula La", "tier": "maybe", "seen": [2, 9] },
+      { "title": "閃光", "tier": "sure", "seen": [9, 9] },
+      { "title": "Adventure", "tier": "maybe", "seen": [3, 9] },
+      { "title": "超える", "tier": "maybe", "seen": [3, 9] },
+      { "title": "ENDROLL", "tier": "likely", "seen": [5, 9], "note": "SennaRin·澤野弘之 게스트와 함께할 때가 많아 게스트가 없으면 빠질 수 있음" },
+      { "title": "city", "tier": "maybe", "seen": [2, 9] },
+      { "title": "ワタリドリ", "tier": "sure", "seen": [9, 9] },
+      { "title": "starrrrrrr", "tier": "sure", "seen": [8, 9] }
+    ],
+    "candidates": [
+      { "title": "Hallelujah", "seen": [2, 9] },
+      { "title": "Kaze ni Natte", "seen": [2, 9] },
+      { "title": "Waitress, Waitress!", "seen": [0, 9] },
+      { "title": "ムーンソング", "seen": [0, 9] }
+    ],
+    "sources": [
+      { "label": "setlist.fm THIS FES '26 day2", "url": "https://www.setlist.fm/setlist/alexandros/2026/sagamihara-gion-field-sagamihara-japan-2b723c8a.html" },
+      { "label": "setlist.fm THIS FES '26 day1", "url": "https://www.setlist.fm/setlist/alexandros/2026/sagamihara-gion-field-sagamihara-japan-23723c97.html" },
+      { "label": "utaten ROCK IN JAPAN 2026 9/13", "url": "https://utaten.com/live/rock-in-japan-festival-2026-setlist-0913/" },
+      { "label": "setlist.fm YOKOHAMA UNITE 2026", "url": "https://www.setlist.fm/setlist/alexandros/2026/yokohama-buntai-yokohama-japan-2b70f49a.html" },
+      { "label": "setlist.fm PUFFY \"P\"FES", "url": "https://www.setlist.fm/setlist/alexandros/2026/tokyu-dresser-todoroki-arena-kawasaki-japan-23723ccf.html" },
+      { "label": "setlist.fm Talking Rock! FES. 2026", "url": "https://www.setlist.fm/setlist/alexandros/2026/yokohama-arena-yokohama-japan-b73356a.html" },
+      { "label": "setlist.fm TOKYO GARDEN THEATER 7/6", "url": "https://www.setlist.fm/setlist/alexandros/2026/tokyo-garden-theater-tokyo-japan-5b721bc0.html" },
+      { "label": "setlist.fm 百万石音楽祭2026", "url": "https://www.setlist.fm/setlist/alexandros/2026/ishikawa-ken-sangyou-tenjikan-4-goukan-kanazawa-japan-63750667.html" },
+      { "label": "setlist.fm OSAKA METROCK 2026", "url": "https://www.setlist.fm/setlist/alexandros/2026/umi-tono-fureai-hiroba-bay-field-sakai-japan-1374e9c9.html" },
+      { "label": "THE FIRST TIMES THIS FES '26 day1", "url": "https://www.thefirsttimes.jp/?p=910682" }
+    ],
+    "note": "고정 4곡(ワタリドリ, 閃光, Girl A, starrrrrrr) 외에는 매번 바뀌어 maybe가 많다. 60분 마지막 순서라 중앙값(7곡)보다 많은 10곡으로 잡음. Hallelujah, Kaze ni Natte는 setlist.fm 표기이고 공식 표기는 확인하지 못했다."
+  },
+  "sambomaster": {
+    "basis": "최근 페스 세트 7회 (2026-08 ~ 11, LiveFans·setlist.fm)",
+    "songs": [
+      { "title": "できっこないを やらなくちゃ", "tier": "sure", "seen": [7, 7] },
+      { "title": "ヒューマニティ！", "tier": "sure", "seen": [7, 7] },
+      { "title": "またあえるかな", "tier": "maybe", "seen": [3, 7], "note": "60분 슬롯이라 곡 수를 늘리려고 넣음" },
+      { "title": "Future is Yours", "tier": "sure", "seen": [6, 7] },
+      { "title": "輝きだして走ってく", "tier": "likely", "seen": [4, 7] },
+      { "title": "青春狂騒曲", "tier": "likely", "seen": [4, 7] },
+      { "title": "世界はそれを愛と呼ぶんだぜ", "tier": "sure", "seen": [7, 7] },
+      { "title": "花束", "tier": "sure", "seen": [6, 7] }
+    ],
+    "candidates": [
+      { "title": "ロックンロール イズ ノットデッド", "seen": [2, 7] },
+      { "title": "ラブソング", "seen": [1, 7] },
+      { "title": "ミラクルをキミとおこしたいんです", "seen": [1, 7] }
+    ],
+    "sources": [
+      { "label": "LiveFans MONGOL800 ga FESTIVAL 26", "url": "https://www.livefans.jp/events/1949234" },
+      { "label": "setlist.fm 1CHANCE FESTIVAL 2026", "url": "https://www.setlist.fm/setlist/sambomaster/2026/country-park-koushi-japan-2b7254de.html" },
+      { "label": "LiveFans KOYABU SONIC 2026", "url": "https://www.livefans.jp/events/1955529" },
+      { "label": "LiveFans ROCK IN JAPAN 2026", "url": "https://www.livefans.jp/events/1957561" },
+      { "label": "LiveFans SWEET LOVE SHOWER 2026", "url": "https://www.livefans.jp/events/1932135" },
+      { "label": "LiveFans WILD BUNCH FEST. 2026", "url": "https://www.livefans.jp/events/1938289" },
+      { "label": "LiveFans RISING SUN ROCK FESTIVAL 2026", "url": "https://www.livefans.jp/events/1928920" }
+    ],
+    "note": "MC가 길어 보통 페스에서는 5-7곡. 60분 슬롯이라 8곡으로 잡음."
+  },
+  "frederic": {
+    "basis": "최근 페스 세트 8회 (2026-05 ~ 10, LiveFans)",
+    "songs": [
+      { "title": "ナンセンスナンセンス", "tier": "likely", "seen": [4, 8], "note": "하반기 4회 연속" },
+      { "title": "Happiness", "tier": "sure", "seen": [7, 8] },
+      { "title": "CYAN", "tier": "sure", "seen": [8, 8] },
+      { "title": "名悪役", "tier": "maybe", "seen": [3, 8] },
+      { "title": "ジャンキー", "tier": "maybe", "seen": [3, 8] },
+      { "title": "KITAKU BEATS", "tier": "maybe", "seen": [2, 8], "note": "본편 2회 외에 리허설로 3회 나옴" },
+      { "title": "スパークルダンサー", "tier": "sure", "seen": [8, 8] },
+      { "title": "オドループ", "tier": "sure", "seen": [8, 8] }
+    ],
+    "candidates": [
+      { "title": "まなざしはプリズム", "seen": [2, 8] },
+      { "title": "リリリピート", "seen": [0, 8] },
+      { "title": "オンリーワンダー", "seen": [1, 8] },
+      { "title": "銀河の果てに連れ去って!", "seen": [1, 8] }
+    ],
+    "sources": [
+      { "label": "LiveFans LIVE AZUMA 2026", "url": "https://www.livefans.jp/events/1971223" },
+      { "label": "LiveFans FEST. INAZUMA 2026", "url": "https://www.livefans.jp/events/1959036" },
+      { "label": "LiveFans ROCK IN JAPAN 2026", "url": "https://www.livefans.jp/events/1951490" },
+      { "label": "LiveFans SWEET LOVE SHOWER 2026", "url": "https://www.livefans.jp/events/1932127" },
+      { "label": "LiveFans FLOW THE FESTIVAL 2026", "url": "https://www.livefans.jp/events/1927212" },
+      { "label": "LiveFans GALAXY PARK in EXPO", "url": "https://www.livefans.jp/events/1918541" },
+      { "label": "LiveFans VIVA LA ROCK 2026", "url": "https://www.livefans.jp/events/1900551" },
+      { "label": "LiveFans JAPAN JAM 2026", "url": "https://www.livefans.jp/events/1907208" }
+    ],
+    "note": "リリリピート는 8회 중 5회 리허설(사운드체크)로만 나와 본편 횟수는 0이다. 50분 슬롯이라 중앙값(6곡)보다 많은 8곡."
+  },
+  "clan-queen": {
+    "basis": "최근 페스·이벤트 세트 9회 (2026-05 ~ 10, LiveFans·setlist.fm)",
+    "songs": [
+      { "title": "求世主", "tier": "sure", "seen": [9, 9] },
+      { "title": "踊楽園", "tier": "sure", "seen": [9, 9] },
+      { "title": "無花果", "tier": "sure", "seen": [9, 9] },
+      { "title": "インベイダー", "tier": "maybe", "seen": [4, 9] },
+      { "title": "トリックスター", "tier": "sure", "seen": [8, 9] },
+      { "title": "SPEED", "tier": "likely", "seen": [6, 9] },
+      { "title": "APPLE", "tier": "likely", "seen": [7, 9] },
+      { "title": "ゲルニカ", "tier": "sure", "seen": [9, 9] },
+      { "title": "自白", "tier": "sure", "seen": [9, 9], "note": "마지막 곡 5회" }
+    ],
+    "candidates": [
+      { "title": "サーチライト", "seen": [4, 9] },
+      { "title": "WARNING!!", "seen": [3, 9] },
+      { "title": "Eden", "seen": [3, 9] },
+      { "title": "ファンデーション", "seen": [2, 9] }
+    ],
+    "sources": [
+      { "label": "LiveFans UMIMOYASU 2026-2027", "url": "https://www.livefans.jp/events/1962094" },
+      { "label": "LiveFans TOKYO ISLAND 2026", "url": "https://www.livefans.jp/events/1971858" },
+      { "label": "LiveFans GFEST.2026", "url": "https://www.livefans.jp/events/1967920" },
+      { "label": "setlist.fm SWEET LOVE SHOWER 2026", "url": "https://www.setlist.fm/setlist/clan-queen/2026/yamanakako-kouryuu-plaza-kirara-forest-stage-yamanakako-japan-4b75775a.html" },
+      { "label": "LiveFans WILD BUNCH FEST. 2026", "url": "https://www.livefans.jp/events/1938233" },
+      { "label": "setlist.fm SUMMER SONIC 2026 Osaka", "url": "https://www.setlist.fm/setlist/clan-queen/2026/banpaku-kinen-kouen-sakura-no-nagare-suita-japan-4b743b32.html" },
+      { "label": "setlist.fm LuckyFes'26", "url": "https://www.setlist.fm/setlist/clan-queen/2026/hitachi-kaihin-kouen-garden-stage-hitachinaka-japan-3349b869.html" },
+      { "label": "setlist.fm StandBy 仙台Rensa", "url": "https://www.setlist.fm/setlist/clan-queen/2026/rensa-sendai-japan-3b71b034.html" },
+      { "label": "setlist.fm TOKYO METROCK 2026", "url": "https://www.setlist.fm/setlist/clan-queen/2026/umi-no-mori-kouen-red-sunshine-tokyo-japan-b74e9f6.html" }
+    ],
+    "note": "8곡이 거의 고정이고 9번째 자리만 바뀐다(インベイダー, サーチライト, WARNING!! 등). 오프너는 매번 다르다."
+  },
+  "conton-candy": {
+    "basis": "최근 페스 세트 4회 (2025-12 ~ 2026-07, setlist.fm·LiveFans·utaten)",
+    "songs": [
+      { "title": "普通", "tier": "likely", "seen": [2, 4] },
+      { "title": "スノウドロップ", "tier": "sure", "seen": [4, 4] },
+      { "title": "ロングスカートは靡いて", "tier": "sure", "seen": [4, 4] },
+      { "title": "好きなものは手のひらの中", "tier": "maybe", "seen": [1, 4], "note": "2025년 페스에서는 대부분 나온 곡이라 7번째 곡으로 넣음" },
+      { "title": "Rookies", "tier": "likely", "seen": [3, 4] },
+      { "title": "ファジーネーブル", "tier": "sure", "seen": [4, 4] },
+      { "title": "ライブハウス！", "tier": "likely", "seen": [3, 4] }
+    ],
+    "candidates": [
+      { "title": "Touring", "seen": [1, 4] },
+      { "title": "OTAGAISAMA", "seen": [1, 4] },
+      { "title": "思い出は海風のように", "seen": [1, 4] },
+      { "title": "水平線は僕の古傷", "seen": [0, 4] }
+    ],
+    "sources": [
+      { "label": "utaten OSAKA GIGANTIC 2026 day1", "url": "https://utaten.com/live/?p=16548" },
+      { "label": "LiveFans GRAND SLAM 2026", "url": "https://www.livefans.jp/events/1924879" },
+      { "label": "setlist.fm EIGHT BALL FESTIVAL 2026", "url": "https://www.setlist.fm/setlist/conton-candy/2026/convex-okugai-tenjijou-okayama-japan-3b718484.html" },
+      { "label": "setlist.fm COUNTDOWN JAPAN 25/26", "url": "https://www.setlist.fm/setlist/conton-candy/2025/makuhari-messe-kokusai-tenjijou-hall-4-chiba-japan-234dd8b3.html" }
+    ],
+    "note": "데이터가 얇다. 곡이 기록된 페스 세트는 4회뿐이고 가장 최근이 2026-07이다. 8월 이후 SHE SCREAM ROCK, DElicious BUns FESTIVAL 등은 곡 기록이 없다. 水平線は僕の古傷는 10/15 애니 「青ブタ」 이벤트(2곡, 세지 않음)에서 연주됐다."
+  },
+  "chevon": {
+    "basis": "최근 페스·이벤트 세트 9회 (2026-07 ~ 11, LiveFans)",
+    "songs": [
+      { "title": "サクラループ", "tier": "maybe", "seen": [4, 9], "note": "이 밖에 리허설로 3회 나옴" },
+      { "title": "Lamipus", "tier": "likely", "seen": [7, 9] },
+      { "title": "冥冥", "tier": "sure", "seen": [9, 9] },
+      { "title": "六ノ輪", "tier": "likely", "seen": [7, 9] },
+      { "title": "銃電中", "tier": "sure", "seen": [9, 9] },
+      { "title": "Banquet", "tier": "likely", "seen": [7, 9] },
+      { "title": "FLASH BACK!!!!!!!!", "tier": "sure", "seen": [9, 9] },
+      { "title": "ダンス・デカダンス", "tier": "sure", "seen": [9, 9], "note": "마지막 곡 8회" }
+    ],
+    "candidates": [
+      { "title": "B612", "seen": [3, 9] },
+      { "title": "Capretto", "seen": [3, 9] },
+      { "title": "デイジー", "seen": [2, 9] },
+      { "title": "アルパカシンドローム", "seen": [1, 9] }
+    ],
+    "sources": [
+      { "label": "LiveFans バズリズム LIVE 2026", "url": "https://www.livefans.jp/events/1996567" },
+      { "label": "LiveFans THIS FES '26", "url": "https://www.livefans.jp/events/1963238" },
+      { "label": "LiveFans マグロック&ポップ 2026", "url": "https://www.livefans.jp/events/1934350" },
+      { "label": "LiveFans FEST. INAZUMA 2026", "url": "https://www.livefans.jp/events/1945088" },
+      { "label": "LiveFans ROCK IN JAPAN 2026", "url": "https://www.livefans.jp/events/1951463" },
+      { "label": "LiveFans ベリテンライブ 2026", "url": "https://www.livefans.jp/events/1959600" },
+      { "label": "LiveFans WILD BUNCH FEST. 2026", "url": "https://www.livefans.jp/events/1938290" },
+      { "label": "LiveFans LuckyFes'26", "url": "https://www.livefans.jp/events/1920862" },
+      { "label": "LiveFans OSAKA GIGANTIC 2026", "url": "https://www.livefans.jp/events/1915517" }
+    ],
+    "note": "순서는 WILD BUNCH와 LuckyFes의 똑같은 8곡 세트를 따름."
+  },
+  "amazarashi": {
+    "basis": "최근 페스·이벤트 세트 6회 (2025-07 ~ 2026-08, LiveFans·tinpanblog·setlist.fm, 2025 KINTEX 공연 포함)",
+    "songs": [
+      { "title": "空洞空洞", "tier": "likely", "seen": [4, 6], "note": "2026년 4회 전부 나옴" },
+      { "title": "無題", "tier": "likely", "seen": [4, 6], "note": "2026년 4회 전부 나옴" },
+      { "title": "僕が死のうと思ったのは", "tier": "sure", "seen": [6, 6] },
+      { "title": "季節は次々死んでいく", "tier": "likely", "seen": [4, 6] },
+      { "title": "ワードプロセッサー", "tier": "likely", "seen": [4, 6] },
+      { "title": "クラウン新車で買ってあげる", "tier": "likely", "seen": [4, 6], "note": "2026년 4회 전부 나옴" },
+      { "title": "空に歌えば", "tier": "sure", "seen": [6, 6] },
+      { "title": "スターライト", "tier": "likely", "seen": [3, 6], "note": "2025 KINTEX 공연(SOUNDBERRY FESTA'25)에서도 연주" }
+    ],
+    "candidates": [
+      { "title": "アンチノミー", "seen": [2, 6] },
+      { "title": "君のベストライフ", "seen": [2, 6] },
+      { "title": "アダプテッド", "seen": [2, 6] },
+      { "title": "ゴースト", "seen": [1, 6] }
+    ],
+    "sources": [
+      { "label": "tinpanblog SUMMER SONIC 2026", "url": "https://tinpanblog.com/?p=43918" },
+      { "label": "LiveFans Hugs Vol.6", "url": "https://www.livefans.jp/events/1889154" },
+      { "label": "LiveFans 百万石音楽祭2026", "url": "https://www.livefans.jp/events/1916989" },
+      { "label": "LiveFans CENTRAL 2026", "url": "https://www.livefans.jp/events/1900555" },
+      { "label": "LiveFans COUNTDOWN JAPAN 25/26", "url": "https://www.livefans.jp/events/1867569" },
+      { "label": "LiveFans SOUNDBERRY FESTA'25 (KINTEX)", "url": "https://www.livefans.jp/events/1824865" },
+      { "label": "setlist.fm ASIA TOUR 2026 서울 (참고)", "url": "https://www.setlist.fm/setlist/amazarashi/2026/olympic-hall-seoul-south-korea-4b4d1fea.html" }
+    ],
+    "note": "2026년 페스 세트는 거의 같은 7곡으로 고정돼 있다. 9월 이후 페스 세트는 찾지 못했다. 한국에서는 2025-07 SOUNDBERRY FESTA(같은 KINTEX)와 2026-04 서울 원맨이 있었다."
+  },
+  "indigo-la-end": {
+    "basis": "최근 페스·이벤트 세트 9회 (2026-05 ~ 10, LiveFans·setlist.fm)",
+    "songs": [
+      { "title": "陽炎", "tier": "likely", "seen": [5, 9] },
+      { "title": "邦画", "tier": "likely", "seen": [6, 9] },
+      { "title": "できやしない", "tier": "maybe", "seen": [2, 9] },
+      { "title": "名前は片想い", "tier": "likely", "seen": [6, 9] },
+      { "title": "夏目", "tier": "maybe", "seen": [4, 9] },
+      { "title": "雫に恋して", "tier": "maybe", "seen": [2, 9], "note": "최근 3회 중 2회" },
+      { "title": "夜明けの街でサヨナラを", "tier": "maybe", "seen": [3, 9] },
+      { "title": "夏夜のマジック", "tier": "sure", "seen": [9, 9] }
+    ],
+    "candidates": [
+      { "title": "冬夜のマジック", "seen": [1, 9] },
+      { "title": "知らない海", "seen": [2, 9] },
+      { "title": "夜風とハヤブサ", "seen": [2, 9] },
+      { "title": "夜汽車は走る", "seen": [2, 9] },
+      { "title": "通り恋", "seen": [2, 9] }
+    ],
+    "sources": [
+      { "label": "LiveFans SORAON Autumn'26", "url": "https://www.livefans.jp/events/2001559" },
+      { "label": "LiveFans 京都音楽博覧会2026", "url": "https://www.livefans.jp/events/1954684" },
+      { "label": "LiveFans ROCK IN JAPAN 2026", "url": "https://www.livefans.jp/events/1951479" },
+      { "label": "LiveFans ロックロックこんにちは!Ver.28", "url": "https://www.livefans.jp/events/2001866" },
+      { "label": "LiveFans SUMMER SONIC 2026", "url": "https://www.livefans.jp/events/1972581" },
+      { "label": "LiveFans Talking Rock! FES. 2026", "url": "https://www.livefans.jp/events/1942878" },
+      { "label": "LiveFans OSAKA GIGANTIC 2026", "url": "https://www.livefans.jp/events/1926024" },
+      { "label": "setlist.fm TOKYO METROCK 2026", "url": "https://www.setlist.fm/setlist/indigo-la-end/2026/umi-no-mori-kouen-green-forest-tokyo-japan-b74e9fe.html" },
+      { "label": "LiveFans JAPAN JAM 2026", "url": "https://www.livefans.jp/events/1912404" }
+    ],
+    "note": "夏夜のマジック만 고정이고 나머지는 회마다 크게 바뀌어 maybe가 많다. 한국 공연 기록은 찾지 못했다. 11월이라 冬夜のマジック도 나올 수 있다."
+  },
+  "brandy-senki": {
+    "basis": "최근 페스·이벤트 세트 6회 (2026-05 ~ 10, LiveFans·setlist.fm)",
+    "songs": [
+      { "title": "Kids", "tier": "likely", "seen": [4, 6] },
+      { "title": "僕のスウィーティー", "tier": "likely", "seen": [3, 6], "note": "최근 2회 연속" },
+      { "title": "27:00", "tier": "likely", "seen": [4, 6] },
+      { "title": "Fix", "tier": "sure", "seen": [6, 6] },
+      { "title": "もういらない", "tier": "likely", "seen": [4, 6] },
+      { "title": "ラストライブ", "tier": "sure", "seen": [5, 6] },
+      { "title": "Musica", "tier": "sure", "seen": [6, 6] },
+      { "title": "Coming-of-age Story", "tier": "sure", "seen": [6, 6] }
+    ],
+    "candidates": [
+      { "title": "ストックホルムの箱", "seen": [3, 6] },
+      { "title": "The End of the F***ing World", "seen": [2, 6] },
+      { "title": "悪夢のような", "seen": [2, 6] },
+      { "title": "ブラッド♡スパークス", "seen": [1, 6] }
+    ],
+    "sources": [
+      { "label": "LiveFans MINAMI WHEEL 2026", "url": "https://www.livefans.jp/events/1985124" },
+      { "label": "LiveFans ROCK IN JAPAN 2026", "url": "https://www.livefans.jp/events/1951488" },
+      { "label": "LiveFans 有明サンセット 2026", "url": "https://www.livefans.jp/events/1949302" },
+      { "label": "LiveFans FUJI ROCK '26", "url": "https://www.livefans.jp/events/1913342" },
+      { "label": "LiveFans 森、道、市場 2026", "url": "https://www.livefans.jp/events/1925659" },
+      { "label": "LiveFans ANTI ART HEADS 게스트", "url": "https://www.livefans.jp/events/1890382" },
+      { "label": "setlist.fm Pentaport 2025 (한국 참고)", "url": "https://www.setlist.fm/setlist/brandy-senki/2025/songdo-moonlight-festival-park-incheon-south-korea-5347fb4d.html" }
+    ],
+    "note": "곡 순서는 회마다 크게 바뀐다. 한국에서는 2025 펜타포트와 2025-12 서울 원맨을 했다. ブラッド♡スパークス는 11월 투어에서 연주된 신곡이다."
+  }
+}

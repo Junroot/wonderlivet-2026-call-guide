@@ -1,0 +1,263 @@
+{
+  "qwer": {
+    "basis": "최근 페스·행사 세트 9회 (2026-05 ~ 10, setlist.fm)",
+    "songs": [
+      { "title": "CEREMONY", "tier": "likely", "seen": [7, 9], "note": "9회 중 6회 오프닝" },
+      { "title": "Discord", "tier": "sure", "seen": [8, 9], "note": "대개 2번째 곡" },
+      { "title": "가짜 아이돌 (FAKE IDOL)", "tier": "likely", "seen": [5, 9] },
+      { "title": "SHOW DOWN", "tier": "maybe", "seen": [3, 9], "note": "일본 애니 오프닝 싱글이라 J-POP 관객이 많은 원더리벳에서 나올 가능성을 높게 봄" },
+      { "title": "BAD HABIT", "tier": "likely", "seen": [6, 9] },
+      { "title": "내 이름 맑음", "tier": "sure", "seen": [8, 9] },
+      { "title": "Our Voyage", "tier": "likely", "seen": [5, 9] },
+      { "title": "눈물참기 (Dear)", "tier": "sure", "seen": [8, 9] },
+      { "title": "고민중독", "tier": "sure", "seen": [9, 9], "note": "9회 중 7회 마지막 곡" }
+    ],
+    "candidates": [
+      { "title": "메아리 (REBOUND)", "seen": [3, 9] },
+      { "title": "소년만화 (Dreamer)", "seen": [3, 9] },
+      { "title": "별의 하모니", "seen": [2, 9] },
+      { "title": "OVERDRIVE", "seen": [2, 9] },
+      { "title": "Picaresque", "seen": [2, 9] }
+    ],
+    "sources": [
+      { "label": "setlist.fm K-LIVE Festival 하노이 26", "url": "https://www.setlist.fm/setlist/qwer/2026/i-s-quan-han-quc-ti-vit-nam-hanoi-vietnam-337f8481.html" },
+      { "label": "setlist.fm 여수세계섬박람회 26", "url": "https://www.setlist.fm/setlist/qwer/2026/yeosu-world-island-expo-yeosu-south-korea-437fc7e7.html" },
+      { "label": "setlist.fm 우리 모모콘 26", "url": "https://www.setlist.fm/setlist/qwer/2026/seoul-land-gwacheon-si-south-korea-5b719f18.html" },
+      { "label": "setlist.fm CassCool Festival 26", "url": "https://www.setlist.fm/setlist/qwer/2026/seoul-land-gwacheon-si-south-korea-6b733ab2.html" },
+      { "label": "setlist.fm 전주 JUMF 26", "url": "https://www.setlist.fm/setlist/qwer/2026/jeonju-university-jeonju-south-korea-33724825.html" },
+      { "label": "setlist.fm 진주 뮤직&미디어 페스티벌 26", "url": "https://www.setlist.fm/setlist/qwer/2026/namgangdunchi-jinju-south-korea-4b71bfaa.html" },
+      { "label": "setlist.fm 펜타포트 26", "url": "https://www.setlist.fm/setlist/qwer/2026/songdo-moonlight-festival-park-kb-kookmin-card-stage-incheon-south-korea-4b7523aa.html" },
+      { "label": "setlist.fm 슈퍼레이스 카니발 26", "url": "https://www.setlist.fm/setlist/qwer/2026/korea-international-circuit-yeongam-south-korea-34959bb.html" },
+      { "label": "setlist.fm Peak Festival 26", "url": "https://www.setlist.fm/setlist/qwer/2026/nanji-hangang-park-seoul-south-korea-4b481b26.html" }
+    ],
+    "note": "10~11월은 단독 투어(ROCKATION) 중이지만 투어 곡(PIONEER, SODA 등)은 페스 세트에 거의 나오지 않아 페스 세트만 셌다. WONDERLIVET 2024에도 출연했다(8곡)."
+  },
+  "song-sohee": {
+    "basis": "최근 페스 세트 5회 (2025-12 ~ 2026-10, setlist.fm)",
+    "songs": [
+      { "title": "PARADE (生)", "tier": "likely", "seen": [3, 5], "note": "2026-06 발매 싱글. 발매 뒤 3회 모두 연주했고 그중 2회 오프닝" },
+      { "title": "스즈메 (SUZUME)", "tier": "likely", "seen": [3, 5] },
+      { "title": "A Blind Runner", "tier": "sure", "seen": [5, 5] },
+      { "title": "반짝놀이터 (Ashine!)", "tier": "likely", "seen": [3, 5] },
+      { "title": "Hamba kahle", "tier": "sure", "seen": [5, 5] },
+      { "title": "부서진 것들", "tier": "sure", "seen": [5, 5] },
+      { "title": "사슴신", "tier": "sure", "seen": [5, 5], "note": "setlist.fm 표기는 Forest Spirit" },
+      { "title": "알래스카의 사랑-해", "tier": "sure", "seen": [4, 5] },
+      { "title": "Not a Dream", "tier": "sure", "seen": [5, 5], "note": "떼창 구간을 직접 가르쳐 주는 곡. 대개 마지막 두 곡 안에 나옴" }
+    ],
+    "candidates": [
+      { "title": "세상은 요지경 (Asurajang)", "seen": [3, 5] },
+      { "title": "NANSEN", "seen": [1, 5] },
+      { "title": "공중무용 (GANGGANGSULLAE)", "seen": [1, 5] },
+      { "title": "구름곶 여행", "seen": [1, 5] }
+    ],
+    "sources": [
+      { "label": "setlist.fm 충주 파크 뮤직 페스티벌 26", "url": "https://www.setlist.fm/setlist/song-sohee/2026/tangeum-park-chungju-south-korea-337f6855.html" },
+      { "label": "setlist.fm Madly Medley 26", "url": "https://www.setlist.fm/setlist/song-sohee/2026/culture-storage-base-t2-seoul-south-korea-4371fb5b.html" },
+      { "label": "setlist.fm Soundberry Festa 26", "url": "https://www.setlist.fm/setlist/song-sohee/2026/kintex-hall-9-goyang-si-south-korea-3374fce9.html" },
+      { "label": "setlist.fm The Glow 26", "url": "https://www.setlist.fm/setlist/song-sohee/2026/kintex-hall-7-goyang-si-south-korea-6b4b1e2a.html" },
+      { "label": "setlist.fm Someday Christmas 25", "url": "https://www.setlist.fm/setlist/song-sohee/2025/busan-exhibition-and-convention-center-busan-south-korea-1b4e45e0.html" }
+    ],
+    "note": "최근 6개월 세트 중 곡 목록이 있는 것이 3회뿐이라 2025-12와 2026-03 세트까지 넣어 5회로 셌다. 5회 모두 9곡이었다."
+  },
+  "idiotape": {
+    "basis": "최근 페스 세트 5회 (2025-12 ~ 2026-10, setlist.fm)",
+    "songs": [
+      { "title": "Acid Punk", "tier": "maybe", "seen": [2, 5], "note": "최근 2회(전주·부산) 연속 오프닝" },
+      { "title": "Boiling Point", "tier": "sure", "seen": [4, 5] },
+      { "title": "Pluto", "tier": "sure", "seen": [5, 5] },
+      { "title": "Wasted", "tier": "likely", "seen": [3, 5] },
+      { "title": "Too Old to Die Young", "tier": "sure", "seen": [5, 5] },
+      { "title": "Melodie", "tier": "sure", "seen": [5, 5] },
+      { "title": "Future That Never Comes", "tier": "sure", "seen": [5, 5] },
+      { "title": "Great Nothing", "tier": "maybe", "seen": [2, 5] },
+      { "title": "Sunset Strip", "tier": "likely", "seen": [3, 5] },
+      { "title": "Even Floor", "tier": "sure", "seen": [5, 5], "note": "5회 중 3회 마지막, 2회 마지막 직전" }
+    ],
+    "candidates": [
+      { "title": "Perfect Moment", "seen": [2, 5] },
+      { "title": "Untold", "seen": [2, 5] },
+      { "title": "Plan Z", "seen": [2, 5] },
+      { "title": "With The Flow", "seen": [1, 5] }
+    ],
+    "sources": [
+      { "label": "setlist.fm 부산국제록페스티벌 26", "url": "https://www.setlist.fm/setlist/idiotape/2026/samnak-ecological-park-green-stage-busan-south-korea-4b7eff3e.html" },
+      { "label": "setlist.fm 전주 JUMF 26", "url": "https://www.setlist.fm/setlist/idiotape/2026/jeonju-university-jeonju-south-korea-1b729580.html" },
+      { "label": "setlist.fm One Universe Festival 26", "url": "https://www.setlist.fm/setlist/idiotape/2026/paradise-city-culture-park-incheon-south-korea-7b752e2c.html" },
+      { "label": "setlist.fm Peak Festival 26", "url": "https://www.setlist.fm/setlist/idiotape/2026/nanji-hangang-park-seoul-south-korea-43481b27.html" },
+      { "label": "setlist.fm Countdown Fantasy 25", "url": "https://www.setlist.fm/setlist/idiotape/2025/kintex-hall-6-goyang-si-south-korea-b4dad02.html" }
+    ],
+    "note": "연주곡 위주의 일렉트로닉 트리오라 가사가 있는 곡이 거의 없다. 곡 목록이 있는 세트가 5회뿐이다(안산·잔다리 등은 목록이 비어 있음)."
+  },
+  "thornapple": {
+    "basis": "최근 페스 세트 9회 (2026-05 ~ 10, setlist.fm)",
+    "songs": [
+      { "title": "플라네타리움", "tier": "sure", "seen": [5, 9], "note": "2026-06 미니 3집 '나의 세기' 타이틀곡. 발매 뒤 페스 5회 모두 연주(3회 오프닝)해 sure로 올림" },
+      { "title": "수성의 하루", "tier": "maybe", "seen": [4, 9] },
+      { "title": "석류의 맛", "tier": "maybe", "seen": [3, 9] },
+      { "title": "야광", "tier": "likely", "seen": [3, 9], "note": "'나의 세기' 수록곡. 발매 뒤 5회 중 3회라 likely로 올림" },
+      { "title": "살아있는 너의 밤", "tier": "maybe", "seen": [2, 9] },
+      { "title": "아카시아", "tier": "likely", "seen": [4, 9], "note": "'나의 세기' 수록곡. 발매 뒤 5회 중 4회라 likely로 올림" },
+      { "title": "멸종", "tier": "sure", "seen": [9, 9] },
+      { "title": "빨간 피터", "tier": "sure", "seen": [8, 9] },
+      { "title": "시퍼런 봄", "tier": "sure", "seen": [9, 9], "note": "대표 떼창곡. 9회 중 6회 마지막 곡" }
+    ],
+    "candidates": [
+      { "title": "한낮", "seen": [3, 9] },
+      { "title": "바다와 구름과 무대", "seen": [2, 9] },
+      { "title": "매미는 비가 와도 운다", "seen": [2, 9] },
+      { "title": "마술", "seen": [2, 9] }
+    ],
+    "sources": [
+      { "label": "setlist.fm Grand Mint Festival 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/kspo-dome-seoul-south-korea-6b730a86.html" },
+      { "label": "setlist.fm Let's Rock Festival 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/nanji-hangang-park-seoul-south-korea-23700097.html" },
+      { "label": "setlist.fm Sound Planet Festival 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/studio-paradise-incheon-south-korea-3b495878.html" },
+      { "label": "setlist.fm 펜타포트 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/songdo-moonlight-festival-park-kb-kookmin-card-stage-incheon-south-korea-5b74cf28.html" },
+      { "label": "setlist.fm Soundberry Festa 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/kintex-hall-9-goyang-si-south-korea-2374fcf3.html" },
+      { "label": "setlist.fm 칠포재즈페스티벌 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/chilpo-beach-pohang-south-korea-2b773c66.html" },
+      { "label": "setlist.fm Belleforet Week 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/belleforet-international-moto-arena-jungpyong-south-korea-237658f3.html" },
+      { "label": "setlist.fm Peak Festival 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/nanji-hangang-park-seoul-south-korea-53481b21.html" },
+      { "label": "setlist.fm LEMON MUSIC FESTIVAL 26", "url": "https://www.setlist.fm/setlist/thornapple/2026/dalseo-arts-center-daegu-south-korea-3b74fc24.html" }
+    ],
+    "note": "6월 미니 3집 '나의 세기' 발매 뒤 세트 구성이 바뀌어, 새 곡은 발매 뒤 5회 기준으로 등급을 매겼다. setlist.fm의 'Good Old Days'(2회)는 원제를 확인하지 못해 후보에서 뺐다."
+  },
+  "hanroro": {
+    "basis": "최근 페스·대학 축제 세트 14회 (2026-05 ~ 10, setlist.fm)",
+    "songs": [
+      { "title": "ㅈㅣㅂ", "tier": "sure", "seen": [14, 14], "note": "setlist.fm 표기는 H O M E" },
+      { "title": "먹이사슬", "tier": "likely", "seen": [11, 14] },
+      { "title": "용의자", "tier": "likely", "seen": [6, 14], "note": "7월 이후 7회 중 5회라 likely로 올림" },
+      { "title": "금붕어", "tier": "likely", "seen": [10, 14] },
+      { "title": "비틀비틀 짝짜꿍", "tier": "likely", "seen": [11, 14] },
+      { "title": "물음표", "tier": "maybe", "seen": null, "note": "2026-11-05 발매 디지털 싱글이라 아직 라이브 기록이 없음. 신곡이라 넣어 봄" },
+      { "title": "시간을 달리네", "tier": "maybe", "seen": [4, 14] },
+      { "title": "입춘", "tier": "sure", "seen": [14, 14] },
+      { "title": "0+0", "tier": "sure", "seen": [14, 14] },
+      { "title": "사랑하게 될 거야", "tier": "sure", "seen": [14, 14], "note": "팬덤 로켓단의 떼창곡" },
+      { "title": "너와 나", "tier": "sure", "seen": [8, 14], "note": "2026-07 발매 싱글. 발매 뒤 7회 모두 연주해 sure로 올림" },
+      { "title": "게임 오버 ?", "tier": "sure", "seen": [12, 14], "note": "후반 배치가 많음(14회 중 5회 마지막 곡)" }
+    ],
+    "candidates": [
+      { "title": "1111", "seen": [3, 14] },
+      { "title": "해초", "seen": [2, 14] },
+      { "title": "재", "seen": [2, 14] },
+      { "title": "도망", "seen": [2, 14] },
+      { "title": "자처", "seen": [2, 14] }
+    ],
+    "sources": [
+      { "label": "setlist.fm 부산국제록페스티벌 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/samnak-ecological-park-samrock-stage-busan-south-korea-7b730aac.html" },
+      { "label": "setlist.fm 계명대 축제 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/keimyung-university-daegu-south-korea-2b7f90b2.html" },
+      { "label": "setlist.fm 인하대 축제 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/inha-university-incheon-south-korea-6b7e622e.html" },
+      { "label": "setlist.fm 강원대 축제 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/kangwon-national-university-chuncheon-south-korea-7b7e6234.html" },
+      { "label": "setlist.fm Madly Medley 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/oil-tank-culture-park-seoul-south-korea-5371fb65.html" },
+      { "label": "setlist.fm SUMMER SONIC 26 도쿄", "url": "https://www.setlist.fm/setlist/hanroro/2026/makuhari-messe-kokusai-tenjijou-hall-8-chiba-japan-53737bdd.html" },
+      { "label": "setlist.fm Soundberry Festa 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/kintex-hall-9-goyang-si-south-korea-2b74fcd2.html" },
+      { "label": "setlist.fm 서울재즈페스티벌 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/kspo-dome-seoul-south-korea-53765b61.html" },
+      { "label": "setlist.fm 연세대 아카라카 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/yonsei-university-outdoor-theatre-seoul-south-korea-b74410e.html" },
+      { "label": "setlist.fm 세종대 축제 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/sejong-university-seoul-south-korea-4374b347.html" },
+      { "label": "setlist.fm 고려대 KULIMAX 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/korea-university-seoul-south-korea-23747cc3.html" },
+      { "label": "setlist.fm 킨텍스 야외무대 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/kintex-outdoor-stage-goyang-si-south-korea-b7649c2.html" },
+      { "label": "setlist.fm 숭실대 축제 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/soongsil-university-seoul-south-korea-6b775ad6.html" },
+      { "label": "setlist.fm 인천대 축제 26", "url": "https://www.setlist.fm/setlist/hanroro/2026/incheon-national-university-incheon-south-korea-7b77ee7c.html" }
+    ],
+    "note": "14회 중 상당수가 30~40분짜리 대학 축제라 전체 중앙값은 9곡이다. 원더리벳 슬롯(50분)과 비슷한 페스 세트(부산락페 13곡, 매들리메들리 12곡, 사운드베리 15곡)를 기준으로 12곡으로 잡았다."
+  },
+  "humbreaders": {
+    "basis": "최근 일본 페스 세트 10회 (2026-07 ~ 11, LiveFans)",
+    "songs": [
+      { "title": "オカルティック・ラブ", "tier": "likely", "seen": [5, 10] },
+      { "title": "常識の範疇", "tier": "sure", "seen": [9, 10] },
+      { "title": "ビリビリ", "tier": "likely", "seen": [6, 10] },
+      { "title": "グー", "tier": "sure", "seen": [9, 10] },
+      { "title": "ギター", "tier": "maybe", "seen": [3, 10] },
+      { "title": "BGMになるなよ", "tier": "maybe", "seen": [4, 10], "note": "9월 이후 4회 중 3회" },
+      { "title": "ちょっとロンリー", "tier": "maybe", "seen": [2, 10], "note": "가장 최근 4회 중 2회(ボロフェスタ·ベリテン)" },
+      { "title": "キッズリターン!", "tier": "sure", "seen": [10, 10], "note": "2026-06 발매 신곡. 10회 중 7회 본편 마지막 곡" }
+    ],
+    "candidates": [
+      { "title": "SUMMER PLANNING", "seen": [5, 10] },
+      { "title": "SUPER TOMODACHI", "seen": [3, 10] },
+      { "title": "ワールドイズマイン", "seen": [2, 10] },
+      { "title": "DAY DREAM BEAT", "seen": [2, 10] },
+      { "title": "ピース", "seen": [2, 10] }
+    ],
+    "sources": [
+      { "label": "LiveFans ボロフェスタ2026", "url": "https://www.livefans.jp/events/1983103" },
+      { "label": "LiveFans ROCK IN JAPAN FESTIVAL 2026", "url": "https://www.livefans.jp/events/1951471" },
+      { "label": "LiveFans TREASURE05X 2026", "url": "https://www.livefans.jp/events/1955455" },
+      { "label": "LiveFans ベリテンライブ2026", "url": "https://www.livefans.jp/events/1941653" },
+      { "label": "LiveFans SWEET LOVE SHOWER 2026", "url": "https://www.livefans.jp/events/1960431" },
+      { "label": "LiveFans Sky Jamboree 2026", "url": "https://www.livefans.jp/events/1943604" },
+      { "label": "LiveFans RISING SUN ROCK FESTIVAL 2026", "url": "https://www.livefans.jp/events/1941506" },
+      { "label": "LiveFans Talking Rock! FES.2026", "url": "https://www.livefans.jp/events/1950389" },
+      { "label": "LiveFans OSAKA GIGANTIC MUSIC FESTIVAL 2026", "url": "https://www.livefans.jp/events/1947719" },
+      { "label": "LiveFans MURO FESTIVAL 2026", "url": "https://www.livefans.jp/events/1947894" }
+    ],
+    "note": "일본 오사카 출신 3인조 록밴드 ハンブレッダーズ다(한국 팀 아님). setlist.fm 기록은 곡 목록이 비어 있어 LiveFans만 썼고, LiveFans의 'リハ'(리허설) 줄은 세지 않았다. 한국 공연 기록은 찾지 못했다. SUMMER PLANNING은 여름 페스에 몰려 있어(9월 이후 1/4) 후보로 내렸다."
+  },
+  "nell": {
+    "basis": "최근 페스·짧은 세트 7회 (2026-05 ~ 11, setlist.fm)",
+    "songs": [
+      { "title": "지구가 태양을 네번", "tier": "maybe", "seen": [2, 7], "note": "setlist.fm 표기는 Four Times Around the Sun. 11월 대만 2회 연속 연주" },
+      { "title": "기억을 걷는 시간", "tier": "sure", "seen": [7, 7], "note": "대표 떼창곡" },
+      { "title": "Stay", "tier": "likely", "seen": [4, 7] },
+      { "title": "Don't Let Me Go", "tier": "sure", "seen": [6, 7], "note": "2026-06 정규 10집 'X' 수록곡" },
+      { "title": "Sweet Delusion", "tier": "likely", "seen": [5, 7], "note": "정규 10집 'X' 타이틀곡" },
+      { "title": "1:03", "tier": "maybe", "seen": [3, 7] },
+      { "title": "Blue Eyes", "tier": "maybe", "seen": [3, 7], "note": "'X' 수록곡. 여름 세트 위주로 나옴" },
+      { "title": "Ocean of Light", "tier": "sure", "seen": [6, 7] },
+      { "title": "Hollow", "tier": "likely", "seen": [4, 7] },
+      { "title": "기생충", "tier": "likely", "seen": [5, 7], "note": "끝 무렵 곡. '믿어선 안될 말'이 이어지거나 아웃트로로 붙는 경우가 많음" }
+    ],
+    "candidates": [
+      { "title": "믿어선 안될 말", "seen": [2, 7] },
+      { "title": "Star Shell", "seen": [3, 7] },
+      { "title": "Dream catcher", "seen": [2, 7] },
+      { "title": "유령의 노래", "seen": [2, 7] },
+      { "title": "Good Night", "seen": [2, 7] }
+    ],
+    "sources": [
+      { "label": "setlist.fm 타이베이 버스킹 26-11-11", "url": "https://www.setlist.fm/setlist/nell/2026/xiangti-avenue-plaza-taipei-taiwan-637d0ecb.html" },
+      { "label": "setlist.fm Vagabond Festival 26", "url": "https://www.setlist.fm/setlist/nell/2026/sunset-platform-anping-tainan-city-taiwan-437f7f23.html" },
+      { "label": "setlist.fm 세종 보헤미안 뮤직 페스티벌 26", "url": "https://www.setlist.fm/setlist/nell/2026/sejong-central-park-sejong-special-self-governing-city-south-korea-b700d42.html" },
+      { "label": "setlist.fm NOL FESTIVAL 26", "url": "https://www.setlist.fm/setlist/nell/2026/kintex-hall-9-goyang-si-south-korea-13756979.html" },
+      { "label": "setlist.fm 전주 JUMF 26", "url": "https://www.setlist.fm/setlist/nell/2026/jeonju-university-jeonju-south-korea-b7295ae.html" },
+      { "label": "setlist.fm Palette Festival 26", "url": "https://www.setlist.fm/setlist/nell/2026/kintex-hall-9-goyang-si-south-korea-1b746d14.html" },
+      { "label": "setlist.fm 연세대 무악 페스티벌 26", "url": "https://www.setlist.fm/setlist/nell/2026/yonsei-university-outdoor-theatre-seoul-south-korea-3b74785c.html" }
+    ],
+    "note": "아산 버스킹 방송 녹화(100분), KBS 방송, 잇츠라이브, 단독 공연은 뺐다. 11/11 타이베이 세트는 야외 버스킹이지만 8곡짜리 짧은 세트라 넣었다. Stay·Hollow·Ocean of Light·1:03은 영문 제목 그대로 두었다(Hollow는 한글 원제가 있는지 확인하지 못함)."
+  },
+  "mrch": {
+    "basis": "최근 페스·행사 세트 8회 (2026-04 ~ 10, setlist.fm)",
+    "songs": [
+      { "title": "둥근노래", "tier": "likely", "seen": [4, 8], "note": "setlist.fm 표기는 'O'. '상생관계' 수록곡에 맞춘 추정 제목. 발매 뒤 5회 중 4회, 2회 오프닝" },
+      { "title": "Peachy", "tier": "likely", "seen": [5, 8], "note": "2025 펜타포트에서 사인 복숭아 모형을 객석에 던진 곡" },
+      { "title": "항복", "tier": "sure", "seen": [8, 8], "note": "setlist.fm 표기는 Surrender" },
+      { "title": "초록 (Green We Shared)", "tier": "likely", "seen": [5, 8] },
+      { "title": "텐텐", "tier": "likely", "seen": [4, 8], "note": "setlist.fm 표기는 10/10. '상생관계' 수록곡으로 발매 뒤 5회 중 4회" },
+      { "title": "다큐멘터리", "tier": "likely", "seen": [5, 8], "note": "'상생관계' 1번 트랙. 발매 뒤 5회 모두 연주" },
+      { "title": "지구를 가졌어도", "tier": "likely", "seen": [6, 8] },
+      { "title": "휴먼 매커니즘", "tier": "likely", "seen": [6, 8] },
+      { "title": "Love is a magic", "tier": "sure", "seen": [8, 8] },
+      { "title": "Color It", "tier": "sure", "seen": [7, 8], "note": "대개 마지막 곡" }
+    ],
+    "candidates": [
+      { "title": "비행소녀", "seen": [3, 8] },
+      { "title": "유일한 향기", "seen": [3, 8] },
+      { "title": "시소인간", "seen": [2, 8] },
+      { "title": "마치 무드", "seen": [2, 8] },
+      { "title": "Lovers", "seen": [2, 8] }
+    ],
+    "sources": [
+      { "label": "setlist.fm 부산국제록페스티벌 26", "url": "https://www.setlist.fm/setlist/mrch/2026/samnak-ecological-park-river-stage-busan-south-korea-4b7eff2e.html" },
+      { "label": "setlist.fm Muse On Festival 26", "url": "https://www.setlist.fm/setlist/mrch/2026/musinsa-garage-seoul-south-korea-5b71a780.html" },
+      { "label": "setlist.fm Korea Spotlight Indonesia 26", "url": "https://www.setlist.fm/setlist/mrch/2026/m-bloc-space-m-bloc-live-house-kota-administrasi-jakarta-selatan-indonesia-3b71fcbc.html" },
+      { "label": "setlist.fm 펜타포트 26", "url": "https://www.setlist.fm/setlist/mrch/2026/songdo-moonlight-festival-park-monster-energy-stage-incheon-south-korea-5374cf25.html" },
+      { "label": "setlist.fm Soundberry Festa 26", "url": "https://www.setlist.fm/setlist/mrch/2026/kintex-hall-9-goyang-si-south-korea-b72adc6.html" },
+      { "label": "setlist.fm 연세대 무악 페스티벌 26", "url": "https://www.setlist.fm/setlist/mrch/2026/yonsei-university-outdoor-theatre-seoul-south-korea-3b747868.html" },
+      { "label": "setlist.fm KT&G 상상페스티벌 26", "url": "https://www.setlist.fm/setlist/mrch/2026/ktandg-sangsangmadang-chuncheon-soundhall-chuncheon-south-korea-634b1e0f.html" },
+      { "label": "setlist.fm Cherry Blossom MUSIC FESTIVAL 26", "url": "https://www.setlist.fm/setlist/mrch/2026/jinhae-public-stadium-changwon-south-korea-6b76222e.html" }
+    ],
+    "note": "MRCH는 한국 싱어송라이터 윤마치(본명 윤지영)의 활동명이고 라이브는 밴드 편성이다. 미국 피닉스의 동명 듀오와는 다른 팀이다. 7월 미니앨범 '상생관계' 발매 뒤 세트가 바뀌어 새 곡은 발매 뒤 5회 기준으로 봤다. 'O'=둥근노래, 'misfit'=비행소녀는 수록곡끼리 짝지은 추정이다."
+  }
+}

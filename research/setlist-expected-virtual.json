@@ -1,0 +1,160 @@
+{
+  "suisei": {
+    "basis": "최근 페스·대반 세트 5회 (2025-08 ~ 2026-09, setlist.fm·LiveFans·utaten)",
+    "songs": [
+      { "title": "プリマドンナ", "tier": "likely", "seen": [2, 5], "note": "5회 중 2회지만 2026년 페스 2회(CENTRAL·RIJ)에 모두 나왔고 투어 오프너라 likely로 올림" },
+      { "title": "もうどうなってもいいや", "tier": "sure", "seen": [5, 5] },
+      { "title": "GUM&DROP", "tier": "maybe", "seen": [1, 5], "note": "RIJ 2026과 2026 투어에서 앞쪽에 나옴" },
+      { "title": "月に向かって撃て", "tier": "maybe", "seen": [1, 5], "note": "CENTRAL 2026에서 연주, RIJ 2026에서는 리허설만, hololive 7th fes 솔로곡" },
+      { "title": "綺麗事", "tier": "maybe", "seen": [2, 5] },
+      { "title": "AWAKE", "tier": "likely", "seen": [3, 5] },
+      { "title": "Stellar Stellar", "tier": "likely", "seen": [2, 5], "note": "5회 중 2회지만 2026년 페스 2회에 모두 나옴(RIJ에선 오프너). 대표곡이라 likely로 올림" },
+      { "title": "ソワレ", "tier": "likely", "seen": [2, 5], "note": "5회 중 2회지만 2026년 페스 2회와 투어에 모두 나와 likely로 올림" },
+      { "title": "ビビデバ", "tier": "sure", "seen": [5, 5], "note": "모든 세트에서 연주, 대개 마지막 곡. 코카콜라 X 페스에서는 이 곡만 촬영 허용" }
+    ],
+    "candidates": [
+      { "title": "TRUE GIRL SHOW", "seen": [2, 5] },
+      { "title": "DEADPOOL", "seen": [2, 5] },
+      { "title": "みちづれ", "seen": [1, 5] },
+      { "title": "ムーンライト", "seen": [1, 5] },
+      { "title": "天球、彗星は夜を跨いで", "seen": [1, 5] }
+    ],
+    "sources": [
+      { "label": "LiveFans サンボマスター 대반 25", "url": "https://www.livefans.jp/events/1805674" },
+      { "label": "setlist.fm Coca-Cola X Fes 25 DAY1", "url": "https://www.setlist.fm/setlist/hoshimachi-suisei/2025/saitama-super-arena-saitama-japan-b4efd52.html" },
+      { "label": "setlist.fm Coca-Cola X Fes 25 DAY2", "url": "https://www.setlist.fm/setlist/hoshimachi-suisei/2025/saitama-super-arena-saitama-japan-134efd51.html" },
+      { "label": "setlist.fm CENTRAL 2026", "url": "https://www.setlist.fm/setlist/hoshimachi-suisei/2026/yokohama-akarenga-sko-yokohama-japan-7b76fe74.html" },
+      { "label": "setlist.fm ROCK IN JAPAN 2026", "url": "https://www.setlist.fm/setlist/hoshimachi-suisei/2026/soga-sports-kouen-hillside-stage-chiba-japan-3b728800.html" },
+      { "label": "utaten ROCK IN JAPAN 2026 9/19", "url": "https://utaten.com/live/rock-in-japan-festival-2026-setlist-0919/" },
+      { "label": "2026 아레나 투어 셋리스트(참고)", "url": "https://tinpanblog.com/?p=70721" }
+    ],
+    "note": "한국 공연 기록은 없다. 페스 세트는 5~10곡이었고 원더리벳 슬롯은 50분이라 9곡으로 잡았다. 다음 날 Midnight Grand Orchestra 무대가 따로 있다."
+  },
+  "midnight-grand-orchestra": {
+    "basis": "페스·단축 세트 기록 없음 (LiveFans·setlist.fm 확인, 2024-02 원맨 1회만 참고)",
+    "songs": [
+      { "title": "Starpeggio", "tier": "maybe", "seen": null, "note": "2024 1st LIVE 연주곡" },
+      { "title": "夜を待つよ", "tier": "maybe", "seen": null, "note": "2024 1st LIVE에서 관객 박수가 나온 곡" },
+      { "title": "Blackhole Dancehall", "tier": "maybe", "seen": null, "note": "2024 1st LIVE에서 콜앤리스폰스가 있었던 곡" },
+      { "title": "Midnight Mission", "tier": "maybe", "seen": null, "note": "2024 1st LIVE 연주곡" },
+      { "title": "Moonlightspeed", "tier": "maybe", "seen": null, "note": "2024 1st LIVE 연주곡" },
+      { "title": "Allegro", "tier": "maybe", "seen": null, "note": "2024 1st LIVE 본편 마지막 곡" },
+      { "title": "Highway", "tier": "maybe", "seen": null, "note": "2024 1st LIVE 앙코르 마지막 곡" }
+    ],
+    "candidates": [
+      { "title": "Stellar Stellar", "seen": null },
+      { "title": "Igniter", "seen": null },
+      { "title": "流星群", "seen": null },
+      { "title": "Light The Light", "seen": null }
+    ],
+    "sources": [
+      { "label": "LiveFans MGO 공연 목록", "url": "https://www.livefans.jp/search?option=1&keyword=Midnight+Grand+Orchestra&sort=e1" },
+      { "label": "LiveFans 1st LIVE Midnight Mission 2024 (참고)", "url": "https://www.livefans.jp/events/1606240" },
+      { "label": "OTOTOY 1st LIVE 리포트", "url": "https://ototoy.jp/news/116757" },
+      { "label": "kai-you 1st EP Travelogue I 발표", "url": "https://kai-you.net/article/95524" }
+    ],
+    "note": "공연 기록이 2022 온라인 라이브와 2024 원맨뿐이고 원더리벳이 첫 페스로 보인다. 그래서 곡은 2024 원맨 셋리스트에서 고른 추정이다. 2026-08 1st EP 「Travelogue I」의 신곡 4곡이 나올 가능성이 높지만 제목을 확인하지 못했다."
+  },
+  "tak-miku-teto": {
+    "basis": "공연 기록 없음 (setlist.fm·LiveFans·뉴스 검색, 2026-11 기준)",
+    "songs": [
+      { "title": "mochimochi", "tier": "maybe", "seen": null, "note": "보카로P 데뷔곡 (feat. 初音ミク)" },
+      { "title": "LEMON MELON COOKIE", "tier": "maybe", "seen": null, "note": "feat. 初音ミク, 2026-10 프로세카 수록" },
+      { "title": "MTMTM", "tier": "maybe", "seen": null, "note": "feat. 初音ミク, 2026-02 발매" },
+      { "title": "numb numb", "tier": "maybe", "seen": null, "note": "미쿠·테토 곡, 2026-05 WIT STUDIO MV" },
+      { "title": "ミラーミラー", "tier": "maybe", "seen": null, "note": "미쿠·테토 신곡, 2026-11-03 발매" },
+      { "title": "PPPP", "tier": "maybe", "seen": null, "note": "미쿠·테토 최대 히트곡. 순서는 근거 없음" }
+    ],
+    "candidates": [
+      { "title": "孤独サイコ", "seen": null },
+      { "title": "未完成なサヨナラ", "seen": null }
+    ],
+    "sources": [
+      { "label": "Real Sound TAK 인터뷰 2025-12", "url": "https://realsound.jp/2025/12/post-2258252.html" },
+      { "label": "Anitrendz numb numb MV", "url": "https://www.anitrendz.com/news/2026/05/20/hatsune-miku-and-kasane-teto-share-a-dance-in-wit-studio-produced-numb-numb-music-video" },
+      { "label": "UtaTen ミラーミラー", "url": "https://utaten.com/lyric/mi26110435/" }
+    ],
+    "note": "TAK이 미쿠·테토와 함께 무대에 선 기록을 찾지 못했다. 첫 공연일 가능성이 높아 공연 형식과 곡 수를 알 수 없다. 곡은 발매곡 중 인기곡·최신곡에서 고른 추정이다."
+  },
+  "aiweo": {
+    "basis": "공연 셋리스트 없음 (setlist.fm에 2026-11-08 단독 공연 항목만 있고 곡 목록은 비어 있음)",
+    "songs": [
+      { "title": "신발끈", "tier": "maybe", "seen": null, "note": "데뷔 EP 수록곡, 공식 LIVE 영상 있음" },
+      { "title": "00FF00", "tier": "maybe", "seen": null, "note": "데뷔 EP 수록곡, MV 있음" },
+      { "title": "생채기", "tier": "maybe", "seen": null, "note": "데뷔 EP 수록곡, 공식 LIVE 영상 있음" },
+      { "title": "아이우에오", "tier": "maybe", "seen": null, "note": "데뷔 EP 타이틀곡(기사에 따라 'AIWEO'로 표기). 순서는 근거 없음" }
+    ],
+    "candidates": [],
+    "sources": [
+      { "label": "스포츠경향 AIWEO 데뷔·원더리벳 출연", "url": "https://sports.khan.co.kr/en/article/202609052352007/" },
+      { "label": "스포츠경향 어센틱 신인 걸밴드 팀명 공개", "url": "https://sports.khan.co.kr/en/article/202608280812007" },
+      { "label": "setlist.fm 단독 공연 2026-11-08 (곡 목록 없음)", "url": "https://www.setlist.fm/setlist/a-i-w-e-o/2026/yes24-wanderloch-hall-seoul-south-korea-2b7c4c86.html" }
+    ],
+    "note": "어센틱(한로로 소속사)의 한국 4인조 신인 걸밴드로, 2026-09 데뷔 EP 『BE MY HUG』를 냈다. 원더리벳이 데뷔 후 첫 페스다. 셋리스트 자료가 전혀 없어 EP 수록곡을 나열만 했다."
+  },
+  "shepherd-bois": {
+    "basis": "셋리스트 없음 (setlist.fm에 2025~2026 공연 16건이 있지만 곡 목록이 모두 비어 있음)",
+    "songs": [
+      { "title": "구름을 타고", "tier": "maybe", "seen": null, "note": "정규 1집 선공개 싱글" },
+      { "title": "핵폭탄 발사 버튼", "tier": "maybe", "seen": null, "note": "EP 『사랑놀이』 타이틀, 대학가요제 준결승 곡" },
+      { "title": "꽃은 좋지도 싫지도", "tier": "maybe", "seen": null, "note": "2026-08 더블 싱글 『꽃』 타이틀" },
+      { "title": "운명인가", "tier": "maybe", "seen": null, "note": "정규 1집 수록, 대학가요제 결선 곡" },
+      { "title": "락스타가 된대도 난 너만 있으면 돼", "tier": "maybe", "seen": null, "note": "정규 1집 『우리』 타이틀. 순서는 근거 없음" }
+    ],
+    "candidates": [
+      { "title": "명예와 영광 (그리움과 기다림)", "seen": null },
+      { "title": "사춘기", "seen": null },
+      { "title": "ADHD", "seen": null }
+    ],
+    "sources": [
+      { "label": "setlist.fm 양치기소년단 공연 목록", "url": "https://www.setlist.fm/setlists/the-shepherd-bois-5b911b5c.html" },
+      { "label": "나무위키 양치기소년단", "url": "https://namu.wiki/w/%EC%96%91%EC%B9%98%EA%B8%B0%EC%86%8C%EB%85%84%EB%8B%A8" },
+      { "label": "뉴시스 인터뷰 2026-02", "url": "https://www.newsis.com/view/NISX20260129_0003494660" }
+    ],
+    "note": "한국 5인조 인디 록 밴드다(2003년생, 두루두루 아티스트 컴퍼니). 페스 출연은 많지만 공개된 셋리스트가 없어 타이틀곡·최신곡에서 고른 추정이다."
+  },
+  "tomatomat": {
+    "basis": "셋리스트 없음 (setlist.fm에 2026-09 Block Party Festival 한 건만 있고 곡 목록은 비어 있음)",
+    "songs": [
+      { "title": "토마노바", "tier": "maybe", "seen": null, "note": "2025-07 데뷔 싱글 (Tomma Nova)" },
+      { "title": "머쉬룸 하우스", "tier": "maybe", "seen": null, "note": "2025-10 싱글 (Mushroom House)" },
+      { "title": "레몬 앤 샤베트", "tier": "maybe", "seen": null, "note": "EP 『토마토맛 도시락』 수록" },
+      { "title": "오렌지 런웨이", "tier": "maybe", "seen": null, "note": "EP 『토마토맛 도시락』 수록" },
+      { "title": "콜렉트콜 개러지", "tier": "maybe", "seen": null, "note": "2025-12 싱글, 대표곡. 순서는 근거 없음" }
+    ],
+    "candidates": [
+      { "title": "콜렉트콜 개러지 1년 後…", "seen": null }
+    ],
+    "sources": [
+      { "label": "setlist.fm Block Party Festival 2026 (곡 목록 없음)", "url": "https://www.setlist.fm/setlist/tomatomat/2026/uplift-seoul-south-korea-b716d92.html" },
+      { "label": "위버스 매거진 토마토맛 기사", "url": "https://newneek.co/@weversemagazine/article/46038" },
+      { "label": "The Kraze 토마토맛 소개", "url": "https://thekrazemag.com/latest-updates/2026/2/17/the-nostalgic-shibuya-kei-sound-of-tomatomat" }
+    ],
+    "note": "2025년 데뷔한 한국 3인조 시부야계 밴드다. 셋리스트 자료가 없어 발매곡을 나열만 했다. 라이브에서는 곡을 새로 편곡하고 안무를 넣는다고 한다."
+  },
+  "kuromi": {
+    "basis": "최근 페스·단축 세트 3회 (2025-10 ~ 2026-01, LiveFans·Real Sound)",
+    "songs": [
+      { "title": "KUROMI♡Profile", "tier": "sure", "seen": [3, 3] },
+      { "title": "チューニングダンサー", "tier": "sure", "seen": [3, 3] },
+      { "title": "Greedy Greedy", "tier": "likely", "seen": [2, 3] },
+      { "title": "Dolce Vita", "tier": "likely", "seen": [2, 3] },
+      { "title": "OHIRUNE DAY DREAM", "tier": "sure", "seen": [3, 3], "note": "메이저 데뷔곡" },
+      { "title": "ハピハロ!!", "tier": "sure", "seen": [3, 3], "note": "1st EP 리드곡, Zepp 투어 본편 마지막 곡" },
+      { "title": "love me, love me now", "tier": "likely", "seen": [2, 3], "note": "CDJ 25/26 마지막 곡, 2nd EP 1번 곡" }
+    ],
+    "candidates": [
+      { "title": "デタラメ", "seen": [1, 3] },
+      { "title": "BLACK×DECO×FUTURE", "seen": [1, 3] },
+      { "title": "WANNA BE KUROMI", "seen": [0, 3] },
+      { "title": "LOOK AT ME", "seen": [0, 3] }
+    ],
+    "sources": [
+      { "label": "Real Sound 가부키초 프리 라이브 25-10", "url": "https://realsound.jp/2025/10/post-2197669.html" },
+      { "label": "LiveFans COUNTDOWN JAPAN 25/26", "url": "https://www.livefans.jp/events/1872150" },
+      { "label": "LiveFans Zepp TOUR 2026 파이널", "url": "https://www.livefans.jp/events/1906712" },
+      { "label": "산리오 버추얼 퓨로랜드 KUROMI 소개", "url": "https://v-puroland.sanrio.co.jp/contents/KUROMI" }
+    ],
+    "note": "산리오 캐릭터 쿠로미를 내세운 일본 버추얼 아티스트 프로젝트(2025-10 메이저 데뷔)이고, 첫 한국 공연이다. 2026년 페스 출연(STARRY NIGHT FES, Hello Journey 등)은 셋리스트가 등록되지 않아, 집계한 세트가 모두 6개월이 넘었고 2nd EP(2026-06) 이후의 세트가 없다."
+  }
+}
