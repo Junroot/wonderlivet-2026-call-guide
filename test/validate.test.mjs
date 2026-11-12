@@ -132,6 +132,7 @@ test('CLI: 오류가 있으면 종료 코드 1, 색인 없음 / 경고만 있으
   try {
     await mkdir(join(root, 'data', 'songs', 'oral'), { recursive: true });
     await writeFile(join(root, 'data', 'lineup.json'), JSON.stringify(lineup));
+    await writeFile(join(root, 'data', 'setlists.json'), JSON.stringify({ updated: '2026-11-12', artists: {} }));
     const songPath = join(root, 'data', 'songs', 'oral', 'oral-test.json');
     const indexPath = join(root, 'data', 'songs', 'index.json');
 

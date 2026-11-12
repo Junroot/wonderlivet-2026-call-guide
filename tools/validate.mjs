@@ -5,6 +5,7 @@ import { readFile, readdir, writeFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validateAll } from './lib/validate-songs.mjs';
+import { validateSetlists } from './lib/validate-setlists.mjs';
 
 const args = process.argv.slice(2);
 const rootIdx = args.indexOf('--root');
@@ -51,9 +52,25 @@ for (const file of await listSongFiles(join(root, 'data', 'songs'))) {
 const result = lineup ? validateAll({ lineup, songs }) : { errors: [], warnings: [], index: null };
 errors.push(...result.errors);
 
+let setlistCount = 0;
+try {
+  const setlists = await readJson(join(root, 'data', 'setlists.json'));
+  if (lineup) {
+    const r = validateSetlists(setlists, {
+      artistIds: new Set((lineup.artists ?? []).map((a) => a.id)),
+      songs: new Map(songs.map(({ data }) => [data?.id, { artistId: data?.artistId }])),
+    });
+    errors.push(...r.errors);
+    result.warnings.push(...r.warnings);
+  }
+  setlistCount = Object.keys(setlists?.artists ?? {}).length;
+} catch (e) {
+  errors.push({ where: 'data/setlists.json', message: `읽기 실패: ${e.message}` });
+}
+
 for (const w of result.warnings) console.warn(`경고  ${w.where}: ${w.message}`);
 for (const e of errors) console.error(`오류  ${e.where}: ${e.message}`);
-console.log(`곡 ${songs.length}개, 오류 ${errors.length}개, 경고 ${result.warnings.length}개`);
+console.log(`곡 ${songs.length}개, 세트리스트 ${setlistCount}팀, 오류 ${errors.length}개, 경고 ${result.warnings.length}개`);
 
 if (errors.length || !result.index) {
   console.error('오류가 있어 index.json을 생성하지 않았습니다.');
