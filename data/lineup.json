@@ -138,6 +138,66 @@
       "rituals": []
     },
     {
+      "id": "aiweo",
+      "name": "A I W E O",
+      "nameKo": "아이우에오",
+      "date": "2026-11-20",
+      "stage": "LIVET",
+      "start": "12:00",
+      "end": "12:30",
+      "rituals": []
+    },
+    {
+      "id": "song-sohee",
+      "name": "SONG SOHEE",
+      "nameKo": "송소희",
+      "date": "2026-11-20",
+      "stage": "WONDER",
+      "start": "14:50",
+      "end": "15:30",
+      "rituals": []
+    },
+    {
+      "id": "da-ice",
+      "name": "Da-iCE",
+      "nameKo": "다이스",
+      "date": "2026-11-20",
+      "stage": "WONDER",
+      "start": "16:10",
+      "end": "16:50",
+      "rituals": []
+    },
+    {
+      "id": "idiotape",
+      "name": "IDIOTAPE",
+      "nameKo": "이디오테잎",
+      "date": "2026-11-20",
+      "stage": "LIVET",
+      "start": "16:50",
+      "end": "17:35",
+      "rituals": []
+    },
+    {
+      "id": "amazarashi",
+      "name": "amazarashi",
+      "nameKo": "아마자라시",
+      "date": "2026-11-20",
+      "stage": "WONDER",
+      "start": "17:35",
+      "end": "18:20",
+      "rituals": []
+    },
+    {
+      "id": "thornapple",
+      "name": "THORNAPPLE",
+      "nameKo": "쏜애플",
+      "date": "2026-11-20",
+      "stage": "LIVET",
+      "start": "18:20",
+      "end": "19:10",
+      "rituals": []
+    },
+    {
       "id": "alexandros",
       "name": "[Alexandros]",
       "nameKo": "알렉산드로스",
@@ -234,6 +294,66 @@
       "rituals": []
     },
     {
+      "id": "shepherd-bois",
+      "name": "The Shepherd Bois",
+      "nameKo": "양치기소년단",
+      "date": "2026-11-21",
+      "stage": "LIVET",
+      "start": "12:00",
+      "end": "12:30",
+      "rituals": []
+    },
+    {
+      "id": "midnight-grand-orchestra",
+      "name": "Midnight Grand Orchestra",
+      "nameKo": "미드나잇 그랜드 오케스트라",
+      "date": "2026-11-21",
+      "stage": "WONDER",
+      "start": "12:30",
+      "end": "13:00",
+      "rituals": []
+    },
+    {
+      "id": "tak-miku-teto",
+      "name": "TAK with Hatsune Miku & Kasane Teto",
+      "nameKo": "TAK with 하츠네 미쿠 & 카사네 테토",
+      "date": "2026-11-21",
+      "stage": "LIVET",
+      "start": "13:00",
+      "end": "13:35",
+      "rituals": []
+    },
+    {
+      "id": "tani-yuuki",
+      "name": "Tani Yuuki",
+      "nameKo": "타니 유우키",
+      "date": "2026-11-21",
+      "stage": "LIVET",
+      "start": "14:10",
+      "end": "14:50",
+      "rituals": []
+    },
+    {
+      "id": "indigo-la-end",
+      "name": "indigo la End",
+      "nameKo": "인디고 라 엔드",
+      "date": "2026-11-21",
+      "stage": "LIVET",
+      "start": "16:50",
+      "end": "17:35",
+      "rituals": []
+    },
+    {
+      "id": "hanroro",
+      "name": "HANRORO",
+      "nameKo": "한로로",
+      "date": "2026-11-21",
+      "stage": "WONDER",
+      "start": "19:10",
+      "end": "20:00",
+      "rituals": []
+    },
+    {
       "id": "chevon",
       "name": "Chevon",
       "nameKo": "셰본",
@@ -318,6 +438,76 @@
       "stage": "WONDER",
       "start": "13:35",
       "end": "14:10",
+      "rituals": []
+    },
+    {
+      "id": "tomatomat",
+      "name": "Tomatomat",
+      "nameKo": "토마토맛",
+      "date": "2026-11-22",
+      "stage": "LIVET",
+      "start": "12:00",
+      "end": "12:30",
+      "rituals": []
+    },
+    {
+      "id": "kuromi",
+      "name": "KUROMI",
+      "nameKo": "쿠로미",
+      "date": "2026-11-22",
+      "stage": "WONDER",
+      "start": "12:30",
+      "end": "13:00",
+      "rituals": []
+    },
+    {
+      "id": "brandy-senki",
+      "name": "BRANDY SENKI",
+      "nameKo": "브랜디 센키",
+      "date": "2026-11-22",
+      "stage": "LIVET",
+      "start": "13:00",
+      "end": "13:35",
+      "rituals": []
+    },
+    {
+      "id": "mrch",
+      "name": "MRCH",
+      "nameKo": "윤마치",
+      "date": "2026-11-22",
+      "stage": "LIVET",
+      "start": "16:50",
+      "end": "17:35",
+      "rituals": []
+    },
+    {
+      "id": "humbreaders",
+      "name": "HUMBREADERS",
+      "nameKo": "험브레더즈",
+      "date": "2026-11-22",
+      "stage": "WONDER",
+      "start": "17:35",
+      "end": "18:20",
+      "rituals": []
+    },
+    {
+      "id": "nell",
+      "name": "NELL",
+      "nameKo": "넬",
+      "date": "2026-11-22",
+      "stage": "WONDER",
+      "start": "19:10",
+      "end": "20:00",
+      "rituals": []
+    },
+    {
+      "id": "sukimaswitch",
+      "name": "SUKIMASWITCH",
+      "nameKo": "스키마스위치",
+      "date": "2026-11-22",
+      "stage": "LIVET",
+      "start": "20:00",
+      "end": "21:00",
       "rituals": []
     }
   ]
