@@ -3,6 +3,7 @@ const WHERE = 'data/setlists.json';
 const TIERS = new Set(['sure', 'likely', 'maybe']);
 const ENTRY_KEYS = ['basis', 'songs', 'candidates', 'sources', 'note'];
 const isStr = (v) => typeof v === 'string' && v.length > 0;
+const SPOTIFY_TRACK = /^https:\/\/open\.spotify\.com\/track\/[A-Za-z0-9]{22}$/;
 
 function isSeen(v) {
   if (v === null) return true;
@@ -22,6 +23,9 @@ function checkSong(song, { at, artistId, needsTier, songs, err }) {
     const target = songs.get(song.songId);
     if (!target) err(at, `없는 songId: ${song.songId}`);
     else if (target.artistId !== artistId) err(at, `다른 아티스트의 songId: ${song.songId} (${target.artistId})`);
+  }
+  if (song?.spotify !== undefined && !SPOTIFY_TRACK.test(song.spotify)) {
+    err(at, `spotify는 https://open.spotify.com/track/<22자 id> 형식이어야 함: ${song.spotify}`);
   }
 }
 

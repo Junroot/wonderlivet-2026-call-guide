@@ -15,7 +15,20 @@ function sourceLinks(sources) {
 
 const seenText = (seen) => seen && `${seen[0]}/${seen[1]}`;
 
-function setlistSection(setlist, updated) {
+// 트랙 주소가 있으면 그 곡으로, 없으면 Spotify에서 "아티스트명 곡명"을 검색한다.
+export function spotifyLink(song, artist) {
+  if (song.spotify) return { href: song.spotify, direct: true };
+  return { href: `https://open.spotify.com/search/${encodeURIComponent(`${artist.name} ${song.title}`)}`, direct: false };
+}
+
+function spotifyAnchor(song, artist, label) {
+  const { href, direct } = spotifyLink(song, artist);
+  return h('a.setlist-spotify', {
+    href, target: '_blank', rel: 'noopener', title: direct ? 'Spotify에서 듣기' : 'Spotify에서 검색',
+  }, label ?? (direct ? '♪ Spotify' : '♪ Spotify 검색'));
+}
+
+function setlistSection(setlist, updated, artist) {
   const { songs, candidates } = setlist;
   return h('section.setlist',
     h('h2.section-label', h('span', 'SETLIST'), songs.length ? `예상 세트리스트 (약 ${songs.length}곡)` : '예상 세트리스트'),
@@ -25,12 +38,14 @@ function setlistSection(setlist, updated) {
         h('span.tier', { class: `tier-${s.tier}` }, TIER_LABEL[s.tier] ?? s.tier),
         s.seen && h('span.setlist-seen', { title: '최근 공연 등장 횟수' }, seenText(s.seen)),
         s.songId && h('a.setlist-practice', { href: `#/song/${s.songId}` }, '▶ 연습'),
+        spotifyAnchor(s, artist),
         s.note && h('span.setlist-note', s.note))))
       : h('p.empty', '예상할 근거가 부족합니다.'),
     candidates.length > 0 && h('p.setlist-candidates', '후보: ', candidates.map((c, i) => [
       i > 0 && ' · ',
       c.songId ? h('a', { href: `#/song/${c.songId}` }, c.title) : c.title,
       c.seen && ` (${seenText(c.seen)})`,
+      ' ', spotifyAnchor(c, artist, '♪'),
     ])),
     setlist.note && h('p.setlist-memo', setlist.note),
     h('p.sources', `근거: ${setlist.basis}`),
@@ -59,7 +74,7 @@ export async function artistView(container, { id }) {
         h('p', r.description),
         h('p.sources', '출처: ', sourceLinks(r.sources))))) : '',
 
-    setlists.has(id) ? setlistSection(setlists.get(id), setlistsUpdated) : '',
+    setlists.has(id) ? setlistSection(setlists.get(id), setlistsUpdated, artist) : '',
 
     h('section.songs',
       h('h2.section-label', h('span', 'SONGS'), `곡 ${songs.length}개`),

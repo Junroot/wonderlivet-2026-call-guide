@@ -102,3 +102,13 @@ test('lineup에 있는데 세트리스트가 없는 아티스트는 경고만', 
   assert.equal(r.warnings.length, 1);
   assert.match(messages(r.warnings), /jo0ji/);
 });
+
+test('spotify는 트랙 주소일 때만 통과', () => {
+  const ok = check(makeEntry({ songs: [{ title: 'x', tier: 'sure', seen: [1, 1], spotify: 'https://open.spotify.com/track/2EHcM94vAEYFlNXXosOHRp' }] }));
+  assert.deepEqual(ok.errors, []);
+  for (const spotify of ['https://open.spotify.com/album/2EHcM94vAEYFlNXXosOHRp', 'spotify:track:2EHcM94vAEYFlNXXosOHRp',
+    'https://open.spotify.com/track/short', '']) {
+    const r = check(makeEntry({ candidates: [{ title: 'y', seen: null, spotify }] }));
+    assert.match(messages(r.errors), /spotify/, spotify);
+  }
+});

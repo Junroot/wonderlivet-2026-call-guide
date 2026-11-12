@@ -329,7 +329,8 @@ p { margin: 0 0 8px; }
 .tier-sure { background: var(--orange); border-color: var(--orange); color: var(--ink); }
 .tier-likely { border-color: var(--orange); color: var(--orange-soft); }
 .setlist-seen { font-size: 0.8rem; color: var(--muted); font-variant-numeric: tabular-nums; }
-.setlist-practice { font-size: 0.8rem; font-weight: 700; white-space: nowrap; }
+.setlist-practice, .setlist-spotify { font-size: 0.8rem; font-weight: 700; white-space: nowrap; }
+.setlist-spotify { color: #1ed760; }
 .setlist-note { flex: 1 1 100%; font-size: 0.78rem; color: var(--muted); padding-left: calc(1.6em + 8px); }
 .setlist-candidates, .setlist-memo { font-size: 0.88rem; margin: 6px 0; overflow-wrap: anywhere; }
 .setlist-memo { color: var(--warn); }
