@@ -205,8 +205,11 @@ p { margin: 0 0 8px; }
 .day-tab[aria-selected="true"] { color: var(--orange); border-color: var(--orange); background: var(--orange-fade); text-shadow: 0 0 16px rgba(255, 92, 0, 0.45); }
 
 .artist-list, .song-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+/* 넓은 화면: 스테이지별 2열, 카드를 반 칸씩 엇갈려 윗변이 시간순이 되게 (home.js staggerPlacement) */
 @media (min-width: 700px) {
   .artist-list { grid-template-columns: repeat(2, 1fr); }
+  .artist-list > li { display: flex; grid-row: var(--row) / span 2; grid-column: var(--col); }
+  .artist-list .artist-card { flex: 1; }
 }
 
 /* 공식 타임테이블 카드: WONDER는 주황 채움, LIVET은 주황 테두리 */

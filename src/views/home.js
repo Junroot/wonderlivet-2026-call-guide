@@ -19,6 +19,21 @@ function byStart(a, b) {
   return 0;
 }
 
+// 넓은 화면의 엇갈린 2열 배치. 시간순으로 정렬된 아티스트마다 { row, col }을 돌려준다.
+// 카드는 두 줄을 차지하고, 카드마다 앞 카드보다 한 줄 이상 아래에서 시작해 윗변이 시간순이 된다.
+// LIVET은 왼쪽(1열), WONDER는 오른쪽(2열), 스테이지 미정은 왼쪽.
+export function staggerPlacement(artists) {
+  const nextFree = { 1: 1, 2: 1 };
+  let prevRow = 0;
+  return artists.map((a) => {
+    const col = a.stage === 'WONDER' ? 2 : 1;
+    const row = Math.max(prevRow + 1, nextFree[col]);
+    nextFree[col] = row + 2;
+    prevRow = row;
+    return { row, col };
+  });
+}
+
 const DOW = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
 
 function dayParts(date) {
@@ -58,8 +73,9 @@ export async function homeView(container, _params, query) {
     .filter((a) => a.date === selected && (songsByArtist.has(a.id) || setlists.has(a.id)))
     .sort(byStart);
 
+  const places = staggerPlacement(artists);
   const list = artists.length
-    ? h('ul.artist-list', artists.map((a) => h('li',
+    ? h('ul.artist-list', artists.map((a, i) => h('li', { style: `--row: ${places[i].row}; --col: ${places[i].col}` },
       h('a.artist-card', { href: `#/artist/${a.id}`, class: stageClass(a) },
         h('span.artist-name', a.name),
         h('span.artist-time', timeText(a)),
